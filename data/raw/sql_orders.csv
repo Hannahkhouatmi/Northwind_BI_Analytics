@@ -1,0 +1,831 @@
+OrderID,CustomerID,CompanyName,EmployeeID,EmployeeName,OrderDate,ShippedDate
+10248,VINET,Vins et alcools Chevalier,5,Steven Buchanan,1996-07-04,1996-07-16
+10249,TOMSP,Toms Spezialitäten,6,Michael Suyama,1996-07-05,1996-07-10
+10250,HANAR,Hanari Carnes,4,Margaret Peacock,1996-07-08,1996-07-12
+10251,VICTE,Victuailles en stock,3,Janet Leverling,1996-07-08,1996-07-15
+10252,SUPRD,Suprêmes délices,4,Margaret Peacock,1996-07-09,1996-07-11
+10253,HANAR,Hanari Carnes,3,Janet Leverling,1996-07-10,1996-07-16
+10254,CHOPS,Chop-suey Chinese,5,Steven Buchanan,1996-07-11,1996-07-23
+10255,RICSU,Richter Supermarkt,9,Anne Dodsworth,1996-07-12,1996-07-15
+10256,WELLI,Wellington Importadora,3,Janet Leverling,1996-07-15,1996-07-17
+10257,HILAA,HILARION-Abastos,4,Margaret Peacock,1996-07-16,1996-07-22
+10258,ERNSH,Ernst Handel,1,Nancy Davolio,1996-07-17,1996-07-23
+10259,CENTC,Centro comercial Moctezuma,4,Margaret Peacock,1996-07-18,1996-07-25
+10260,OTTIK,Ottilies Käseladen,4,Margaret Peacock,1996-07-19,1996-07-29
+10261,QUEDE,Que Delícia,4,Margaret Peacock,1996-07-19,1996-07-30
+10262,RATTC,Rattlesnake Canyon Grocery,8,Laura Callahan,1996-07-22,1996-07-25
+10263,ERNSH,Ernst Handel,9,Anne Dodsworth,1996-07-23,1996-07-31
+10264,FOLKO,Folk och fä HB,6,Michael Suyama,1996-07-24,1996-08-23
+10265,BLONP,Blondesddsl père et fils,2,Andrew Fuller,1996-07-25,1996-08-12
+10266,WARTH,Wartian Herkku,3,Janet Leverling,1996-07-26,1996-07-31
+10267,FRANK,Frankenversand,4,Margaret Peacock,1996-07-29,1996-08-06
+10268,GROSR,GROSELLA-Restaurante,8,Laura Callahan,1996-07-30,1996-08-02
+10269,WHITC,White Clover Markets,5,Steven Buchanan,1996-07-31,1996-08-09
+10270,WARTH,Wartian Herkku,1,Nancy Davolio,1996-08-01,1996-08-02
+10271,SPLIR,Split Rail Beer & Ale,6,Michael Suyama,1996-08-01,1996-08-30
+10272,RATTC,Rattlesnake Canyon Grocery,6,Michael Suyama,1996-08-02,1996-08-06
+10273,QUICK,QUICK-Stop,3,Janet Leverling,1996-08-05,1996-08-12
+10274,VINET,Vins et alcools Chevalier,6,Michael Suyama,1996-08-06,1996-08-16
+10275,MAGAA,Magazzini Alimentari Riuniti,1,Nancy Davolio,1996-08-07,1996-08-09
+10276,TORTU,Tortuga Restaurante,8,Laura Callahan,1996-08-08,1996-08-14
+10277,MORGK,Morgenstern Gesundkost,2,Andrew Fuller,1996-08-09,1996-08-13
+10278,BERGS,Berglunds snabbköp,8,Laura Callahan,1996-08-12,1996-08-16
+10279,LEHMS,Lehmanns Marktstand,8,Laura Callahan,1996-08-13,1996-08-16
+10280,BERGS,Berglunds snabbköp,2,Andrew Fuller,1996-08-14,1996-09-12
+10281,ROMEY,Romero y tomillo,4,Margaret Peacock,1996-08-14,1996-08-21
+10282,ROMEY,Romero y tomillo,4,Margaret Peacock,1996-08-15,1996-08-21
+10283,LILAS,LILA-Supermercado,3,Janet Leverling,1996-08-16,1996-08-23
+10284,LEHMS,Lehmanns Marktstand,4,Margaret Peacock,1996-08-19,1996-08-27
+10285,QUICK,QUICK-Stop,1,Nancy Davolio,1996-08-20,1996-08-26
+10286,QUICK,QUICK-Stop,8,Laura Callahan,1996-08-21,1996-08-30
+10287,RICAR,Ricardo Adocicados,8,Laura Callahan,1996-08-22,1996-08-28
+10288,REGGC,Reggiani Caseifici,4,Margaret Peacock,1996-08-23,1996-09-03
+10289,BSBEV,B's Beverages,7,Robert King,1996-08-26,1996-08-28
+10290,COMMI,Comércio Mineiro,8,Laura Callahan,1996-08-27,1996-09-03
+10291,QUEDE,Que Delícia,6,Michael Suyama,1996-08-27,1996-09-04
+10292,TRADH,Tradição Hipermercados,1,Nancy Davolio,1996-08-28,1996-09-02
+10293,TORTU,Tortuga Restaurante,1,Nancy Davolio,1996-08-29,1996-09-11
+10294,RATTC,Rattlesnake Canyon Grocery,4,Margaret Peacock,1996-08-30,1996-09-05
+10295,VINET,Vins et alcools Chevalier,2,Andrew Fuller,1996-09-02,1996-09-10
+10296,LILAS,LILA-Supermercado,6,Michael Suyama,1996-09-03,1996-09-11
+10297,BLONP,Blondesddsl père et fils,5,Steven Buchanan,1996-09-04,1996-09-10
+10298,HUNGO,Hungry Owl All-Night Grocers,6,Michael Suyama,1996-09-05,1996-09-11
+10299,RICAR,Ricardo Adocicados,4,Margaret Peacock,1996-09-06,1996-09-13
+10300,MAGAA,Magazzini Alimentari Riuniti,2,Andrew Fuller,1996-09-09,1996-09-18
+10301,WANDK,Die Wandernde Kuh,8,Laura Callahan,1996-09-09,1996-09-17
+10302,SUPRD,Suprêmes délices,4,Margaret Peacock,1996-09-10,1996-10-09
+10303,GODOS,Godos Cocina Típica,7,Robert King,1996-09-11,1996-09-18
+10304,TORTU,Tortuga Restaurante,1,Nancy Davolio,1996-09-12,1996-09-17
+10305,OLDWO,Old World Delicatessen,8,Laura Callahan,1996-09-13,1996-10-09
+10306,ROMEY,Romero y tomillo,1,Nancy Davolio,1996-09-16,1996-09-23
+10307,LONEP,Lonesome Pine Restaurant,2,Andrew Fuller,1996-09-17,1996-09-25
+10308,ANATR,Ana Trujillo Emparedados y helados,7,Robert King,1996-09-18,1996-09-24
+10309,HUNGO,Hungry Owl All-Night Grocers,3,Janet Leverling,1996-09-19,1996-10-23
+10310,THEBI,The Big Cheese,8,Laura Callahan,1996-09-20,1996-09-27
+10311,DUMON,Du monde entier,1,Nancy Davolio,1996-09-20,1996-09-26
+10312,WANDK,Die Wandernde Kuh,2,Andrew Fuller,1996-09-23,1996-10-03
+10313,QUICK,QUICK-Stop,2,Andrew Fuller,1996-09-24,1996-10-04
+10314,RATTC,Rattlesnake Canyon Grocery,1,Nancy Davolio,1996-09-25,1996-10-04
+10315,ISLAT,Island Trading,4,Margaret Peacock,1996-09-26,1996-10-03
+10316,RATTC,Rattlesnake Canyon Grocery,1,Nancy Davolio,1996-09-27,1996-10-08
+10317,LONEP,Lonesome Pine Restaurant,6,Michael Suyama,1996-09-30,1996-10-10
+10318,ISLAT,Island Trading,8,Laura Callahan,1996-10-01,1996-10-04
+10319,TORTU,Tortuga Restaurante,7,Robert King,1996-10-02,1996-10-11
+10320,WARTH,Wartian Herkku,5,Steven Buchanan,1996-10-03,1996-10-18
+10321,ISLAT,Island Trading,3,Janet Leverling,1996-10-03,1996-10-11
+10322,PERIC,Pericles Comidas clásicas,7,Robert King,1996-10-04,1996-10-23
+10323,KOENE,Königlich Essen,4,Margaret Peacock,1996-10-07,1996-10-14
+10324,SAVEA,Save-a-lot Markets,9,Anne Dodsworth,1996-10-08,1996-10-10
+10325,KOENE,Königlich Essen,1,Nancy Davolio,1996-10-09,1996-10-14
+10326,BOLID,Bólido Comidas preparadas,4,Margaret Peacock,1996-10-10,1996-10-14
+10327,FOLKO,Folk och fä HB,2,Andrew Fuller,1996-10-11,1996-10-14
+10328,FURIB,Furia Bacalhau e Frutos do Mar,4,Margaret Peacock,1996-10-14,1996-10-17
+10329,SPLIR,Split Rail Beer & Ale,4,Margaret Peacock,1996-10-15,1996-10-23
+10330,LILAS,LILA-Supermercado,3,Janet Leverling,1996-10-16,1996-10-28
+10331,BONAP,Bon app',9,Anne Dodsworth,1996-10-16,1996-10-21
+10332,MEREP,Mère Paillarde,3,Janet Leverling,1996-10-17,1996-10-21
+10333,WARTH,Wartian Herkku,5,Steven Buchanan,1996-10-18,1996-10-25
+10334,VICTE,Victuailles en stock,8,Laura Callahan,1996-10-21,1996-10-28
+10335,HUNGO,Hungry Owl All-Night Grocers,7,Robert King,1996-10-22,1996-10-24
+10336,PRINI,Princesa Isabel Vinhos,7,Robert King,1996-10-23,1996-10-25
+10337,FRANK,Frankenversand,4,Margaret Peacock,1996-10-24,1996-10-29
+10338,OLDWO,Old World Delicatessen,4,Margaret Peacock,1996-10-25,1996-10-29
+10339,MEREP,Mère Paillarde,2,Andrew Fuller,1996-10-28,1996-11-04
+10340,BONAP,Bon app',1,Nancy Davolio,1996-10-29,1996-11-08
+10341,SIMOB,Simons bistro,7,Robert King,1996-10-29,1996-11-05
+10342,FRANK,Frankenversand,4,Margaret Peacock,1996-10-30,1996-11-04
+10343,LEHMS,Lehmanns Marktstand,4,Margaret Peacock,1996-10-31,1996-11-06
+10344,WHITC,White Clover Markets,4,Margaret Peacock,1996-11-01,1996-11-05
+10345,QUICK,QUICK-Stop,2,Andrew Fuller,1996-11-04,1996-11-11
+10346,RATTC,Rattlesnake Canyon Grocery,3,Janet Leverling,1996-11-05,1996-11-08
+10347,FAMIA,Familia Arquibaldo,4,Margaret Peacock,1996-11-06,1996-11-08
+10348,WANDK,Die Wandernde Kuh,4,Margaret Peacock,1996-11-07,1996-11-15
+10349,SPLIR,Split Rail Beer & Ale,7,Robert King,1996-11-08,1996-11-15
+10350,LAMAI,La maison d'Asie,6,Michael Suyama,1996-11-11,1996-12-03
+10351,ERNSH,Ernst Handel,1,Nancy Davolio,1996-11-11,1996-11-20
+10352,FURIB,Furia Bacalhau e Frutos do Mar,3,Janet Leverling,1996-11-12,1996-11-18
+10353,PICCO,Piccolo und mehr,7,Robert King,1996-11-13,1996-11-25
+10354,PERIC,Pericles Comidas clásicas,8,Laura Callahan,1996-11-14,1996-11-20
+10355,AROUT,Around the Horn,6,Michael Suyama,1996-11-15,1996-11-20
+10356,WANDK,Die Wandernde Kuh,6,Michael Suyama,1996-11-18,1996-11-27
+10357,LILAS,LILA-Supermercado,1,Nancy Davolio,1996-11-19,1996-12-02
+10358,LAMAI,La maison d'Asie,5,Steven Buchanan,1996-11-20,1996-11-27
+10359,SEVES,Seven Seas Imports,5,Steven Buchanan,1996-11-21,1996-11-26
+10360,BLONP,Blondesddsl père et fils,4,Margaret Peacock,1996-11-22,1996-12-02
+10361,QUICK,QUICK-Stop,1,Nancy Davolio,1996-11-22,1996-12-03
+10362,BONAP,Bon app',3,Janet Leverling,1996-11-25,1996-11-28
+10363,DRACD,Drachenblut Delikatessen,4,Margaret Peacock,1996-11-26,1996-12-04
+10364,EASTC,Eastern Connection,1,Nancy Davolio,1996-11-26,1996-12-04
+10365,ANTON,Antonio Moreno Taquería,3,Janet Leverling,1996-11-27,1996-12-02
+10366,GALED,Galería del gastrónomo,8,Laura Callahan,1996-11-28,1996-12-30
+10367,VAFFE,Vaffeljernet,7,Robert King,1996-11-28,1996-12-02
+10368,ERNSH,Ernst Handel,2,Andrew Fuller,1996-11-29,1996-12-02
+10369,SPLIR,Split Rail Beer & Ale,8,Laura Callahan,1996-12-02,1996-12-09
+10370,CHOPS,Chop-suey Chinese,6,Michael Suyama,1996-12-03,1996-12-27
+10371,LAMAI,La maison d'Asie,1,Nancy Davolio,1996-12-03,1996-12-24
+10372,QUEEN,Queen Cozinha,5,Steven Buchanan,1996-12-04,1996-12-09
+10373,HUNGO,Hungry Owl All-Night Grocers,4,Margaret Peacock,1996-12-05,1996-12-11
+10374,WOLZA,Wolski  Zajazd,1,Nancy Davolio,1996-12-05,1996-12-09
+10375,HUNGC,Hungry Coyote Import Store,3,Janet Leverling,1996-12-06,1996-12-09
+10376,MEREP,Mère Paillarde,1,Nancy Davolio,1996-12-09,1996-12-13
+10377,SEVES,Seven Seas Imports,1,Nancy Davolio,1996-12-09,1996-12-13
+10378,FOLKO,Folk och fä HB,5,Steven Buchanan,1996-12-10,1996-12-19
+10379,QUEDE,Que Delícia,2,Andrew Fuller,1996-12-11,1996-12-13
+10380,HUNGO,Hungry Owl All-Night Grocers,8,Laura Callahan,1996-12-12,1997-01-16
+10381,LILAS,LILA-Supermercado,3,Janet Leverling,1996-12-12,1996-12-13
+10382,ERNSH,Ernst Handel,4,Margaret Peacock,1996-12-13,1996-12-16
+10383,AROUT,Around the Horn,8,Laura Callahan,1996-12-16,1996-12-18
+10384,BERGS,Berglunds snabbköp,3,Janet Leverling,1996-12-16,1996-12-20
+10385,SPLIR,Split Rail Beer & Ale,1,Nancy Davolio,1996-12-17,1996-12-23
+10386,FAMIA,Familia Arquibaldo,9,Anne Dodsworth,1996-12-18,1996-12-25
+10387,SANTG,Santé Gourmet,1,Nancy Davolio,1996-12-18,1996-12-20
+10388,SEVES,Seven Seas Imports,2,Andrew Fuller,1996-12-19,1996-12-20
+10389,BOTTM,Bottom-Dollar Markets,4,Margaret Peacock,1996-12-20,1996-12-24
+10390,ERNSH,Ernst Handel,6,Michael Suyama,1996-12-23,1996-12-26
+10391,DRACD,Drachenblut Delikatessen,3,Janet Leverling,1996-12-23,1996-12-31
+10392,PICCO,Piccolo und mehr,2,Andrew Fuller,1996-12-24,1997-01-01
+10393,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1996-12-25,1997-01-03
+10394,HUNGC,Hungry Coyote Import Store,1,Nancy Davolio,1996-12-25,1997-01-03
+10395,HILAA,HILARION-Abastos,6,Michael Suyama,1996-12-26,1997-01-03
+10396,FRANK,Frankenversand,1,Nancy Davolio,1996-12-27,1997-01-06
+10397,PRINI,Princesa Isabel Vinhos,5,Steven Buchanan,1996-12-27,1997-01-02
+10398,SAVEA,Save-a-lot Markets,2,Andrew Fuller,1996-12-30,1997-01-09
+10399,VAFFE,Vaffeljernet,8,Laura Callahan,1996-12-31,1997-01-08
+10400,EASTC,Eastern Connection,1,Nancy Davolio,1997-01-01,1997-01-16
+10401,RATTC,Rattlesnake Canyon Grocery,1,Nancy Davolio,1997-01-01,1997-01-10
+10402,ERNSH,Ernst Handel,8,Laura Callahan,1997-01-02,1997-01-10
+10403,ERNSH,Ernst Handel,4,Margaret Peacock,1997-01-03,1997-01-09
+10404,MAGAA,Magazzini Alimentari Riuniti,2,Andrew Fuller,1997-01-03,1997-01-08
+10405,LINOD,LINO-Delicateses,1,Nancy Davolio,1997-01-06,1997-01-22
+10406,QUEEN,Queen Cozinha,7,Robert King,1997-01-07,1997-01-13
+10407,OTTIK,Ottilies Käseladen,2,Andrew Fuller,1997-01-07,1997-01-30
+10408,FOLIG,Folies gourmandes,8,Laura Callahan,1997-01-08,1997-01-14
+10409,OCEAN,Océano Atlántico Ltda.,3,Janet Leverling,1997-01-09,1997-01-14
+10410,BOTTM,Bottom-Dollar Markets,3,Janet Leverling,1997-01-10,1997-01-15
+10411,BOTTM,Bottom-Dollar Markets,9,Anne Dodsworth,1997-01-10,1997-01-21
+10412,WARTH,Wartian Herkku,8,Laura Callahan,1997-01-13,1997-01-15
+10413,LAMAI,La maison d'Asie,3,Janet Leverling,1997-01-14,1997-01-16
+10414,FAMIA,Familia Arquibaldo,2,Andrew Fuller,1997-01-14,1997-01-17
+10415,HUNGC,Hungry Coyote Import Store,3,Janet Leverling,1997-01-15,1997-01-24
+10416,WARTH,Wartian Herkku,8,Laura Callahan,1997-01-16,1997-01-27
+10417,SIMOB,Simons bistro,4,Margaret Peacock,1997-01-16,1997-01-28
+10418,QUICK,QUICK-Stop,4,Margaret Peacock,1997-01-17,1997-01-24
+10419,RICSU,Richter Supermarkt,4,Margaret Peacock,1997-01-20,1997-01-30
+10420,WELLI,Wellington Importadora,3,Janet Leverling,1997-01-21,1997-01-27
+10421,QUEDE,Que Delícia,8,Laura Callahan,1997-01-21,1997-01-27
+10422,FRANS,Franchi S.p.A.,2,Andrew Fuller,1997-01-22,1997-01-31
+10423,GOURL,Gourmet Lanchonetes,6,Michael Suyama,1997-01-23,1997-02-24
+10424,MEREP,Mère Paillarde,7,Robert King,1997-01-23,1997-01-27
+10425,LAMAI,La maison d'Asie,6,Michael Suyama,1997-01-24,1997-02-14
+10426,GALED,Galería del gastrónomo,4,Margaret Peacock,1997-01-27,1997-02-06
+10427,PICCO,Piccolo und mehr,4,Margaret Peacock,1997-01-27,1997-03-03
+10428,REGGC,Reggiani Caseifici,7,Robert King,1997-01-28,1997-02-04
+10429,HUNGO,Hungry Owl All-Night Grocers,3,Janet Leverling,1997-01-29,1997-02-07
+10430,ERNSH,Ernst Handel,4,Margaret Peacock,1997-01-30,1997-02-03
+10431,BOTTM,Bottom-Dollar Markets,4,Margaret Peacock,1997-01-30,1997-02-07
+10432,SPLIR,Split Rail Beer & Ale,3,Janet Leverling,1997-01-31,1997-02-07
+10433,PRINI,Princesa Isabel Vinhos,3,Janet Leverling,1997-02-03,1997-03-04
+10434,FOLKO,Folk och fä HB,3,Janet Leverling,1997-02-03,1997-02-13
+10435,CONSH,Consolidated Holdings,8,Laura Callahan,1997-02-04,1997-02-07
+10436,BLONP,Blondesddsl père et fils,3,Janet Leverling,1997-02-05,1997-02-11
+10437,WARTH,Wartian Herkku,8,Laura Callahan,1997-02-05,1997-02-12
+10438,TOMSP,Toms Spezialitäten,3,Janet Leverling,1997-02-06,1997-02-14
+10439,MEREP,Mère Paillarde,6,Michael Suyama,1997-02-07,1997-02-10
+10440,SAVEA,Save-a-lot Markets,4,Margaret Peacock,1997-02-10,1997-02-28
+10441,OLDWO,Old World Delicatessen,3,Janet Leverling,1997-02-10,1997-03-14
+10442,ERNSH,Ernst Handel,3,Janet Leverling,1997-02-11,1997-02-18
+10443,REGGC,Reggiani Caseifici,8,Laura Callahan,1997-02-12,1997-02-14
+10444,BERGS,Berglunds snabbköp,3,Janet Leverling,1997-02-12,1997-02-21
+10445,BERGS,Berglunds snabbköp,3,Janet Leverling,1997-02-13,1997-02-20
+10446,TOMSP,Toms Spezialitäten,6,Michael Suyama,1997-02-14,1997-02-19
+10447,RICAR,Ricardo Adocicados,4,Margaret Peacock,1997-02-14,1997-03-07
+10448,RANCH,Rancho grande,4,Margaret Peacock,1997-02-17,1997-02-24
+10449,BLONP,Blondesddsl père et fils,3,Janet Leverling,1997-02-18,1997-02-27
+10450,VICTE,Victuailles en stock,8,Laura Callahan,1997-02-19,1997-03-11
+10451,QUICK,QUICK-Stop,4,Margaret Peacock,1997-02-19,1997-03-12
+10452,SAVEA,Save-a-lot Markets,8,Laura Callahan,1997-02-20,1997-02-26
+10453,AROUT,Around the Horn,1,Nancy Davolio,1997-02-21,1997-02-26
+10454,LAMAI,La maison d'Asie,4,Margaret Peacock,1997-02-21,1997-02-25
+10455,WARTH,Wartian Herkku,8,Laura Callahan,1997-02-24,1997-03-03
+10456,KOENE,Königlich Essen,8,Laura Callahan,1997-02-25,1997-02-28
+10457,KOENE,Königlich Essen,2,Andrew Fuller,1997-02-25,1997-03-03
+10458,SUPRD,Suprêmes délices,7,Robert King,1997-02-26,1997-03-04
+10459,VICTE,Victuailles en stock,4,Margaret Peacock,1997-02-27,1997-02-28
+10460,FOLKO,Folk och fä HB,8,Laura Callahan,1997-02-28,1997-03-03
+10461,LILAS,LILA-Supermercado,1,Nancy Davolio,1997-02-28,1997-03-05
+10462,CONSH,Consolidated Holdings,2,Andrew Fuller,1997-03-03,1997-03-18
+10463,SUPRD,Suprêmes délices,5,Steven Buchanan,1997-03-04,1997-03-06
+10464,FURIB,Furia Bacalhau e Frutos do Mar,4,Margaret Peacock,1997-03-04,1997-03-14
+10465,VAFFE,Vaffeljernet,1,Nancy Davolio,1997-03-05,1997-03-14
+10466,COMMI,Comércio Mineiro,4,Margaret Peacock,1997-03-06,1997-03-13
+10467,MAGAA,Magazzini Alimentari Riuniti,8,Laura Callahan,1997-03-06,1997-03-11
+10468,KOENE,Königlich Essen,3,Janet Leverling,1997-03-07,1997-03-12
+10469,WHITC,White Clover Markets,1,Nancy Davolio,1997-03-10,1997-03-14
+10470,BONAP,Bon app',4,Margaret Peacock,1997-03-11,1997-03-14
+10471,BSBEV,B's Beverages,2,Andrew Fuller,1997-03-11,1997-03-18
+10472,SEVES,Seven Seas Imports,8,Laura Callahan,1997-03-12,1997-03-19
+10473,ISLAT,Island Trading,1,Nancy Davolio,1997-03-13,1997-03-21
+10474,PERIC,Pericles Comidas clásicas,5,Steven Buchanan,1997-03-13,1997-03-21
+10475,SUPRD,Suprêmes délices,9,Anne Dodsworth,1997-03-14,1997-04-04
+10476,HILAA,HILARION-Abastos,8,Laura Callahan,1997-03-17,1997-03-24
+10477,PRINI,Princesa Isabel Vinhos,5,Steven Buchanan,1997-03-17,1997-03-25
+10478,VICTE,Victuailles en stock,2,Andrew Fuller,1997-03-18,1997-03-26
+10479,RATTC,Rattlesnake Canyon Grocery,3,Janet Leverling,1997-03-19,1997-03-21
+10480,FOLIG,Folies gourmandes,6,Michael Suyama,1997-03-20,1997-03-24
+10481,RICAR,Ricardo Adocicados,8,Laura Callahan,1997-03-20,1997-03-25
+10482,LAZYK,Lazy K Kountry Store,1,Nancy Davolio,1997-03-21,1997-04-10
+10483,WHITC,White Clover Markets,7,Robert King,1997-03-24,1997-04-25
+10484,BSBEV,B's Beverages,3,Janet Leverling,1997-03-24,1997-04-01
+10485,LINOD,LINO-Delicateses,4,Margaret Peacock,1997-03-25,1997-03-31
+10486,HILAA,HILARION-Abastos,1,Nancy Davolio,1997-03-26,1997-04-02
+10487,QUEEN,Queen Cozinha,2,Andrew Fuller,1997-03-26,1997-03-28
+10488,FRANK,Frankenversand,8,Laura Callahan,1997-03-27,1997-04-02
+10489,PICCO,Piccolo und mehr,6,Michael Suyama,1997-03-28,1997-04-09
+10490,HILAA,HILARION-Abastos,7,Robert King,1997-03-31,1997-04-03
+10491,FURIB,Furia Bacalhau e Frutos do Mar,8,Laura Callahan,1997-03-31,1997-04-08
+10492,BOTTM,Bottom-Dollar Markets,3,Janet Leverling,1997-04-01,1997-04-11
+10493,LAMAI,La maison d'Asie,4,Margaret Peacock,1997-04-02,1997-04-10
+10494,COMMI,Comércio Mineiro,4,Margaret Peacock,1997-04-02,1997-04-09
+10495,LAUGB,Laughing Bacchus Wine Cellars,3,Janet Leverling,1997-04-03,1997-04-11
+10496,TRADH,Tradição Hipermercados,7,Robert King,1997-04-04,1997-04-07
+10497,LEHMS,Lehmanns Marktstand,7,Robert King,1997-04-04,1997-04-07
+10498,HILAA,HILARION-Abastos,8,Laura Callahan,1997-04-07,1997-04-11
+10499,LILAS,LILA-Supermercado,4,Margaret Peacock,1997-04-08,1997-04-16
+10500,LAMAI,La maison d'Asie,6,Michael Suyama,1997-04-09,1997-04-17
+10501,BLAUS,Blauer See Delikatessen,9,Anne Dodsworth,1997-04-09,1997-04-16
+10502,PERIC,Pericles Comidas clásicas,2,Andrew Fuller,1997-04-10,1997-04-29
+10503,HUNGO,Hungry Owl All-Night Grocers,6,Michael Suyama,1997-04-11,1997-04-16
+10504,WHITC,White Clover Markets,4,Margaret Peacock,1997-04-11,1997-04-18
+10505,MEREP,Mère Paillarde,3,Janet Leverling,1997-04-14,1997-04-21
+10506,KOENE,Königlich Essen,9,Anne Dodsworth,1997-04-15,1997-05-02
+10507,ANTON,Antonio Moreno Taquería,7,Robert King,1997-04-15,1997-04-22
+10508,OTTIK,Ottilies Käseladen,1,Nancy Davolio,1997-04-16,1997-05-13
+10509,BLAUS,Blauer See Delikatessen,4,Margaret Peacock,1997-04-17,1997-04-29
+10510,SAVEA,Save-a-lot Markets,6,Michael Suyama,1997-04-18,1997-04-28
+10511,BONAP,Bon app',4,Margaret Peacock,1997-04-18,1997-04-21
+10512,FAMIA,Familia Arquibaldo,7,Robert King,1997-04-21,1997-04-24
+10513,WANDK,Die Wandernde Kuh,7,Robert King,1997-04-22,1997-04-28
+10514,ERNSH,Ernst Handel,3,Janet Leverling,1997-04-22,1997-05-16
+10515,QUICK,QUICK-Stop,2,Andrew Fuller,1997-04-23,1997-05-23
+10516,HUNGO,Hungry Owl All-Night Grocers,2,Andrew Fuller,1997-04-24,1997-05-01
+10517,NORTS,North/South,3,Janet Leverling,1997-04-24,1997-04-29
+10518,TORTU,Tortuga Restaurante,4,Margaret Peacock,1997-04-25,1997-05-05
+10519,CHOPS,Chop-suey Chinese,6,Michael Suyama,1997-04-28,1997-05-01
+10520,SANTG,Santé Gourmet,7,Robert King,1997-04-29,1997-05-01
+10521,CACTU,Cactus Comidas para llevar,8,Laura Callahan,1997-04-29,1997-05-02
+10522,LEHMS,Lehmanns Marktstand,4,Margaret Peacock,1997-04-30,1997-05-06
+10523,SEVES,Seven Seas Imports,7,Robert King,1997-05-01,1997-05-30
+10524,BERGS,Berglunds snabbköp,1,Nancy Davolio,1997-05-01,1997-05-07
+10525,BONAP,Bon app',1,Nancy Davolio,1997-05-02,1997-05-23
+10526,WARTH,Wartian Herkku,4,Margaret Peacock,1997-05-05,1997-05-15
+10527,QUICK,QUICK-Stop,7,Robert King,1997-05-05,1997-05-07
+10528,GREAL,Great Lakes Food Market,6,Michael Suyama,1997-05-06,1997-05-09
+10529,MAISD,Maison Dewey,5,Steven Buchanan,1997-05-07,1997-05-09
+10530,PICCO,Piccolo und mehr,3,Janet Leverling,1997-05-08,1997-05-12
+10531,OCEAN,Océano Atlántico Ltda.,7,Robert King,1997-05-08,1997-05-19
+10532,EASTC,Eastern Connection,7,Robert King,1997-05-09,1997-05-12
+10533,FOLKO,Folk och fä HB,8,Laura Callahan,1997-05-12,1997-05-22
+10534,LEHMS,Lehmanns Marktstand,8,Laura Callahan,1997-05-12,1997-05-14
+10535,ANTON,Antonio Moreno Taquería,4,Margaret Peacock,1997-05-13,1997-05-21
+10536,LEHMS,Lehmanns Marktstand,3,Janet Leverling,1997-05-14,1997-06-06
+10537,RICSU,Richter Supermarkt,1,Nancy Davolio,1997-05-14,1997-05-19
+10538,BSBEV,B's Beverages,9,Anne Dodsworth,1997-05-15,1997-05-16
+10539,BSBEV,B's Beverages,6,Michael Suyama,1997-05-16,1997-05-23
+10540,QUICK,QUICK-Stop,3,Janet Leverling,1997-05-19,1997-06-13
+10541,HANAR,Hanari Carnes,2,Andrew Fuller,1997-05-19,1997-05-29
+10542,KOENE,Königlich Essen,1,Nancy Davolio,1997-05-20,1997-05-26
+10543,LILAS,LILA-Supermercado,8,Laura Callahan,1997-05-21,1997-05-23
+10544,LONEP,Lonesome Pine Restaurant,4,Margaret Peacock,1997-05-21,1997-05-30
+10545,LAZYK,Lazy K Kountry Store,8,Laura Callahan,1997-05-22,1997-06-26
+10546,VICTE,Victuailles en stock,1,Nancy Davolio,1997-05-23,1997-05-27
+10547,SEVES,Seven Seas Imports,3,Janet Leverling,1997-05-23,1997-06-02
+10548,TOMSP,Toms Spezialitäten,3,Janet Leverling,1997-05-26,1997-06-02
+10549,QUICK,QUICK-Stop,5,Steven Buchanan,1997-05-27,1997-05-30
+10550,GODOS,Godos Cocina Típica,7,Robert King,1997-05-28,1997-06-06
+10551,FURIB,Furia Bacalhau e Frutos do Mar,4,Margaret Peacock,1997-05-28,1997-06-06
+10552,HILAA,HILARION-Abastos,2,Andrew Fuller,1997-05-29,1997-06-05
+10553,WARTH,Wartian Herkku,2,Andrew Fuller,1997-05-30,1997-06-03
+10554,OTTIK,Ottilies Käseladen,4,Margaret Peacock,1997-05-30,1997-06-05
+10555,SAVEA,Save-a-lot Markets,6,Michael Suyama,1997-06-02,1997-06-04
+10556,SIMOB,Simons bistro,2,Andrew Fuller,1997-06-03,1997-06-13
+10557,LEHMS,Lehmanns Marktstand,9,Anne Dodsworth,1997-06-03,1997-06-06
+10558,AROUT,Around the Horn,1,Nancy Davolio,1997-06-04,1997-06-10
+10559,BLONP,Blondesddsl père et fils,6,Michael Suyama,1997-06-05,1997-06-13
+10560,FRANK,Frankenversand,8,Laura Callahan,1997-06-06,1997-06-09
+10561,FOLKO,Folk och fä HB,2,Andrew Fuller,1997-06-06,1997-06-09
+10562,REGGC,Reggiani Caseifici,1,Nancy Davolio,1997-06-09,1997-06-12
+10563,RICAR,Ricardo Adocicados,2,Andrew Fuller,1997-06-10,1997-06-24
+10564,RATTC,Rattlesnake Canyon Grocery,4,Margaret Peacock,1997-06-10,1997-06-16
+10565,MEREP,Mère Paillarde,8,Laura Callahan,1997-06-11,1997-06-18
+10566,BLONP,Blondesddsl père et fils,9,Anne Dodsworth,1997-06-12,1997-06-18
+10567,HUNGO,Hungry Owl All-Night Grocers,1,Nancy Davolio,1997-06-12,1997-06-17
+10568,GALED,Galería del gastrónomo,3,Janet Leverling,1997-06-13,1997-07-09
+10569,RATTC,Rattlesnake Canyon Grocery,5,Steven Buchanan,1997-06-16,1997-07-11
+10570,MEREP,Mère Paillarde,3,Janet Leverling,1997-06-17,1997-06-19
+10571,ERNSH,Ernst Handel,8,Laura Callahan,1997-06-17,1997-07-04
+10572,BERGS,Berglunds snabbköp,3,Janet Leverling,1997-06-18,1997-06-25
+10573,ANTON,Antonio Moreno Taquería,7,Robert King,1997-06-19,1997-06-20
+10574,TRAIH,Trail's Head Gourmet Provisioners,4,Margaret Peacock,1997-06-19,1997-06-30
+10575,MORGK,Morgenstern Gesundkost,5,Steven Buchanan,1997-06-20,1997-06-30
+10576,TORTU,Tortuga Restaurante,3,Janet Leverling,1997-06-23,1997-06-30
+10577,TRAIH,Trail's Head Gourmet Provisioners,9,Anne Dodsworth,1997-06-23,1997-06-30
+10578,BSBEV,B's Beverages,4,Margaret Peacock,1997-06-24,1997-07-25
+10579,LETSS,Let's Stop N Shop,1,Nancy Davolio,1997-06-25,1997-07-04
+10580,OTTIK,Ottilies Käseladen,4,Margaret Peacock,1997-06-26,1997-07-01
+10581,FAMIA,Familia Arquibaldo,3,Janet Leverling,1997-06-26,1997-07-02
+10582,BLAUS,Blauer See Delikatessen,3,Janet Leverling,1997-06-27,1997-07-14
+10583,WARTH,Wartian Herkku,2,Andrew Fuller,1997-06-30,1997-07-04
+10584,BLONP,Blondesddsl père et fils,4,Margaret Peacock,1997-06-30,1997-07-04
+10585,WELLI,Wellington Importadora,7,Robert King,1997-07-01,1997-07-10
+10586,REGGC,Reggiani Caseifici,9,Anne Dodsworth,1997-07-02,1997-07-09
+10587,QUEDE,Que Delícia,1,Nancy Davolio,1997-07-02,1997-07-09
+10588,QUICK,QUICK-Stop,2,Andrew Fuller,1997-07-03,1997-07-10
+10589,GREAL,Great Lakes Food Market,8,Laura Callahan,1997-07-04,1997-07-14
+10590,MEREP,Mère Paillarde,4,Margaret Peacock,1997-07-07,1997-07-14
+10591,VAFFE,Vaffeljernet,1,Nancy Davolio,1997-07-07,1997-07-16
+10592,LEHMS,Lehmanns Marktstand,3,Janet Leverling,1997-07-08,1997-07-16
+10593,LEHMS,Lehmanns Marktstand,7,Robert King,1997-07-09,1997-08-13
+10594,OLDWO,Old World Delicatessen,3,Janet Leverling,1997-07-09,1997-07-16
+10595,ERNSH,Ernst Handel,2,Andrew Fuller,1997-07-10,1997-07-14
+10596,WHITC,White Clover Markets,8,Laura Callahan,1997-07-11,1997-08-12
+10597,PICCO,Piccolo und mehr,7,Robert King,1997-07-11,1997-07-18
+10598,RATTC,Rattlesnake Canyon Grocery,1,Nancy Davolio,1997-07-14,1997-07-18
+10599,BSBEV,B's Beverages,6,Michael Suyama,1997-07-15,1997-07-21
+10600,HUNGC,Hungry Coyote Import Store,4,Margaret Peacock,1997-07-16,1997-07-21
+10601,HILAA,HILARION-Abastos,7,Robert King,1997-07-16,1997-07-22
+10602,VAFFE,Vaffeljernet,8,Laura Callahan,1997-07-17,1997-07-22
+10603,SAVEA,Save-a-lot Markets,8,Laura Callahan,1997-07-18,1997-08-08
+10604,FURIB,Furia Bacalhau e Frutos do Mar,1,Nancy Davolio,1997-07-18,1997-07-29
+10605,MEREP,Mère Paillarde,1,Nancy Davolio,1997-07-21,1997-07-29
+10606,TRADH,Tradição Hipermercados,4,Margaret Peacock,1997-07-22,1997-07-31
+10607,SAVEA,Save-a-lot Markets,5,Steven Buchanan,1997-07-22,1997-07-25
+10608,TOMSP,Toms Spezialitäten,4,Margaret Peacock,1997-07-23,1997-08-01
+10609,DUMON,Du monde entier,7,Robert King,1997-07-24,1997-07-30
+10610,LAMAI,La maison d'Asie,8,Laura Callahan,1997-07-25,1997-08-06
+10611,WOLZA,Wolski  Zajazd,6,Michael Suyama,1997-07-25,1997-08-01
+10612,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1997-07-28,1997-08-01
+10613,HILAA,HILARION-Abastos,4,Margaret Peacock,1997-07-29,1997-08-01
+10614,BLAUS,Blauer See Delikatessen,8,Laura Callahan,1997-07-29,1997-08-01
+10615,WILMK,Wilman Kala,2,Andrew Fuller,1997-07-30,1997-08-06
+10616,GREAL,Great Lakes Food Market,1,Nancy Davolio,1997-07-31,1997-08-05
+10617,GREAL,Great Lakes Food Market,4,Margaret Peacock,1997-07-31,1997-08-04
+10618,MEREP,Mère Paillarde,1,Nancy Davolio,1997-08-01,1997-08-08
+10619,MEREP,Mère Paillarde,3,Janet Leverling,1997-08-04,1997-08-07
+10620,LAUGB,Laughing Bacchus Wine Cellars,2,Andrew Fuller,1997-08-05,1997-08-14
+10621,ISLAT,Island Trading,4,Margaret Peacock,1997-08-05,1997-08-11
+10622,RICAR,Ricardo Adocicados,4,Margaret Peacock,1997-08-06,1997-08-11
+10623,FRANK,Frankenversand,8,Laura Callahan,1997-08-07,1997-08-12
+10624,THECR,The Cracker Box,4,Margaret Peacock,1997-08-07,1997-08-19
+10625,ANATR,Ana Trujillo Emparedados y helados,3,Janet Leverling,1997-08-08,1997-08-14
+10626,BERGS,Berglunds snabbköp,1,Nancy Davolio,1997-08-11,1997-08-20
+10627,SAVEA,Save-a-lot Markets,8,Laura Callahan,1997-08-11,1997-08-21
+10628,BLONP,Blondesddsl père et fils,4,Margaret Peacock,1997-08-12,1997-08-20
+10629,GODOS,Godos Cocina Típica,4,Margaret Peacock,1997-08-12,1997-08-20
+10630,KOENE,Königlich Essen,1,Nancy Davolio,1997-08-13,1997-08-19
+10631,LAMAI,La maison d'Asie,8,Laura Callahan,1997-08-14,1997-08-15
+10632,WANDK,Die Wandernde Kuh,8,Laura Callahan,1997-08-14,1997-08-19
+10633,ERNSH,Ernst Handel,7,Robert King,1997-08-15,1997-08-18
+10634,FOLIG,Folies gourmandes,4,Margaret Peacock,1997-08-15,1997-08-21
+10635,MAGAA,Magazzini Alimentari Riuniti,8,Laura Callahan,1997-08-18,1997-08-21
+10636,WARTH,Wartian Herkku,4,Margaret Peacock,1997-08-19,1997-08-26
+10637,QUEEN,Queen Cozinha,6,Michael Suyama,1997-08-19,1997-08-26
+10638,LINOD,LINO-Delicateses,3,Janet Leverling,1997-08-20,1997-09-01
+10639,SANTG,Santé Gourmet,7,Robert King,1997-08-20,1997-08-27
+10640,WANDK,Die Wandernde Kuh,4,Margaret Peacock,1997-08-21,1997-08-28
+10641,HILAA,HILARION-Abastos,4,Margaret Peacock,1997-08-22,1997-08-26
+10642,SIMOB,Simons bistro,7,Robert King,1997-08-22,1997-09-05
+10643,ALFKI,Alfreds Futterkiste,6,Michael Suyama,1997-08-25,1997-09-02
+10644,WELLI,Wellington Importadora,3,Janet Leverling,1997-08-25,1997-09-01
+10645,HANAR,Hanari Carnes,4,Margaret Peacock,1997-08-26,1997-09-02
+10646,HUNGO,Hungry Owl All-Night Grocers,9,Anne Dodsworth,1997-08-27,1997-09-03
+10647,QUEDE,Que Delícia,4,Margaret Peacock,1997-08-27,1997-09-03
+10648,RICAR,Ricardo Adocicados,5,Steven Buchanan,1997-08-28,1997-09-09
+10649,MAISD,Maison Dewey,5,Steven Buchanan,1997-08-28,1997-08-29
+10650,FAMIA,Familia Arquibaldo,5,Steven Buchanan,1997-08-29,1997-09-03
+10651,WANDK,Die Wandernde Kuh,8,Laura Callahan,1997-09-01,1997-09-11
+10652,GOURL,Gourmet Lanchonetes,4,Margaret Peacock,1997-09-01,1997-09-08
+10653,FRANK,Frankenversand,1,Nancy Davolio,1997-09-02,1997-09-19
+10654,BERGS,Berglunds snabbköp,5,Steven Buchanan,1997-09-02,1997-09-11
+10655,REGGC,Reggiani Caseifici,1,Nancy Davolio,1997-09-03,1997-09-11
+10656,GREAL,Great Lakes Food Market,6,Michael Suyama,1997-09-04,1997-09-10
+10657,SAVEA,Save-a-lot Markets,2,Andrew Fuller,1997-09-04,1997-09-15
+10658,QUICK,QUICK-Stop,4,Margaret Peacock,1997-09-05,1997-09-08
+10659,QUEEN,Queen Cozinha,7,Robert King,1997-09-05,1997-09-10
+10660,HUNGC,Hungry Coyote Import Store,8,Laura Callahan,1997-09-08,1997-10-15
+10661,HUNGO,Hungry Owl All-Night Grocers,7,Robert King,1997-09-09,1997-09-15
+10662,LONEP,Lonesome Pine Restaurant,3,Janet Leverling,1997-09-09,1997-09-18
+10663,BONAP,Bon app',2,Andrew Fuller,1997-09-10,1997-10-03
+10664,FURIB,Furia Bacalhau e Frutos do Mar,1,Nancy Davolio,1997-09-10,1997-09-19
+10665,LONEP,Lonesome Pine Restaurant,1,Nancy Davolio,1997-09-11,1997-09-17
+10666,RICSU,Richter Supermarkt,7,Robert King,1997-09-12,1997-09-22
+10667,ERNSH,Ernst Handel,7,Robert King,1997-09-12,1997-09-19
+10668,WANDK,Die Wandernde Kuh,1,Nancy Davolio,1997-09-15,1997-09-23
+10669,SIMOB,Simons bistro,2,Andrew Fuller,1997-09-15,1997-09-22
+10670,FRANK,Frankenversand,4,Margaret Peacock,1997-09-16,1997-09-18
+10671,FRANR,France restauration,1,Nancy Davolio,1997-09-17,1997-09-24
+10672,BERGS,Berglunds snabbköp,9,Anne Dodsworth,1997-09-17,1997-09-26
+10673,WILMK,Wilman Kala,2,Andrew Fuller,1997-09-18,1997-09-19
+10674,ISLAT,Island Trading,4,Margaret Peacock,1997-09-18,1997-09-30
+10675,FRANK,Frankenversand,5,Steven Buchanan,1997-09-19,1997-09-23
+10676,TORTU,Tortuga Restaurante,2,Andrew Fuller,1997-09-22,1997-09-29
+10677,ANTON,Antonio Moreno Taquería,1,Nancy Davolio,1997-09-22,1997-09-26
+10678,SAVEA,Save-a-lot Markets,7,Robert King,1997-09-23,1997-10-16
+10679,BLONP,Blondesddsl père et fils,8,Laura Callahan,1997-09-23,1997-09-30
+10680,OLDWO,Old World Delicatessen,1,Nancy Davolio,1997-09-24,1997-09-26
+10681,GREAL,Great Lakes Food Market,3,Janet Leverling,1997-09-25,1997-09-30
+10682,ANTON,Antonio Moreno Taquería,3,Janet Leverling,1997-09-25,1997-10-01
+10683,DUMON,Du monde entier,2,Andrew Fuller,1997-09-26,1997-10-01
+10684,OTTIK,Ottilies Käseladen,3,Janet Leverling,1997-09-26,1997-09-30
+10685,GOURL,Gourmet Lanchonetes,4,Margaret Peacock,1997-09-29,1997-10-03
+10686,PICCO,Piccolo und mehr,2,Andrew Fuller,1997-09-30,1997-10-08
+10687,HUNGO,Hungry Owl All-Night Grocers,9,Anne Dodsworth,1997-09-30,1997-10-30
+10688,VAFFE,Vaffeljernet,4,Margaret Peacock,1997-10-01,1997-10-07
+10689,BERGS,Berglunds snabbköp,1,Nancy Davolio,1997-10-01,1997-10-07
+10690,HANAR,Hanari Carnes,1,Nancy Davolio,1997-10-02,1997-10-03
+10691,QUICK,QUICK-Stop,2,Andrew Fuller,1997-10-03,1997-10-22
+10692,ALFKI,Alfreds Futterkiste,4,Margaret Peacock,1997-10-03,1997-10-13
+10693,WHITC,White Clover Markets,3,Janet Leverling,1997-10-06,1997-10-10
+10694,QUICK,QUICK-Stop,8,Laura Callahan,1997-10-06,1997-10-09
+10695,WILMK,Wilman Kala,7,Robert King,1997-10-07,1997-10-14
+10696,WHITC,White Clover Markets,8,Laura Callahan,1997-10-08,1997-10-14
+10697,LINOD,LINO-Delicateses,3,Janet Leverling,1997-10-08,1997-10-14
+10698,ERNSH,Ernst Handel,4,Margaret Peacock,1997-10-09,1997-10-17
+10699,MORGK,Morgenstern Gesundkost,3,Janet Leverling,1997-10-09,1997-10-13
+10700,SAVEA,Save-a-lot Markets,3,Janet Leverling,1997-10-10,1997-10-16
+10701,HUNGO,Hungry Owl All-Night Grocers,6,Michael Suyama,1997-10-13,1997-10-15
+10702,ALFKI,Alfreds Futterkiste,4,Margaret Peacock,1997-10-13,1997-10-21
+10703,FOLKO,Folk och fä HB,6,Michael Suyama,1997-10-14,1997-10-20
+10704,QUEEN,Queen Cozinha,6,Michael Suyama,1997-10-14,1997-11-07
+10705,HILAA,HILARION-Abastos,9,Anne Dodsworth,1997-10-15,1997-11-18
+10706,OLDWO,Old World Delicatessen,8,Laura Callahan,1997-10-16,1997-10-21
+10707,AROUT,Around the Horn,4,Margaret Peacock,1997-10-16,1997-10-23
+10708,THEBI,The Big Cheese,6,Michael Suyama,1997-10-17,1997-11-05
+10709,GOURL,Gourmet Lanchonetes,1,Nancy Davolio,1997-10-17,1997-11-20
+10710,FRANS,Franchi S.p.A.,1,Nancy Davolio,1997-10-20,1997-10-23
+10711,SAVEA,Save-a-lot Markets,5,Steven Buchanan,1997-10-21,1997-10-29
+10712,HUNGO,Hungry Owl All-Night Grocers,3,Janet Leverling,1997-10-21,1997-10-31
+10713,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1997-10-22,1997-10-24
+10714,SAVEA,Save-a-lot Markets,5,Steven Buchanan,1997-10-22,1997-10-27
+10715,BONAP,Bon app',3,Janet Leverling,1997-10-23,1997-10-29
+10716,RANCH,Rancho grande,4,Margaret Peacock,1997-10-24,1997-10-27
+10717,FRANK,Frankenversand,1,Nancy Davolio,1997-10-24,1997-10-29
+10718,KOENE,Königlich Essen,1,Nancy Davolio,1997-10-27,1997-10-29
+10719,LETSS,Let's Stop N Shop,8,Laura Callahan,1997-10-27,1997-11-05
+10720,QUEDE,Que Delícia,8,Laura Callahan,1997-10-28,1997-11-05
+10721,QUICK,QUICK-Stop,5,Steven Buchanan,1997-10-29,1997-10-31
+10722,SAVEA,Save-a-lot Markets,8,Laura Callahan,1997-10-29,1997-11-04
+10723,WHITC,White Clover Markets,3,Janet Leverling,1997-10-30,1997-11-25
+10724,MEREP,Mère Paillarde,8,Laura Callahan,1997-10-30,1997-11-05
+10725,FAMIA,Familia Arquibaldo,4,Margaret Peacock,1997-10-31,1997-11-05
+10726,EASTC,Eastern Connection,4,Margaret Peacock,1997-11-03,1997-12-05
+10727,REGGC,Reggiani Caseifici,2,Andrew Fuller,1997-11-03,1997-12-05
+10728,QUEEN,Queen Cozinha,4,Margaret Peacock,1997-11-04,1997-11-11
+10729,LINOD,LINO-Delicateses,8,Laura Callahan,1997-11-04,1997-11-14
+10730,BONAP,Bon app',5,Steven Buchanan,1997-11-05,1997-11-14
+10731,CHOPS,Chop-suey Chinese,7,Robert King,1997-11-06,1997-11-14
+10732,BONAP,Bon app',3,Janet Leverling,1997-11-06,1997-11-07
+10733,BERGS,Berglunds snabbköp,1,Nancy Davolio,1997-11-07,1997-11-10
+10734,GOURL,Gourmet Lanchonetes,2,Andrew Fuller,1997-11-07,1997-11-12
+10735,LETSS,Let's Stop N Shop,6,Michael Suyama,1997-11-10,1997-11-21
+10736,HUNGO,Hungry Owl All-Night Grocers,9,Anne Dodsworth,1997-11-11,1997-11-21
+10737,VINET,Vins et alcools Chevalier,2,Andrew Fuller,1997-11-11,1997-11-18
+10738,SPECD,Spécialités du monde,2,Andrew Fuller,1997-11-12,1997-11-18
+10739,VINET,Vins et alcools Chevalier,3,Janet Leverling,1997-11-12,1997-11-17
+10740,WHITC,White Clover Markets,4,Margaret Peacock,1997-11-13,1997-11-25
+10741,AROUT,Around the Horn,4,Margaret Peacock,1997-11-14,1997-11-18
+10742,BOTTM,Bottom-Dollar Markets,3,Janet Leverling,1997-11-14,1997-11-18
+10743,AROUT,Around the Horn,1,Nancy Davolio,1997-11-17,1997-11-21
+10744,VAFFE,Vaffeljernet,6,Michael Suyama,1997-11-17,1997-11-24
+10745,QUICK,QUICK-Stop,9,Anne Dodsworth,1997-11-18,1997-11-27
+10746,CHOPS,Chop-suey Chinese,1,Nancy Davolio,1997-11-19,1997-11-21
+10747,PICCO,Piccolo und mehr,6,Michael Suyama,1997-11-19,1997-11-26
+10748,SAVEA,Save-a-lot Markets,3,Janet Leverling,1997-11-20,1997-11-28
+10749,ISLAT,Island Trading,4,Margaret Peacock,1997-11-20,1997-12-19
+10750,WARTH,Wartian Herkku,9,Anne Dodsworth,1997-11-21,1997-11-24
+10751,RICSU,Richter Supermarkt,3,Janet Leverling,1997-11-24,1997-12-03
+10752,NORTS,North/South,2,Andrew Fuller,1997-11-24,1997-11-28
+10753,FRANS,Franchi S.p.A.,3,Janet Leverling,1997-11-25,1997-11-27
+10754,MAGAA,Magazzini Alimentari Riuniti,6,Michael Suyama,1997-11-25,1997-11-27
+10755,BONAP,Bon app',4,Margaret Peacock,1997-11-26,1997-11-28
+10756,SPLIR,Split Rail Beer & Ale,8,Laura Callahan,1997-11-27,1997-12-02
+10757,SAVEA,Save-a-lot Markets,6,Michael Suyama,1997-11-27,1997-12-15
+10758,RICSU,Richter Supermarkt,3,Janet Leverling,1997-11-28,1997-12-04
+10759,ANATR,Ana Trujillo Emparedados y helados,3,Janet Leverling,1997-11-28,1997-12-12
+10760,MAISD,Maison Dewey,4,Margaret Peacock,1997-12-01,1997-12-10
+10761,RATTC,Rattlesnake Canyon Grocery,5,Steven Buchanan,1997-12-02,1997-12-08
+10762,FOLKO,Folk och fä HB,3,Janet Leverling,1997-12-02,1997-12-09
+10763,FOLIG,Folies gourmandes,3,Janet Leverling,1997-12-03,1997-12-08
+10764,ERNSH,Ernst Handel,6,Michael Suyama,1997-12-03,1997-12-08
+10765,QUICK,QUICK-Stop,3,Janet Leverling,1997-12-04,1997-12-09
+10766,OTTIK,Ottilies Käseladen,4,Margaret Peacock,1997-12-05,1997-12-09
+10767,SUPRD,Suprêmes délices,4,Margaret Peacock,1997-12-05,1997-12-15
+10768,AROUT,Around the Horn,3,Janet Leverling,1997-12-08,1997-12-15
+10769,VAFFE,Vaffeljernet,3,Janet Leverling,1997-12-08,1997-12-12
+10770,HANAR,Hanari Carnes,8,Laura Callahan,1997-12-09,1997-12-17
+10771,ERNSH,Ernst Handel,9,Anne Dodsworth,1997-12-10,1998-01-02
+10772,LEHMS,Lehmanns Marktstand,3,Janet Leverling,1997-12-10,1997-12-19
+10773,ERNSH,Ernst Handel,1,Nancy Davolio,1997-12-11,1997-12-16
+10774,FOLKO,Folk och fä HB,4,Margaret Peacock,1997-12-11,1997-12-12
+10775,THECR,The Cracker Box,7,Robert King,1997-12-12,1997-12-26
+10776,ERNSH,Ernst Handel,1,Nancy Davolio,1997-12-15,1997-12-18
+10777,GOURL,Gourmet Lanchonetes,7,Robert King,1997-12-15,1998-01-21
+10778,BERGS,Berglunds snabbköp,3,Janet Leverling,1997-12-16,1997-12-24
+10779,MORGK,Morgenstern Gesundkost,3,Janet Leverling,1997-12-16,1998-01-14
+10780,LILAS,LILA-Supermercado,2,Andrew Fuller,1997-12-16,1997-12-25
+10781,WARTH,Wartian Herkku,2,Andrew Fuller,1997-12-17,1997-12-19
+10782,CACTU,Cactus Comidas para llevar,9,Anne Dodsworth,1997-12-17,1997-12-22
+10783,HANAR,Hanari Carnes,4,Margaret Peacock,1997-12-18,1997-12-19
+10784,MAGAA,Magazzini Alimentari Riuniti,4,Margaret Peacock,1997-12-18,1997-12-22
+10785,GROSR,GROSELLA-Restaurante,1,Nancy Davolio,1997-12-18,1997-12-24
+10786,QUEEN,Queen Cozinha,8,Laura Callahan,1997-12-19,1997-12-23
+10787,LAMAI,La maison d'Asie,2,Andrew Fuller,1997-12-19,1997-12-26
+10788,QUICK,QUICK-Stop,1,Nancy Davolio,1997-12-22,1998-01-19
+10789,FOLIG,Folies gourmandes,1,Nancy Davolio,1997-12-22,1997-12-31
+10790,GOURL,Gourmet Lanchonetes,6,Michael Suyama,1997-12-22,1997-12-26
+10791,FRANK,Frankenversand,6,Michael Suyama,1997-12-23,1998-01-01
+10792,WOLZA,Wolski  Zajazd,1,Nancy Davolio,1997-12-23,1997-12-31
+10793,AROUT,Around the Horn,3,Janet Leverling,1997-12-24,1998-01-08
+10794,QUEDE,Que Delícia,6,Michael Suyama,1997-12-24,1998-01-02
+10795,ERNSH,Ernst Handel,8,Laura Callahan,1997-12-24,1998-01-20
+10796,HILAA,HILARION-Abastos,3,Janet Leverling,1997-12-25,1998-01-14
+10797,DRACD,Drachenblut Delikatessen,7,Robert King,1997-12-25,1998-01-05
+10798,ISLAT,Island Trading,2,Andrew Fuller,1997-12-26,1998-01-05
+10799,KOENE,Königlich Essen,9,Anne Dodsworth,1997-12-26,1998-01-05
+10800,SEVES,Seven Seas Imports,1,Nancy Davolio,1997-12-26,1998-01-05
+10801,BOLID,Bólido Comidas preparadas,4,Margaret Peacock,1997-12-29,1997-12-31
+10802,SIMOB,Simons bistro,4,Margaret Peacock,1997-12-29,1998-01-02
+10803,WELLI,Wellington Importadora,4,Margaret Peacock,1997-12-30,1998-01-06
+10804,SEVES,Seven Seas Imports,6,Michael Suyama,1997-12-30,1998-01-07
+10805,THEBI,The Big Cheese,2,Andrew Fuller,1997-12-30,1998-01-09
+10806,VICTE,Victuailles en stock,3,Janet Leverling,1997-12-31,1998-01-05
+10807,FRANS,Franchi S.p.A.,4,Margaret Peacock,1997-12-31,1998-01-30
+10808,OLDWO,Old World Delicatessen,2,Andrew Fuller,1998-01-01,1998-01-09
+10809,WELLI,Wellington Importadora,7,Robert King,1998-01-01,1998-01-07
+10810,LAUGB,Laughing Bacchus Wine Cellars,2,Andrew Fuller,1998-01-01,1998-01-07
+10811,LINOD,LINO-Delicateses,8,Laura Callahan,1998-01-02,1998-01-08
+10812,REGGC,Reggiani Caseifici,5,Steven Buchanan,1998-01-02,1998-01-12
+10813,RICAR,Ricardo Adocicados,1,Nancy Davolio,1998-01-05,1998-01-09
+10814,VICTE,Victuailles en stock,3,Janet Leverling,1998-01-05,1998-01-14
+10815,SAVEA,Save-a-lot Markets,2,Andrew Fuller,1998-01-05,1998-01-14
+10816,GREAL,Great Lakes Food Market,4,Margaret Peacock,1998-01-06,1998-02-04
+10817,KOENE,Königlich Essen,3,Janet Leverling,1998-01-06,1998-01-13
+10818,MAGAA,Magazzini Alimentari Riuniti,7,Robert King,1998-01-07,1998-01-12
+10819,CACTU,Cactus Comidas para llevar,2,Andrew Fuller,1998-01-07,1998-01-16
+10820,RATTC,Rattlesnake Canyon Grocery,3,Janet Leverling,1998-01-07,1998-01-13
+10821,SPLIR,Split Rail Beer & Ale,1,Nancy Davolio,1998-01-08,1998-01-15
+10822,TRAIH,Trail's Head Gourmet Provisioners,6,Michael Suyama,1998-01-08,1998-01-16
+10823,LILAS,LILA-Supermercado,5,Steven Buchanan,1998-01-09,1998-01-13
+10824,FOLKO,Folk och fä HB,8,Laura Callahan,1998-01-09,1998-01-30
+10825,DRACD,Drachenblut Delikatessen,1,Nancy Davolio,1998-01-09,1998-01-14
+10826,BLONP,Blondesddsl père et fils,6,Michael Suyama,1998-01-12,1998-02-06
+10827,BONAP,Bon app',1,Nancy Davolio,1998-01-12,1998-02-06
+10828,RANCH,Rancho grande,9,Anne Dodsworth,1998-01-13,1998-02-04
+10829,ISLAT,Island Trading,9,Anne Dodsworth,1998-01-13,1998-01-23
+10830,TRADH,Tradição Hipermercados,4,Margaret Peacock,1998-01-13,1998-01-21
+10831,SANTG,Santé Gourmet,3,Janet Leverling,1998-01-14,1998-01-23
+10832,LAMAI,La maison d'Asie,2,Andrew Fuller,1998-01-14,1998-01-19
+10833,OTTIK,Ottilies Käseladen,6,Michael Suyama,1998-01-15,1998-01-23
+10834,TRADH,Tradição Hipermercados,1,Nancy Davolio,1998-01-15,1998-01-19
+10835,ALFKI,Alfreds Futterkiste,1,Nancy Davolio,1998-01-15,1998-01-21
+10836,ERNSH,Ernst Handel,7,Robert King,1998-01-16,1998-01-21
+10837,BERGS,Berglunds snabbköp,9,Anne Dodsworth,1998-01-16,1998-01-23
+10838,LINOD,LINO-Delicateses,3,Janet Leverling,1998-01-19,1998-01-23
+10839,TRADH,Tradição Hipermercados,3,Janet Leverling,1998-01-19,1998-01-22
+10840,LINOD,LINO-Delicateses,4,Margaret Peacock,1998-01-19,1998-02-16
+10841,SUPRD,Suprêmes délices,5,Steven Buchanan,1998-01-20,1998-01-29
+10842,TORTU,Tortuga Restaurante,1,Nancy Davolio,1998-01-20,1998-01-29
+10843,VICTE,Victuailles en stock,4,Margaret Peacock,1998-01-21,1998-01-26
+10844,PICCO,Piccolo und mehr,8,Laura Callahan,1998-01-21,1998-01-26
+10845,QUICK,QUICK-Stop,8,Laura Callahan,1998-01-21,1998-01-30
+10846,SUPRD,Suprêmes délices,2,Andrew Fuller,1998-01-22,1998-01-23
+10847,SAVEA,Save-a-lot Markets,4,Margaret Peacock,1998-01-22,1998-02-10
+10848,CONSH,Consolidated Holdings,7,Robert King,1998-01-23,1998-01-29
+10849,KOENE,Königlich Essen,9,Anne Dodsworth,1998-01-23,1998-01-30
+10850,VICTE,Victuailles en stock,1,Nancy Davolio,1998-01-23,1998-01-30
+10851,RICAR,Ricardo Adocicados,5,Steven Buchanan,1998-01-26,1998-02-02
+10852,RATTC,Rattlesnake Canyon Grocery,8,Laura Callahan,1998-01-26,1998-01-30
+10853,BLAUS,Blauer See Delikatessen,9,Anne Dodsworth,1998-01-27,1998-02-03
+10854,ERNSH,Ernst Handel,3,Janet Leverling,1998-01-27,1998-02-05
+10855,OLDWO,Old World Delicatessen,3,Janet Leverling,1998-01-27,1998-02-04
+10856,ANTON,Antonio Moreno Taquería,3,Janet Leverling,1998-01-28,1998-02-10
+10857,BERGS,Berglunds snabbköp,8,Laura Callahan,1998-01-28,1998-02-06
+10858,LACOR,La corne d'abondance,2,Andrew Fuller,1998-01-29,1998-02-03
+10859,FRANK,Frankenversand,1,Nancy Davolio,1998-01-29,1998-02-02
+10860,FRANR,France restauration,3,Janet Leverling,1998-01-29,1998-02-04
+10861,WHITC,White Clover Markets,4,Margaret Peacock,1998-01-30,1998-02-17
+10862,LEHMS,Lehmanns Marktstand,8,Laura Callahan,1998-01-30,1998-02-02
+10863,HILAA,HILARION-Abastos,4,Margaret Peacock,1998-02-02,1998-02-17
+10864,AROUT,Around the Horn,4,Margaret Peacock,1998-02-02,1998-02-09
+10865,QUICK,QUICK-Stop,2,Andrew Fuller,1998-02-02,1998-02-12
+10866,BERGS,Berglunds snabbköp,5,Steven Buchanan,1998-02-03,1998-02-12
+10867,LONEP,Lonesome Pine Restaurant,6,Michael Suyama,1998-02-03,1998-02-11
+10868,QUEEN,Queen Cozinha,7,Robert King,1998-02-04,1998-02-23
+10869,SEVES,Seven Seas Imports,5,Steven Buchanan,1998-02-04,1998-02-09
+10870,WOLZA,Wolski  Zajazd,5,Steven Buchanan,1998-02-04,1998-02-13
+10871,BONAP,Bon app',9,Anne Dodsworth,1998-02-05,1998-02-10
+10872,GODOS,Godos Cocina Típica,5,Steven Buchanan,1998-02-05,1998-02-09
+10873,WILMK,Wilman Kala,4,Margaret Peacock,1998-02-06,1998-02-09
+10874,GODOS,Godos Cocina Típica,5,Steven Buchanan,1998-02-06,1998-02-11
+10875,BERGS,Berglunds snabbköp,4,Margaret Peacock,1998-02-06,1998-03-03
+10876,BONAP,Bon app',7,Robert King,1998-02-09,1998-02-12
+10877,RICAR,Ricardo Adocicados,1,Nancy Davolio,1998-02-09,1998-02-19
+10878,QUICK,QUICK-Stop,4,Margaret Peacock,1998-02-10,1998-02-12
+10879,WILMK,Wilman Kala,3,Janet Leverling,1998-02-10,1998-02-12
+10880,FOLKO,Folk och fä HB,7,Robert King,1998-02-10,1998-02-18
+10881,CACTU,Cactus Comidas para llevar,4,Margaret Peacock,1998-02-11,1998-02-18
+10882,SAVEA,Save-a-lot Markets,4,Margaret Peacock,1998-02-11,1998-02-20
+10883,LONEP,Lonesome Pine Restaurant,8,Laura Callahan,1998-02-12,1998-02-20
+10884,LETSS,Let's Stop N Shop,4,Margaret Peacock,1998-02-12,1998-02-13
+10885,SUPRD,Suprêmes délices,6,Michael Suyama,1998-02-12,1998-02-18
+10886,HANAR,Hanari Carnes,1,Nancy Davolio,1998-02-13,1998-03-02
+10887,GALED,Galería del gastrónomo,8,Laura Callahan,1998-02-13,1998-02-16
+10888,GODOS,Godos Cocina Típica,1,Nancy Davolio,1998-02-16,1998-02-23
+10889,RATTC,Rattlesnake Canyon Grocery,9,Anne Dodsworth,1998-02-16,1998-02-23
+10890,DUMON,Du monde entier,7,Robert King,1998-02-16,1998-02-18
+10891,LEHMS,Lehmanns Marktstand,7,Robert King,1998-02-17,1998-02-19
+10892,MAISD,Maison Dewey,4,Margaret Peacock,1998-02-17,1998-02-19
+10893,KOENE,Königlich Essen,9,Anne Dodsworth,1998-02-18,1998-02-20
+10894,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1998-02-18,1998-02-20
+10895,ERNSH,Ernst Handel,3,Janet Leverling,1998-02-18,1998-02-23
+10896,MAISD,Maison Dewey,7,Robert King,1998-02-19,1998-02-27
+10897,HUNGO,Hungry Owl All-Night Grocers,3,Janet Leverling,1998-02-19,1998-02-25
+10898,OCEAN,Océano Atlántico Ltda.,4,Margaret Peacock,1998-02-20,1998-03-06
+10899,LILAS,LILA-Supermercado,5,Steven Buchanan,1998-02-20,1998-02-26
+10900,WELLI,Wellington Importadora,1,Nancy Davolio,1998-02-20,1998-03-04
+10901,HILAA,HILARION-Abastos,4,Margaret Peacock,1998-02-23,1998-02-26
+10902,FOLKO,Folk och fä HB,1,Nancy Davolio,1998-02-23,1998-03-03
+10903,HANAR,Hanari Carnes,3,Janet Leverling,1998-02-24,1998-03-04
+10904,WHITC,White Clover Markets,3,Janet Leverling,1998-02-24,1998-02-27
+10905,WELLI,Wellington Importadora,9,Anne Dodsworth,1998-02-24,1998-03-06
+10906,WOLZA,Wolski  Zajazd,4,Margaret Peacock,1998-02-25,1998-03-03
+10907,SPECD,Spécialités du monde,6,Michael Suyama,1998-02-25,1998-02-27
+10908,REGGC,Reggiani Caseifici,4,Margaret Peacock,1998-02-26,1998-03-06
+10909,SANTG,Santé Gourmet,1,Nancy Davolio,1998-02-26,1998-03-10
+10910,WILMK,Wilman Kala,1,Nancy Davolio,1998-02-26,1998-03-04
+10911,GODOS,Godos Cocina Típica,3,Janet Leverling,1998-02-26,1998-03-05
+10912,HUNGO,Hungry Owl All-Night Grocers,2,Andrew Fuller,1998-02-26,1998-03-18
+10913,QUEEN,Queen Cozinha,4,Margaret Peacock,1998-02-26,1998-03-04
+10914,QUEEN,Queen Cozinha,6,Michael Suyama,1998-02-27,1998-03-02
+10915,TORTU,Tortuga Restaurante,2,Andrew Fuller,1998-02-27,1998-03-02
+10916,RANCH,Rancho grande,1,Nancy Davolio,1998-02-27,1998-03-09
+10917,ROMEY,Romero y tomillo,4,Margaret Peacock,1998-03-02,1998-03-11
+10918,BOTTM,Bottom-Dollar Markets,3,Janet Leverling,1998-03-02,1998-03-11
+10919,LINOD,LINO-Delicateses,2,Andrew Fuller,1998-03-02,1998-03-04
+10920,AROUT,Around the Horn,4,Margaret Peacock,1998-03-03,1998-03-09
+10921,VAFFE,Vaffeljernet,1,Nancy Davolio,1998-03-03,1998-03-09
+10922,HANAR,Hanari Carnes,5,Steven Buchanan,1998-03-03,1998-03-05
+10923,LAMAI,La maison d'Asie,7,Robert King,1998-03-03,1998-03-13
+10924,BERGS,Berglunds snabbköp,3,Janet Leverling,1998-03-04,1998-04-08
+10925,HANAR,Hanari Carnes,3,Janet Leverling,1998-03-04,1998-03-13
+10926,ANATR,Ana Trujillo Emparedados y helados,4,Margaret Peacock,1998-03-04,1998-03-11
+10927,LACOR,La corne d'abondance,4,Margaret Peacock,1998-03-05,1998-04-08
+10928,GALED,Galería del gastrónomo,1,Nancy Davolio,1998-03-05,1998-03-18
+10929,FRANK,Frankenversand,6,Michael Suyama,1998-03-05,1998-03-12
+10930,SUPRD,Suprêmes délices,4,Margaret Peacock,1998-03-06,1998-03-18
+10931,RICSU,Richter Supermarkt,4,Margaret Peacock,1998-03-06,1998-03-19
+10932,BONAP,Bon app',8,Laura Callahan,1998-03-06,1998-03-24
+10933,ISLAT,Island Trading,6,Michael Suyama,1998-03-06,1998-03-16
+10934,LEHMS,Lehmanns Marktstand,3,Janet Leverling,1998-03-09,1998-03-12
+10935,WELLI,Wellington Importadora,4,Margaret Peacock,1998-03-09,1998-03-18
+10936,GREAL,Great Lakes Food Market,3,Janet Leverling,1998-03-09,1998-03-18
+10937,CACTU,Cactus Comidas para llevar,7,Robert King,1998-03-10,1998-03-13
+10938,QUICK,QUICK-Stop,3,Janet Leverling,1998-03-10,1998-03-16
+10939,MAGAA,Magazzini Alimentari Riuniti,2,Andrew Fuller,1998-03-10,1998-03-13
+10940,BONAP,Bon app',8,Laura Callahan,1998-03-11,1998-03-23
+10941,SAVEA,Save-a-lot Markets,7,Robert King,1998-03-11,1998-03-20
+10942,REGGC,Reggiani Caseifici,9,Anne Dodsworth,1998-03-11,1998-03-18
+10943,BSBEV,B's Beverages,4,Margaret Peacock,1998-03-11,1998-03-19
+10944,BOTTM,Bottom-Dollar Markets,6,Michael Suyama,1998-03-12,1998-03-13
+10945,MORGK,Morgenstern Gesundkost,4,Margaret Peacock,1998-03-12,1998-03-18
+10946,VAFFE,Vaffeljernet,1,Nancy Davolio,1998-03-12,1998-03-19
+10947,BSBEV,B's Beverages,3,Janet Leverling,1998-03-13,1998-03-16
+10948,GODOS,Godos Cocina Típica,3,Janet Leverling,1998-03-13,1998-03-19
+10949,BOTTM,Bottom-Dollar Markets,2,Andrew Fuller,1998-03-13,1998-03-17
+10950,MAGAA,Magazzini Alimentari Riuniti,1,Nancy Davolio,1998-03-16,1998-03-23
+10951,RICSU,Richter Supermarkt,9,Anne Dodsworth,1998-03-16,1998-04-07
+10952,ALFKI,Alfreds Futterkiste,1,Nancy Davolio,1998-03-16,1998-03-24
+10953,AROUT,Around the Horn,9,Anne Dodsworth,1998-03-16,1998-03-25
+10954,LINOD,LINO-Delicateses,5,Steven Buchanan,1998-03-17,1998-03-20
+10955,FOLKO,Folk och fä HB,8,Laura Callahan,1998-03-17,1998-03-20
+10956,BLAUS,Blauer See Delikatessen,6,Michael Suyama,1998-03-17,1998-03-20
+10957,HILAA,HILARION-Abastos,8,Laura Callahan,1998-03-18,1998-03-27
+10958,OCEAN,Océano Atlántico Ltda.,7,Robert King,1998-03-18,1998-03-27
+10959,GOURL,Gourmet Lanchonetes,6,Michael Suyama,1998-03-18,1998-03-23
+10960,HILAA,HILARION-Abastos,3,Janet Leverling,1998-03-19,1998-04-08
+10961,QUEEN,Queen Cozinha,8,Laura Callahan,1998-03-19,1998-03-30
+10962,QUICK,QUICK-Stop,8,Laura Callahan,1998-03-19,1998-03-23
+10963,FURIB,Furia Bacalhau e Frutos do Mar,9,Anne Dodsworth,1998-03-19,1998-03-26
+10964,SPECD,Spécialités du monde,3,Janet Leverling,1998-03-20,1998-03-24
+10965,OLDWO,Old World Delicatessen,6,Michael Suyama,1998-03-20,1998-03-30
+10966,CHOPS,Chop-suey Chinese,4,Margaret Peacock,1998-03-20,1998-04-08
+10967,TOMSP,Toms Spezialitäten,2,Andrew Fuller,1998-03-23,1998-04-02
+10968,ERNSH,Ernst Handel,1,Nancy Davolio,1998-03-23,1998-04-01
+10969,COMMI,Comércio Mineiro,1,Nancy Davolio,1998-03-23,1998-03-30
+10970,BOLID,Bólido Comidas preparadas,9,Anne Dodsworth,1998-03-24,1998-04-24
+10971,FRANR,France restauration,2,Andrew Fuller,1998-03-24,1998-04-02
+10972,LACOR,La corne d'abondance,4,Margaret Peacock,1998-03-24,1998-03-26
+10973,LACOR,La corne d'abondance,6,Michael Suyama,1998-03-24,1998-03-27
+10974,SPLIR,Split Rail Beer & Ale,3,Janet Leverling,1998-03-25,1998-04-03
+10975,BOTTM,Bottom-Dollar Markets,1,Nancy Davolio,1998-03-25,1998-03-27
+10976,HILAA,HILARION-Abastos,1,Nancy Davolio,1998-03-25,1998-04-03
+10977,FOLKO,Folk och fä HB,8,Laura Callahan,1998-03-26,1998-04-10
+10978,MAISD,Maison Dewey,9,Anne Dodsworth,1998-03-26,1998-04-23
+10979,ERNSH,Ernst Handel,8,Laura Callahan,1998-03-26,1998-03-31
+10980,FOLKO,Folk och fä HB,4,Margaret Peacock,1998-03-27,1998-04-17
+10981,HANAR,Hanari Carnes,1,Nancy Davolio,1998-03-27,1998-04-02
+10982,BOTTM,Bottom-Dollar Markets,2,Andrew Fuller,1998-03-27,1998-04-08
+10983,SAVEA,Save-a-lot Markets,2,Andrew Fuller,1998-03-27,1998-04-06
+10984,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1998-03-30,1998-04-03
+10985,HUNGO,Hungry Owl All-Night Grocers,2,Andrew Fuller,1998-03-30,1998-04-02
+10986,OCEAN,Océano Atlántico Ltda.,8,Laura Callahan,1998-03-30,1998-04-21
+10987,EASTC,Eastern Connection,8,Laura Callahan,1998-03-31,1998-04-06
+10988,RATTC,Rattlesnake Canyon Grocery,3,Janet Leverling,1998-03-31,1998-04-10
+10989,QUEDE,Que Delícia,2,Andrew Fuller,1998-03-31,1998-04-02
+10990,ERNSH,Ernst Handel,2,Andrew Fuller,1998-04-01,1998-04-07
+10991,QUICK,QUICK-Stop,1,Nancy Davolio,1998-04-01,1998-04-07
+10992,THEBI,The Big Cheese,1,Nancy Davolio,1998-04-01,1998-04-03
+10993,FOLKO,Folk och fä HB,7,Robert King,1998-04-01,1998-04-10
+10994,VAFFE,Vaffeljernet,2,Andrew Fuller,1998-04-02,1998-04-09
+10995,PERIC,Pericles Comidas clásicas,1,Nancy Davolio,1998-04-02,1998-04-06
+10996,QUICK,QUICK-Stop,4,Margaret Peacock,1998-04-02,1998-04-10
+10997,LILAS,LILA-Supermercado,8,Laura Callahan,1998-04-03,1998-04-13
+10998,WOLZA,Wolski  Zajazd,8,Laura Callahan,1998-04-03,1998-04-17
+10999,OTTIK,Ottilies Käseladen,6,Michael Suyama,1998-04-03,1998-04-10
+11000,RATTC,Rattlesnake Canyon Grocery,2,Andrew Fuller,1998-04-06,1998-04-14
+11001,FOLKO,Folk och fä HB,2,Andrew Fuller,1998-04-06,1998-04-14
+11002,SAVEA,Save-a-lot Markets,4,Margaret Peacock,1998-04-06,1998-04-16
+11003,THECR,The Cracker Box,3,Janet Leverling,1998-04-06,1998-04-08
+11004,MAISD,Maison Dewey,3,Janet Leverling,1998-04-07,1998-04-20
+11005,WILMK,Wilman Kala,2,Andrew Fuller,1998-04-07,1998-04-10
+11006,GREAL,Great Lakes Food Market,3,Janet Leverling,1998-04-07,1998-04-15
+11007,PRINI,Princesa Isabel Vinhos,8,Laura Callahan,1998-04-08,1998-04-13
+11008,ERNSH,Ernst Handel,7,Robert King,1998-04-08,
+11009,GODOS,Godos Cocina Típica,2,Andrew Fuller,1998-04-08,1998-04-10
+11010,REGGC,Reggiani Caseifici,2,Andrew Fuller,1998-04-09,1998-04-21
+11011,ALFKI,Alfreds Futterkiste,3,Janet Leverling,1998-04-09,1998-04-13
+11012,FRANK,Frankenversand,1,Nancy Davolio,1998-04-09,1998-04-17
+11013,ROMEY,Romero y tomillo,2,Andrew Fuller,1998-04-09,1998-04-10
+11014,LINOD,LINO-Delicateses,2,Andrew Fuller,1998-04-10,1998-04-15
+11015,SANTG,Santé Gourmet,2,Andrew Fuller,1998-04-10,1998-04-20
+11016,AROUT,Around the Horn,9,Anne Dodsworth,1998-04-10,1998-04-13
+11017,ERNSH,Ernst Handel,9,Anne Dodsworth,1998-04-13,1998-04-20
+11018,LONEP,Lonesome Pine Restaurant,4,Margaret Peacock,1998-04-13,1998-04-16
+11019,RANCH,Rancho grande,6,Michael Suyama,1998-04-13,
+11020,OTTIK,Ottilies Käseladen,2,Andrew Fuller,1998-04-14,1998-04-16
+11021,QUICK,QUICK-Stop,3,Janet Leverling,1998-04-14,1998-04-21
+11022,HANAR,Hanari Carnes,9,Anne Dodsworth,1998-04-14,1998-05-04
+11023,BSBEV,B's Beverages,1,Nancy Davolio,1998-04-14,1998-04-24
+11024,EASTC,Eastern Connection,4,Margaret Peacock,1998-04-15,1998-04-20
+11025,WARTH,Wartian Herkku,6,Michael Suyama,1998-04-15,1998-04-24
+11026,FRANS,Franchi S.p.A.,4,Margaret Peacock,1998-04-15,1998-04-28
+11027,BOTTM,Bottom-Dollar Markets,1,Nancy Davolio,1998-04-16,1998-04-20
+11028,KOENE,Königlich Essen,2,Andrew Fuller,1998-04-16,1998-04-22
+11029,CHOPS,Chop-suey Chinese,4,Margaret Peacock,1998-04-16,1998-04-27
+11030,SAVEA,Save-a-lot Markets,7,Robert King,1998-04-17,1998-04-27
+11031,SAVEA,Save-a-lot Markets,6,Michael Suyama,1998-04-17,1998-04-24
+11032,WHITC,White Clover Markets,2,Andrew Fuller,1998-04-17,1998-04-23
+11033,RICSU,Richter Supermarkt,7,Robert King,1998-04-17,1998-04-23
+11034,OLDWO,Old World Delicatessen,8,Laura Callahan,1998-04-20,1998-04-27
+11035,SUPRD,Suprêmes délices,2,Andrew Fuller,1998-04-20,1998-04-24
+11036,DRACD,Drachenblut Delikatessen,8,Laura Callahan,1998-04-20,1998-04-22
+11037,GODOS,Godos Cocina Típica,7,Robert King,1998-04-21,1998-04-27
+11038,SUPRD,Suprêmes délices,1,Nancy Davolio,1998-04-21,1998-04-30
+11039,LINOD,LINO-Delicateses,1,Nancy Davolio,1998-04-21,
+11040,GREAL,Great Lakes Food Market,4,Margaret Peacock,1998-04-22,
+11041,CHOPS,Chop-suey Chinese,3,Janet Leverling,1998-04-22,1998-04-28
+11042,COMMI,Comércio Mineiro,2,Andrew Fuller,1998-04-22,1998-05-01
+11043,SPECD,Spécialités du monde,5,Steven Buchanan,1998-04-22,1998-04-29
+11044,WOLZA,Wolski  Zajazd,4,Margaret Peacock,1998-04-23,1998-05-01
+11045,BOTTM,Bottom-Dollar Markets,6,Michael Suyama,1998-04-23,
+11046,WANDK,Die Wandernde Kuh,8,Laura Callahan,1998-04-23,1998-04-24
+11047,EASTC,Eastern Connection,7,Robert King,1998-04-24,1998-05-01
+11048,BOTTM,Bottom-Dollar Markets,7,Robert King,1998-04-24,1998-04-30
+11049,GOURL,Gourmet Lanchonetes,3,Janet Leverling,1998-04-24,1998-05-04
+11050,FOLKO,Folk och fä HB,8,Laura Callahan,1998-04-27,1998-05-05
+11051,LAMAI,La maison d'Asie,7,Robert King,1998-04-27,
+11052,HANAR,Hanari Carnes,3,Janet Leverling,1998-04-27,1998-05-01
+11053,PICCO,Piccolo und mehr,2,Andrew Fuller,1998-04-27,1998-04-29
+11054,CACTU,Cactus Comidas para llevar,8,Laura Callahan,1998-04-28,
+11055,HILAA,HILARION-Abastos,7,Robert King,1998-04-28,1998-05-05
+11056,EASTC,Eastern Connection,8,Laura Callahan,1998-04-28,1998-05-01
+11057,NORTS,North/South,3,Janet Leverling,1998-04-29,1998-05-01
+11058,BLAUS,Blauer See Delikatessen,9,Anne Dodsworth,1998-04-29,
+11059,RICAR,Ricardo Adocicados,2,Andrew Fuller,1998-04-29,
+11060,FRANS,Franchi S.p.A.,2,Andrew Fuller,1998-04-30,1998-05-04
+11061,GREAL,Great Lakes Food Market,4,Margaret Peacock,1998-04-30,
+11062,REGGC,Reggiani Caseifici,4,Margaret Peacock,1998-04-30,
+11063,HUNGO,Hungry Owl All-Night Grocers,3,Janet Leverling,1998-04-30,1998-05-06
+11064,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1998-05-01,1998-05-04
+11065,LILAS,LILA-Supermercado,8,Laura Callahan,1998-05-01,
+11066,WHITC,White Clover Markets,7,Robert King,1998-05-01,1998-05-04
+11067,DRACD,Drachenblut Delikatessen,1,Nancy Davolio,1998-05-04,1998-05-06
+11068,QUEEN,Queen Cozinha,8,Laura Callahan,1998-05-04,
+11069,TORTU,Tortuga Restaurante,1,Nancy Davolio,1998-05-04,1998-05-06
+11070,LEHMS,Lehmanns Marktstand,2,Andrew Fuller,1998-05-05,
+11071,LILAS,LILA-Supermercado,1,Nancy Davolio,1998-05-05,
+11072,ERNSH,Ernst Handel,4,Margaret Peacock,1998-05-05,
+11073,PERIC,Pericles Comidas clásicas,2,Andrew Fuller,1998-05-05,
+11074,SIMOB,Simons bistro,7,Robert King,1998-05-06,
+11075,RICSU,Richter Supermarkt,8,Laura Callahan,1998-05-06,
+11076,BONAP,Bon app',4,Margaret Peacock,1998-05-06,
+11077,RATTC,Rattlesnake Canyon Grocery,1,Nancy Davolio,1998-05-06,

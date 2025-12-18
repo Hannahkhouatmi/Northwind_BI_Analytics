@@ -1,0 +1,879 @@
+OrderID,CustomerID,CompanyName,EmployeeID,EmployeeName,OrderDate,ShippedDate,Source,Statut
+10248,VINET,Vins et alcools Chevalier,5,Steven Buchanan,1996-07-04 00:00:00,1996-07-16,SQL_Server,Livré
+10249,TOMSP,Toms Spezialitäten,6,Michael Suyama,1996-07-05 00:00:00,1996-07-10,SQL_Server,Livré
+10250,HANAR,Hanari Carnes,4,Margaret Peacock,1996-07-08 00:00:00,1996-07-12,SQL_Server,Livré
+10251,VICTE,Victuailles en stock,3,Janet Leverling,1996-07-08 00:00:00,1996-07-15,SQL_Server,Livré
+10252,SUPRD,Suprêmes délices,4,Margaret Peacock,1996-07-09 00:00:00,1996-07-11,SQL_Server,Livré
+10253,HANAR,Hanari Carnes,3,Janet Leverling,1996-07-10 00:00:00,1996-07-16,SQL_Server,Livré
+10254,CHOPS,Chop-suey Chinese,5,Steven Buchanan,1996-07-11 00:00:00,1996-07-23,SQL_Server,Livré
+10255,RICSU,Richter Supermarkt,9,Anne Dodsworth,1996-07-12 00:00:00,1996-07-15,SQL_Server,Livré
+10256,WELLI,Wellington Importadora,3,Janet Leverling,1996-07-15 00:00:00,1996-07-17,SQL_Server,Livré
+10257,HILAA,HILARION-Abastos,4,Margaret Peacock,1996-07-16 00:00:00,1996-07-22,SQL_Server,Livré
+10258,ERNSH,Ernst Handel,1,Nancy Davolio,1996-07-17 00:00:00,1996-07-23,SQL_Server,Livré
+10259,CENTC,Centro comercial Moctezuma,4,Margaret Peacock,1996-07-18 00:00:00,1996-07-25,SQL_Server,Livré
+10260,OTTIK,Ottilies Käseladen,4,Margaret Peacock,1996-07-19 00:00:00,1996-07-29,SQL_Server,Livré
+10261,QUEDE,Que Delícia,4,Margaret Peacock,1996-07-19 00:00:00,1996-07-30,SQL_Server,Livré
+10262,RATTC,Rattlesnake Canyon Grocery,8,Laura Callahan,1996-07-22 00:00:00,1996-07-25,SQL_Server,Livré
+10263,ERNSH,Ernst Handel,9,Anne Dodsworth,1996-07-23 00:00:00,1996-07-31,SQL_Server,Livré
+10264,FOLKO,Folk och fä HB,6,Michael Suyama,1996-07-24 00:00:00,1996-08-23,SQL_Server,Livré
+10265,BLONP,Blondesddsl père et fils,2,Andrew Fuller,1996-07-25 00:00:00,1996-08-12,SQL_Server,Livré
+10266,WARTH,Wartian Herkku,3,Janet Leverling,1996-07-26 00:00:00,1996-07-31,SQL_Server,Livré
+10267,FRANK,Frankenversand,4,Margaret Peacock,1996-07-29 00:00:00,1996-08-06,SQL_Server,Livré
+10268,GROSR,GROSELLA-Restaurante,8,Laura Callahan,1996-07-30 00:00:00,1996-08-02,SQL_Server,Livré
+10269,WHITC,White Clover Markets,5,Steven Buchanan,1996-07-31 00:00:00,1996-08-09,SQL_Server,Livré
+10270,WARTH,Wartian Herkku,1,Nancy Davolio,1996-08-01 00:00:00,1996-08-02,SQL_Server,Livré
+10271,SPLIR,Split Rail Beer & Ale,6,Michael Suyama,1996-08-01 00:00:00,1996-08-30,SQL_Server,Livré
+10272,RATTC,Rattlesnake Canyon Grocery,6,Michael Suyama,1996-08-02 00:00:00,1996-08-06,SQL_Server,Livré
+10273,QUICK,QUICK-Stop,3,Janet Leverling,1996-08-05 00:00:00,1996-08-12,SQL_Server,Livré
+10274,VINET,Vins et alcools Chevalier,6,Michael Suyama,1996-08-06 00:00:00,1996-08-16,SQL_Server,Livré
+10275,MAGAA,Magazzini Alimentari Riuniti,1,Nancy Davolio,1996-08-07 00:00:00,1996-08-09,SQL_Server,Livré
+10276,TORTU,Tortuga Restaurante,8,Laura Callahan,1996-08-08 00:00:00,1996-08-14,SQL_Server,Livré
+10277,MORGK,Morgenstern Gesundkost,2,Andrew Fuller,1996-08-09 00:00:00,1996-08-13,SQL_Server,Livré
+10278,BERGS,Berglunds snabbköp,8,Laura Callahan,1996-08-12 00:00:00,1996-08-16,SQL_Server,Livré
+10279,LEHMS,Lehmanns Marktstand,8,Laura Callahan,1996-08-13 00:00:00,1996-08-16,SQL_Server,Livré
+10280,BERGS,Berglunds snabbköp,2,Andrew Fuller,1996-08-14 00:00:00,1996-09-12,SQL_Server,Livré
+10281,ROMEY,Romero y tomillo,4,Margaret Peacock,1996-08-14 00:00:00,1996-08-21,SQL_Server,Livré
+10282,ROMEY,Romero y tomillo,4,Margaret Peacock,1996-08-15 00:00:00,1996-08-21,SQL_Server,Livré
+10283,LILAS,LILA-Supermercado,3,Janet Leverling,1996-08-16 00:00:00,1996-08-23,SQL_Server,Livré
+10284,LEHMS,Lehmanns Marktstand,4,Margaret Peacock,1996-08-19 00:00:00,1996-08-27,SQL_Server,Livré
+10285,QUICK,QUICK-Stop,1,Nancy Davolio,1996-08-20 00:00:00,1996-08-26,SQL_Server,Livré
+10286,QUICK,QUICK-Stop,8,Laura Callahan,1996-08-21 00:00:00,1996-08-30,SQL_Server,Livré
+10287,RICAR,Ricardo Adocicados,8,Laura Callahan,1996-08-22 00:00:00,1996-08-28,SQL_Server,Livré
+10288,REGGC,Reggiani Caseifici,4,Margaret Peacock,1996-08-23 00:00:00,1996-09-03,SQL_Server,Livré
+10289,BSBEV,B's Beverages,7,Robert King,1996-08-26 00:00:00,1996-08-28,SQL_Server,Livré
+10290,COMMI,Comércio Mineiro,8,Laura Callahan,1996-08-27 00:00:00,1996-09-03,SQL_Server,Livré
+10291,QUEDE,Que Delícia,6,Michael Suyama,1996-08-27 00:00:00,1996-09-04,SQL_Server,Livré
+10292,TRADH,Tradição Hipermercados,1,Nancy Davolio,1996-08-28 00:00:00,1996-09-02,SQL_Server,Livré
+10293,TORTU,Tortuga Restaurante,1,Nancy Davolio,1996-08-29 00:00:00,1996-09-11,SQL_Server,Livré
+10294,RATTC,Rattlesnake Canyon Grocery,4,Margaret Peacock,1996-08-30 00:00:00,1996-09-05,SQL_Server,Livré
+10295,VINET,Vins et alcools Chevalier,2,Andrew Fuller,1996-09-02 00:00:00,1996-09-10,SQL_Server,Livré
+10296,LILAS,LILA-Supermercado,6,Michael Suyama,1996-09-03 00:00:00,1996-09-11,SQL_Server,Livré
+10297,BLONP,Blondesddsl père et fils,5,Steven Buchanan,1996-09-04 00:00:00,1996-09-10,SQL_Server,Livré
+10298,HUNGO,Hungry Owl All-Night Grocers,6,Michael Suyama,1996-09-05 00:00:00,1996-09-11,SQL_Server,Livré
+10299,RICAR,Ricardo Adocicados,4,Margaret Peacock,1996-09-06 00:00:00,1996-09-13,SQL_Server,Livré
+10300,MAGAA,Magazzini Alimentari Riuniti,2,Andrew Fuller,1996-09-09 00:00:00,1996-09-18,SQL_Server,Livré
+10301,WANDK,Die Wandernde Kuh,8,Laura Callahan,1996-09-09 00:00:00,1996-09-17,SQL_Server,Livré
+10302,SUPRD,Suprêmes délices,4,Margaret Peacock,1996-09-10 00:00:00,1996-10-09,SQL_Server,Livré
+10303,GODOS,Godos Cocina Típica,7,Robert King,1996-09-11 00:00:00,1996-09-18,SQL_Server,Livré
+10304,TORTU,Tortuga Restaurante,1,Nancy Davolio,1996-09-12 00:00:00,1996-09-17,SQL_Server,Livré
+10305,OLDWO,Old World Delicatessen,8,Laura Callahan,1996-09-13 00:00:00,1996-10-09,SQL_Server,Livré
+10306,ROMEY,Romero y tomillo,1,Nancy Davolio,1996-09-16 00:00:00,1996-09-23,SQL_Server,Livré
+10307,LONEP,Lonesome Pine Restaurant,2,Andrew Fuller,1996-09-17 00:00:00,1996-09-25,SQL_Server,Livré
+10308,ANATR,Ana Trujillo Emparedados y helados,7,Robert King,1996-09-18 00:00:00,1996-09-24,SQL_Server,Livré
+10309,HUNGO,Hungry Owl All-Night Grocers,3,Janet Leverling,1996-09-19 00:00:00,1996-10-23,SQL_Server,Livré
+10310,THEBI,The Big Cheese,8,Laura Callahan,1996-09-20 00:00:00,1996-09-27,SQL_Server,Livré
+10311,DUMON,Du monde entier,1,Nancy Davolio,1996-09-20 00:00:00,1996-09-26,SQL_Server,Livré
+10312,WANDK,Die Wandernde Kuh,2,Andrew Fuller,1996-09-23 00:00:00,1996-10-03,SQL_Server,Livré
+10313,QUICK,QUICK-Stop,2,Andrew Fuller,1996-09-24 00:00:00,1996-10-04,SQL_Server,Livré
+10314,RATTC,Rattlesnake Canyon Grocery,1,Nancy Davolio,1996-09-25 00:00:00,1996-10-04,SQL_Server,Livré
+10315,ISLAT,Island Trading,4,Margaret Peacock,1996-09-26 00:00:00,1996-10-03,SQL_Server,Livré
+10316,RATTC,Rattlesnake Canyon Grocery,1,Nancy Davolio,1996-09-27 00:00:00,1996-10-08,SQL_Server,Livré
+10317,LONEP,Lonesome Pine Restaurant,6,Michael Suyama,1996-09-30 00:00:00,1996-10-10,SQL_Server,Livré
+10318,ISLAT,Island Trading,8,Laura Callahan,1996-10-01 00:00:00,1996-10-04,SQL_Server,Livré
+10319,TORTU,Tortuga Restaurante,7,Robert King,1996-10-02 00:00:00,1996-10-11,SQL_Server,Livré
+10320,WARTH,Wartian Herkku,5,Steven Buchanan,1996-10-03 00:00:00,1996-10-18,SQL_Server,Livré
+10321,ISLAT,Island Trading,3,Janet Leverling,1996-10-03 00:00:00,1996-10-11,SQL_Server,Livré
+10322,PERIC,Pericles Comidas clásicas,7,Robert King,1996-10-04 00:00:00,1996-10-23,SQL_Server,Livré
+10323,KOENE,Königlich Essen,4,Margaret Peacock,1996-10-07 00:00:00,1996-10-14,SQL_Server,Livré
+10324,SAVEA,Save-a-lot Markets,9,Anne Dodsworth,1996-10-08 00:00:00,1996-10-10,SQL_Server,Livré
+10325,KOENE,Königlich Essen,1,Nancy Davolio,1996-10-09 00:00:00,1996-10-14,SQL_Server,Livré
+10326,BOLID,Bólido Comidas preparadas,4,Margaret Peacock,1996-10-10 00:00:00,1996-10-14,SQL_Server,Livré
+10327,FOLKO,Folk och fä HB,2,Andrew Fuller,1996-10-11 00:00:00,1996-10-14,SQL_Server,Livré
+10328,FURIB,Furia Bacalhau e Frutos do Mar,4,Margaret Peacock,1996-10-14 00:00:00,1996-10-17,SQL_Server,Livré
+10329,SPLIR,Split Rail Beer & Ale,4,Margaret Peacock,1996-10-15 00:00:00,1996-10-23,SQL_Server,Livré
+10330,LILAS,LILA-Supermercado,3,Janet Leverling,1996-10-16 00:00:00,1996-10-28,SQL_Server,Livré
+10331,BONAP,Bon app',9,Anne Dodsworth,1996-10-16 00:00:00,1996-10-21,SQL_Server,Livré
+10332,MEREP,Mère Paillarde,3,Janet Leverling,1996-10-17 00:00:00,1996-10-21,SQL_Server,Livré
+10333,WARTH,Wartian Herkku,5,Steven Buchanan,1996-10-18 00:00:00,1996-10-25,SQL_Server,Livré
+10334,VICTE,Victuailles en stock,8,Laura Callahan,1996-10-21 00:00:00,1996-10-28,SQL_Server,Livré
+10335,HUNGO,Hungry Owl All-Night Grocers,7,Robert King,1996-10-22 00:00:00,1996-10-24,SQL_Server,Livré
+10336,PRINI,Princesa Isabel Vinhos,7,Robert King,1996-10-23 00:00:00,1996-10-25,SQL_Server,Livré
+10337,FRANK,Frankenversand,4,Margaret Peacock,1996-10-24 00:00:00,1996-10-29,SQL_Server,Livré
+10338,OLDWO,Old World Delicatessen,4,Margaret Peacock,1996-10-25 00:00:00,1996-10-29,SQL_Server,Livré
+10339,MEREP,Mère Paillarde,2,Andrew Fuller,1996-10-28 00:00:00,1996-11-04,SQL_Server,Livré
+10340,BONAP,Bon app',1,Nancy Davolio,1996-10-29 00:00:00,1996-11-08,SQL_Server,Livré
+10341,SIMOB,Simons bistro,7,Robert King,1996-10-29 00:00:00,1996-11-05,SQL_Server,Livré
+10342,FRANK,Frankenversand,4,Margaret Peacock,1996-10-30 00:00:00,1996-11-04,SQL_Server,Livré
+10343,LEHMS,Lehmanns Marktstand,4,Margaret Peacock,1996-10-31 00:00:00,1996-11-06,SQL_Server,Livré
+10344,WHITC,White Clover Markets,4,Margaret Peacock,1996-11-01 00:00:00,1996-11-05,SQL_Server,Livré
+10345,QUICK,QUICK-Stop,2,Andrew Fuller,1996-11-04 00:00:00,1996-11-11,SQL_Server,Livré
+10346,RATTC,Rattlesnake Canyon Grocery,3,Janet Leverling,1996-11-05 00:00:00,1996-11-08,SQL_Server,Livré
+10347,FAMIA,Familia Arquibaldo,4,Margaret Peacock,1996-11-06 00:00:00,1996-11-08,SQL_Server,Livré
+10348,WANDK,Die Wandernde Kuh,4,Margaret Peacock,1996-11-07 00:00:00,1996-11-15,SQL_Server,Livré
+10349,SPLIR,Split Rail Beer & Ale,7,Robert King,1996-11-08 00:00:00,1996-11-15,SQL_Server,Livré
+10350,LAMAI,La maison d'Asie,6,Michael Suyama,1996-11-11 00:00:00,1996-12-03,SQL_Server,Livré
+10351,ERNSH,Ernst Handel,1,Nancy Davolio,1996-11-11 00:00:00,1996-11-20,SQL_Server,Livré
+10352,FURIB,Furia Bacalhau e Frutos do Mar,3,Janet Leverling,1996-11-12 00:00:00,1996-11-18,SQL_Server,Livré
+10353,PICCO,Piccolo und mehr,7,Robert King,1996-11-13 00:00:00,1996-11-25,SQL_Server,Livré
+10354,PERIC,Pericles Comidas clásicas,8,Laura Callahan,1996-11-14 00:00:00,1996-11-20,SQL_Server,Livré
+10355,AROUT,Around the Horn,6,Michael Suyama,1996-11-15 00:00:00,1996-11-20,SQL_Server,Livré
+10356,WANDK,Die Wandernde Kuh,6,Michael Suyama,1996-11-18 00:00:00,1996-11-27,SQL_Server,Livré
+10357,LILAS,LILA-Supermercado,1,Nancy Davolio,1996-11-19 00:00:00,1996-12-02,SQL_Server,Livré
+10358,LAMAI,La maison d'Asie,5,Steven Buchanan,1996-11-20 00:00:00,1996-11-27,SQL_Server,Livré
+10359,SEVES,Seven Seas Imports,5,Steven Buchanan,1996-11-21 00:00:00,1996-11-26,SQL_Server,Livré
+10360,BLONP,Blondesddsl père et fils,4,Margaret Peacock,1996-11-22 00:00:00,1996-12-02,SQL_Server,Livré
+10361,QUICK,QUICK-Stop,1,Nancy Davolio,1996-11-22 00:00:00,1996-12-03,SQL_Server,Livré
+10362,BONAP,Bon app',3,Janet Leverling,1996-11-25 00:00:00,1996-11-28,SQL_Server,Livré
+10363,DRACD,Drachenblut Delikatessen,4,Margaret Peacock,1996-11-26 00:00:00,1996-12-04,SQL_Server,Livré
+10364,EASTC,Eastern Connection,1,Nancy Davolio,1996-11-26 00:00:00,1996-12-04,SQL_Server,Livré
+10365,ANTON,Antonio Moreno Taquería,3,Janet Leverling,1996-11-27 00:00:00,1996-12-02,SQL_Server,Livré
+10366,GALED,Galería del gastrónomo,8,Laura Callahan,1996-11-28 00:00:00,1996-12-30,SQL_Server,Livré
+10367,VAFFE,Vaffeljernet,7,Robert King,1996-11-28 00:00:00,1996-12-02,SQL_Server,Livré
+10368,ERNSH,Ernst Handel,2,Andrew Fuller,1996-11-29 00:00:00,1996-12-02,SQL_Server,Livré
+10369,SPLIR,Split Rail Beer & Ale,8,Laura Callahan,1996-12-02 00:00:00,1996-12-09,SQL_Server,Livré
+10370,CHOPS,Chop-suey Chinese,6,Michael Suyama,1996-12-03 00:00:00,1996-12-27,SQL_Server,Livré
+10371,LAMAI,La maison d'Asie,1,Nancy Davolio,1996-12-03 00:00:00,1996-12-24,SQL_Server,Livré
+10372,QUEEN,Queen Cozinha,5,Steven Buchanan,1996-12-04 00:00:00,1996-12-09,SQL_Server,Livré
+10373,HUNGO,Hungry Owl All-Night Grocers,4,Margaret Peacock,1996-12-05 00:00:00,1996-12-11,SQL_Server,Livré
+10374,WOLZA,Wolski  Zajazd,1,Nancy Davolio,1996-12-05 00:00:00,1996-12-09,SQL_Server,Livré
+10375,HUNGC,Hungry Coyote Import Store,3,Janet Leverling,1996-12-06 00:00:00,1996-12-09,SQL_Server,Livré
+10376,MEREP,Mère Paillarde,1,Nancy Davolio,1996-12-09 00:00:00,1996-12-13,SQL_Server,Livré
+10377,SEVES,Seven Seas Imports,1,Nancy Davolio,1996-12-09 00:00:00,1996-12-13,SQL_Server,Livré
+10378,FOLKO,Folk och fä HB,5,Steven Buchanan,1996-12-10 00:00:00,1996-12-19,SQL_Server,Livré
+10379,QUEDE,Que Delícia,2,Andrew Fuller,1996-12-11 00:00:00,1996-12-13,SQL_Server,Livré
+10380,HUNGO,Hungry Owl All-Night Grocers,8,Laura Callahan,1996-12-12 00:00:00,1997-01-16,SQL_Server,Livré
+10381,LILAS,LILA-Supermercado,3,Janet Leverling,1996-12-12 00:00:00,1996-12-13,SQL_Server,Livré
+10382,ERNSH,Ernst Handel,4,Margaret Peacock,1996-12-13 00:00:00,1996-12-16,SQL_Server,Livré
+10383,AROUT,Around the Horn,8,Laura Callahan,1996-12-16 00:00:00,1996-12-18,SQL_Server,Livré
+10384,BERGS,Berglunds snabbköp,3,Janet Leverling,1996-12-16 00:00:00,1996-12-20,SQL_Server,Livré
+10385,SPLIR,Split Rail Beer & Ale,1,Nancy Davolio,1996-12-17 00:00:00,1996-12-23,SQL_Server,Livré
+10386,FAMIA,Familia Arquibaldo,9,Anne Dodsworth,1996-12-18 00:00:00,1996-12-25,SQL_Server,Livré
+10387,SANTG,Santé Gourmet,1,Nancy Davolio,1996-12-18 00:00:00,1996-12-20,SQL_Server,Livré
+10388,SEVES,Seven Seas Imports,2,Andrew Fuller,1996-12-19 00:00:00,1996-12-20,SQL_Server,Livré
+10389,BOTTM,Bottom-Dollar Markets,4,Margaret Peacock,1996-12-20 00:00:00,1996-12-24,SQL_Server,Livré
+10390,ERNSH,Ernst Handel,6,Michael Suyama,1996-12-23 00:00:00,1996-12-26,SQL_Server,Livré
+10391,DRACD,Drachenblut Delikatessen,3,Janet Leverling,1996-12-23 00:00:00,1996-12-31,SQL_Server,Livré
+10392,PICCO,Piccolo und mehr,2,Andrew Fuller,1996-12-24 00:00:00,1997-01-01,SQL_Server,Livré
+10393,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1996-12-25 00:00:00,1997-01-03,SQL_Server,Livré
+10394,HUNGC,Hungry Coyote Import Store,1,Nancy Davolio,1996-12-25 00:00:00,1997-01-03,SQL_Server,Livré
+10395,HILAA,HILARION-Abastos,6,Michael Suyama,1996-12-26 00:00:00,1997-01-03,SQL_Server,Livré
+10396,FRANK,Frankenversand,1,Nancy Davolio,1996-12-27 00:00:00,1997-01-06,SQL_Server,Livré
+10397,PRINI,Princesa Isabel Vinhos,5,Steven Buchanan,1996-12-27 00:00:00,1997-01-02,SQL_Server,Livré
+10398,SAVEA,Save-a-lot Markets,2,Andrew Fuller,1996-12-30 00:00:00,1997-01-09,SQL_Server,Livré
+10399,VAFFE,Vaffeljernet,8,Laura Callahan,1996-12-31 00:00:00,1997-01-08,SQL_Server,Livré
+10400,EASTC,Eastern Connection,1,Nancy Davolio,1997-01-01 00:00:00,1997-01-16,SQL_Server,Livré
+10401,RATTC,Rattlesnake Canyon Grocery,1,Nancy Davolio,1997-01-01 00:00:00,1997-01-10,SQL_Server,Livré
+10402,ERNSH,Ernst Handel,8,Laura Callahan,1997-01-02 00:00:00,1997-01-10,SQL_Server,Livré
+10403,ERNSH,Ernst Handel,4,Margaret Peacock,1997-01-03 00:00:00,1997-01-09,SQL_Server,Livré
+10404,MAGAA,Magazzini Alimentari Riuniti,2,Andrew Fuller,1997-01-03 00:00:00,1997-01-08,SQL_Server,Livré
+10405,LINOD,LINO-Delicateses,1,Nancy Davolio,1997-01-06 00:00:00,1997-01-22,SQL_Server,Livré
+10406,QUEEN,Queen Cozinha,7,Robert King,1997-01-07 00:00:00,1997-01-13,SQL_Server,Livré
+10407,OTTIK,Ottilies Käseladen,2,Andrew Fuller,1997-01-07 00:00:00,1997-01-30,SQL_Server,Livré
+10408,FOLIG,Folies gourmandes,8,Laura Callahan,1997-01-08 00:00:00,1997-01-14,SQL_Server,Livré
+10409,OCEAN,Océano Atlántico Ltda.,3,Janet Leverling,1997-01-09 00:00:00,1997-01-14,SQL_Server,Livré
+10410,BOTTM,Bottom-Dollar Markets,3,Janet Leverling,1997-01-10 00:00:00,1997-01-15,SQL_Server,Livré
+10411,BOTTM,Bottom-Dollar Markets,9,Anne Dodsworth,1997-01-10 00:00:00,1997-01-21,SQL_Server,Livré
+10412,WARTH,Wartian Herkku,8,Laura Callahan,1997-01-13 00:00:00,1997-01-15,SQL_Server,Livré
+10413,LAMAI,La maison d'Asie,3,Janet Leverling,1997-01-14 00:00:00,1997-01-16,SQL_Server,Livré
+10414,FAMIA,Familia Arquibaldo,2,Andrew Fuller,1997-01-14 00:00:00,1997-01-17,SQL_Server,Livré
+10415,HUNGC,Hungry Coyote Import Store,3,Janet Leverling,1997-01-15 00:00:00,1997-01-24,SQL_Server,Livré
+10416,WARTH,Wartian Herkku,8,Laura Callahan,1997-01-16 00:00:00,1997-01-27,SQL_Server,Livré
+10417,SIMOB,Simons bistro,4,Margaret Peacock,1997-01-16 00:00:00,1997-01-28,SQL_Server,Livré
+10418,QUICK,QUICK-Stop,4,Margaret Peacock,1997-01-17 00:00:00,1997-01-24,SQL_Server,Livré
+10419,RICSU,Richter Supermarkt,4,Margaret Peacock,1997-01-20 00:00:00,1997-01-30,SQL_Server,Livré
+10420,WELLI,Wellington Importadora,3,Janet Leverling,1997-01-21 00:00:00,1997-01-27,SQL_Server,Livré
+10421,QUEDE,Que Delícia,8,Laura Callahan,1997-01-21 00:00:00,1997-01-27,SQL_Server,Livré
+10422,FRANS,Franchi S.p.A.,2,Andrew Fuller,1997-01-22 00:00:00,1997-01-31,SQL_Server,Livré
+10423,GOURL,Gourmet Lanchonetes,6,Michael Suyama,1997-01-23 00:00:00,1997-02-24,SQL_Server,Livré
+10424,MEREP,Mère Paillarde,7,Robert King,1997-01-23 00:00:00,1997-01-27,SQL_Server,Livré
+10425,LAMAI,La maison d'Asie,6,Michael Suyama,1997-01-24 00:00:00,1997-02-14,SQL_Server,Livré
+10426,GALED,Galería del gastrónomo,4,Margaret Peacock,1997-01-27 00:00:00,1997-02-06,SQL_Server,Livré
+10427,PICCO,Piccolo und mehr,4,Margaret Peacock,1997-01-27 00:00:00,1997-03-03,SQL_Server,Livré
+10428,REGGC,Reggiani Caseifici,7,Robert King,1997-01-28 00:00:00,1997-02-04,SQL_Server,Livré
+10429,HUNGO,Hungry Owl All-Night Grocers,3,Janet Leverling,1997-01-29 00:00:00,1997-02-07,SQL_Server,Livré
+10430,ERNSH,Ernst Handel,4,Margaret Peacock,1997-01-30 00:00:00,1997-02-03,SQL_Server,Livré
+10431,BOTTM,Bottom-Dollar Markets,4,Margaret Peacock,1997-01-30 00:00:00,1997-02-07,SQL_Server,Livré
+10432,SPLIR,Split Rail Beer & Ale,3,Janet Leverling,1997-01-31 00:00:00,1997-02-07,SQL_Server,Livré
+10433,PRINI,Princesa Isabel Vinhos,3,Janet Leverling,1997-02-03 00:00:00,1997-03-04,SQL_Server,Livré
+10434,FOLKO,Folk och fä HB,3,Janet Leverling,1997-02-03 00:00:00,1997-02-13,SQL_Server,Livré
+10435,CONSH,Consolidated Holdings,8,Laura Callahan,1997-02-04 00:00:00,1997-02-07,SQL_Server,Livré
+10436,BLONP,Blondesddsl père et fils,3,Janet Leverling,1997-02-05 00:00:00,1997-02-11,SQL_Server,Livré
+10437,WARTH,Wartian Herkku,8,Laura Callahan,1997-02-05 00:00:00,1997-02-12,SQL_Server,Livré
+10438,TOMSP,Toms Spezialitäten,3,Janet Leverling,1997-02-06 00:00:00,1997-02-14,SQL_Server,Livré
+10439,MEREP,Mère Paillarde,6,Michael Suyama,1997-02-07 00:00:00,1997-02-10,SQL_Server,Livré
+10440,SAVEA,Save-a-lot Markets,4,Margaret Peacock,1997-02-10 00:00:00,1997-02-28,SQL_Server,Livré
+10441,OLDWO,Old World Delicatessen,3,Janet Leverling,1997-02-10 00:00:00,1997-03-14,SQL_Server,Livré
+10442,ERNSH,Ernst Handel,3,Janet Leverling,1997-02-11 00:00:00,1997-02-18,SQL_Server,Livré
+10443,REGGC,Reggiani Caseifici,8,Laura Callahan,1997-02-12 00:00:00,1997-02-14,SQL_Server,Livré
+10444,BERGS,Berglunds snabbköp,3,Janet Leverling,1997-02-12 00:00:00,1997-02-21,SQL_Server,Livré
+10445,BERGS,Berglunds snabbköp,3,Janet Leverling,1997-02-13 00:00:00,1997-02-20,SQL_Server,Livré
+10446,TOMSP,Toms Spezialitäten,6,Michael Suyama,1997-02-14 00:00:00,1997-02-19,SQL_Server,Livré
+10447,RICAR,Ricardo Adocicados,4,Margaret Peacock,1997-02-14 00:00:00,1997-03-07,SQL_Server,Livré
+10448,RANCH,Rancho grande,4,Margaret Peacock,1997-02-17 00:00:00,1997-02-24,SQL_Server,Livré
+10449,BLONP,Blondesddsl père et fils,3,Janet Leverling,1997-02-18 00:00:00,1997-02-27,SQL_Server,Livré
+10450,VICTE,Victuailles en stock,8,Laura Callahan,1997-02-19 00:00:00,1997-03-11,SQL_Server,Livré
+10451,QUICK,QUICK-Stop,4,Margaret Peacock,1997-02-19 00:00:00,1997-03-12,SQL_Server,Livré
+10452,SAVEA,Save-a-lot Markets,8,Laura Callahan,1997-02-20 00:00:00,1997-02-26,SQL_Server,Livré
+10453,AROUT,Around the Horn,1,Nancy Davolio,1997-02-21 00:00:00,1997-02-26,SQL_Server,Livré
+10454,LAMAI,La maison d'Asie,4,Margaret Peacock,1997-02-21 00:00:00,1997-02-25,SQL_Server,Livré
+10455,WARTH,Wartian Herkku,8,Laura Callahan,1997-02-24 00:00:00,1997-03-03,SQL_Server,Livré
+10456,KOENE,Königlich Essen,8,Laura Callahan,1997-02-25 00:00:00,1997-02-28,SQL_Server,Livré
+10457,KOENE,Königlich Essen,2,Andrew Fuller,1997-02-25 00:00:00,1997-03-03,SQL_Server,Livré
+10458,SUPRD,Suprêmes délices,7,Robert King,1997-02-26 00:00:00,1997-03-04,SQL_Server,Livré
+10459,VICTE,Victuailles en stock,4,Margaret Peacock,1997-02-27 00:00:00,1997-02-28,SQL_Server,Livré
+10460,FOLKO,Folk och fä HB,8,Laura Callahan,1997-02-28 00:00:00,1997-03-03,SQL_Server,Livré
+10461,LILAS,LILA-Supermercado,1,Nancy Davolio,1997-02-28 00:00:00,1997-03-05,SQL_Server,Livré
+10462,CONSH,Consolidated Holdings,2,Andrew Fuller,1997-03-03 00:00:00,1997-03-18,SQL_Server,Livré
+10463,SUPRD,Suprêmes délices,5,Steven Buchanan,1997-03-04 00:00:00,1997-03-06,SQL_Server,Livré
+10464,FURIB,Furia Bacalhau e Frutos do Mar,4,Margaret Peacock,1997-03-04 00:00:00,1997-03-14,SQL_Server,Livré
+10465,VAFFE,Vaffeljernet,1,Nancy Davolio,1997-03-05 00:00:00,1997-03-14,SQL_Server,Livré
+10466,COMMI,Comércio Mineiro,4,Margaret Peacock,1997-03-06 00:00:00,1997-03-13,SQL_Server,Livré
+10467,MAGAA,Magazzini Alimentari Riuniti,8,Laura Callahan,1997-03-06 00:00:00,1997-03-11,SQL_Server,Livré
+10468,KOENE,Königlich Essen,3,Janet Leverling,1997-03-07 00:00:00,1997-03-12,SQL_Server,Livré
+10469,WHITC,White Clover Markets,1,Nancy Davolio,1997-03-10 00:00:00,1997-03-14,SQL_Server,Livré
+10470,BONAP,Bon app',4,Margaret Peacock,1997-03-11 00:00:00,1997-03-14,SQL_Server,Livré
+10471,BSBEV,B's Beverages,2,Andrew Fuller,1997-03-11 00:00:00,1997-03-18,SQL_Server,Livré
+10472,SEVES,Seven Seas Imports,8,Laura Callahan,1997-03-12 00:00:00,1997-03-19,SQL_Server,Livré
+10473,ISLAT,Island Trading,1,Nancy Davolio,1997-03-13 00:00:00,1997-03-21,SQL_Server,Livré
+10474,PERIC,Pericles Comidas clásicas,5,Steven Buchanan,1997-03-13 00:00:00,1997-03-21,SQL_Server,Livré
+10475,SUPRD,Suprêmes délices,9,Anne Dodsworth,1997-03-14 00:00:00,1997-04-04,SQL_Server,Livré
+10476,HILAA,HILARION-Abastos,8,Laura Callahan,1997-03-17 00:00:00,1997-03-24,SQL_Server,Livré
+10477,PRINI,Princesa Isabel Vinhos,5,Steven Buchanan,1997-03-17 00:00:00,1997-03-25,SQL_Server,Livré
+10478,VICTE,Victuailles en stock,2,Andrew Fuller,1997-03-18 00:00:00,1997-03-26,SQL_Server,Livré
+10479,RATTC,Rattlesnake Canyon Grocery,3,Janet Leverling,1997-03-19 00:00:00,1997-03-21,SQL_Server,Livré
+10480,FOLIG,Folies gourmandes,6,Michael Suyama,1997-03-20 00:00:00,1997-03-24,SQL_Server,Livré
+10481,RICAR,Ricardo Adocicados,8,Laura Callahan,1997-03-20 00:00:00,1997-03-25,SQL_Server,Livré
+10482,LAZYK,Lazy K Kountry Store,1,Nancy Davolio,1997-03-21 00:00:00,1997-04-10,SQL_Server,Livré
+10483,WHITC,White Clover Markets,7,Robert King,1997-03-24 00:00:00,1997-04-25,SQL_Server,Livré
+10484,BSBEV,B's Beverages,3,Janet Leverling,1997-03-24 00:00:00,1997-04-01,SQL_Server,Livré
+10485,LINOD,LINO-Delicateses,4,Margaret Peacock,1997-03-25 00:00:00,1997-03-31,SQL_Server,Livré
+10486,HILAA,HILARION-Abastos,1,Nancy Davolio,1997-03-26 00:00:00,1997-04-02,SQL_Server,Livré
+10487,QUEEN,Queen Cozinha,2,Andrew Fuller,1997-03-26 00:00:00,1997-03-28,SQL_Server,Livré
+10488,FRANK,Frankenversand,8,Laura Callahan,1997-03-27 00:00:00,1997-04-02,SQL_Server,Livré
+10489,PICCO,Piccolo und mehr,6,Michael Suyama,1997-03-28 00:00:00,1997-04-09,SQL_Server,Livré
+10490,HILAA,HILARION-Abastos,7,Robert King,1997-03-31 00:00:00,1997-04-03,SQL_Server,Livré
+10491,FURIB,Furia Bacalhau e Frutos do Mar,8,Laura Callahan,1997-03-31 00:00:00,1997-04-08,SQL_Server,Livré
+10492,BOTTM,Bottom-Dollar Markets,3,Janet Leverling,1997-04-01 00:00:00,1997-04-11,SQL_Server,Livré
+10493,LAMAI,La maison d'Asie,4,Margaret Peacock,1997-04-02 00:00:00,1997-04-10,SQL_Server,Livré
+10494,COMMI,Comércio Mineiro,4,Margaret Peacock,1997-04-02 00:00:00,1997-04-09,SQL_Server,Livré
+10495,LAUGB,Laughing Bacchus Wine Cellars,3,Janet Leverling,1997-04-03 00:00:00,1997-04-11,SQL_Server,Livré
+10496,TRADH,Tradição Hipermercados,7,Robert King,1997-04-04 00:00:00,1997-04-07,SQL_Server,Livré
+10497,LEHMS,Lehmanns Marktstand,7,Robert King,1997-04-04 00:00:00,1997-04-07,SQL_Server,Livré
+10498,HILAA,HILARION-Abastos,8,Laura Callahan,1997-04-07 00:00:00,1997-04-11,SQL_Server,Livré
+10499,LILAS,LILA-Supermercado,4,Margaret Peacock,1997-04-08 00:00:00,1997-04-16,SQL_Server,Livré
+10500,LAMAI,La maison d'Asie,6,Michael Suyama,1997-04-09 00:00:00,1997-04-17,SQL_Server,Livré
+10501,BLAUS,Blauer See Delikatessen,9,Anne Dodsworth,1997-04-09 00:00:00,1997-04-16,SQL_Server,Livré
+10502,PERIC,Pericles Comidas clásicas,2,Andrew Fuller,1997-04-10 00:00:00,1997-04-29,SQL_Server,Livré
+10503,HUNGO,Hungry Owl All-Night Grocers,6,Michael Suyama,1997-04-11 00:00:00,1997-04-16,SQL_Server,Livré
+10504,WHITC,White Clover Markets,4,Margaret Peacock,1997-04-11 00:00:00,1997-04-18,SQL_Server,Livré
+10505,MEREP,Mère Paillarde,3,Janet Leverling,1997-04-14 00:00:00,1997-04-21,SQL_Server,Livré
+10506,KOENE,Königlich Essen,9,Anne Dodsworth,1997-04-15 00:00:00,1997-05-02,SQL_Server,Livré
+10507,ANTON,Antonio Moreno Taquería,7,Robert King,1997-04-15 00:00:00,1997-04-22,SQL_Server,Livré
+10508,OTTIK,Ottilies Käseladen,1,Nancy Davolio,1997-04-16 00:00:00,1997-05-13,SQL_Server,Livré
+10509,BLAUS,Blauer See Delikatessen,4,Margaret Peacock,1997-04-17 00:00:00,1997-04-29,SQL_Server,Livré
+10510,SAVEA,Save-a-lot Markets,6,Michael Suyama,1997-04-18 00:00:00,1997-04-28,SQL_Server,Livré
+10511,BONAP,Bon app',4,Margaret Peacock,1997-04-18 00:00:00,1997-04-21,SQL_Server,Livré
+10512,FAMIA,Familia Arquibaldo,7,Robert King,1997-04-21 00:00:00,1997-04-24,SQL_Server,Livré
+10513,WANDK,Die Wandernde Kuh,7,Robert King,1997-04-22 00:00:00,1997-04-28,SQL_Server,Livré
+10514,ERNSH,Ernst Handel,3,Janet Leverling,1997-04-22 00:00:00,1997-05-16,SQL_Server,Livré
+10515,QUICK,QUICK-Stop,2,Andrew Fuller,1997-04-23 00:00:00,1997-05-23,SQL_Server,Livré
+10516,HUNGO,Hungry Owl All-Night Grocers,2,Andrew Fuller,1997-04-24 00:00:00,1997-05-01,SQL_Server,Livré
+10517,NORTS,North/South,3,Janet Leverling,1997-04-24 00:00:00,1997-04-29,SQL_Server,Livré
+10518,TORTU,Tortuga Restaurante,4,Margaret Peacock,1997-04-25 00:00:00,1997-05-05,SQL_Server,Livré
+10519,CHOPS,Chop-suey Chinese,6,Michael Suyama,1997-04-28 00:00:00,1997-05-01,SQL_Server,Livré
+10520,SANTG,Santé Gourmet,7,Robert King,1997-04-29 00:00:00,1997-05-01,SQL_Server,Livré
+10521,CACTU,Cactus Comidas para llevar,8,Laura Callahan,1997-04-29 00:00:00,1997-05-02,SQL_Server,Livré
+10522,LEHMS,Lehmanns Marktstand,4,Margaret Peacock,1997-04-30 00:00:00,1997-05-06,SQL_Server,Livré
+10523,SEVES,Seven Seas Imports,7,Robert King,1997-05-01 00:00:00,1997-05-30,SQL_Server,Livré
+10524,BERGS,Berglunds snabbköp,1,Nancy Davolio,1997-05-01 00:00:00,1997-05-07,SQL_Server,Livré
+10525,BONAP,Bon app',1,Nancy Davolio,1997-05-02 00:00:00,1997-05-23,SQL_Server,Livré
+10526,WARTH,Wartian Herkku,4,Margaret Peacock,1997-05-05 00:00:00,1997-05-15,SQL_Server,Livré
+10527,QUICK,QUICK-Stop,7,Robert King,1997-05-05 00:00:00,1997-05-07,SQL_Server,Livré
+10528,GREAL,Great Lakes Food Market,6,Michael Suyama,1997-05-06 00:00:00,1997-05-09,SQL_Server,Livré
+10529,MAISD,Maison Dewey,5,Steven Buchanan,1997-05-07 00:00:00,1997-05-09,SQL_Server,Livré
+10530,PICCO,Piccolo und mehr,3,Janet Leverling,1997-05-08 00:00:00,1997-05-12,SQL_Server,Livré
+10531,OCEAN,Océano Atlántico Ltda.,7,Robert King,1997-05-08 00:00:00,1997-05-19,SQL_Server,Livré
+10532,EASTC,Eastern Connection,7,Robert King,1997-05-09 00:00:00,1997-05-12,SQL_Server,Livré
+10533,FOLKO,Folk och fä HB,8,Laura Callahan,1997-05-12 00:00:00,1997-05-22,SQL_Server,Livré
+10534,LEHMS,Lehmanns Marktstand,8,Laura Callahan,1997-05-12 00:00:00,1997-05-14,SQL_Server,Livré
+10535,ANTON,Antonio Moreno Taquería,4,Margaret Peacock,1997-05-13 00:00:00,1997-05-21,SQL_Server,Livré
+10536,LEHMS,Lehmanns Marktstand,3,Janet Leverling,1997-05-14 00:00:00,1997-06-06,SQL_Server,Livré
+10537,RICSU,Richter Supermarkt,1,Nancy Davolio,1997-05-14 00:00:00,1997-05-19,SQL_Server,Livré
+10538,BSBEV,B's Beverages,9,Anne Dodsworth,1997-05-15 00:00:00,1997-05-16,SQL_Server,Livré
+10539,BSBEV,B's Beverages,6,Michael Suyama,1997-05-16 00:00:00,1997-05-23,SQL_Server,Livré
+10540,QUICK,QUICK-Stop,3,Janet Leverling,1997-05-19 00:00:00,1997-06-13,SQL_Server,Livré
+10541,HANAR,Hanari Carnes,2,Andrew Fuller,1997-05-19 00:00:00,1997-05-29,SQL_Server,Livré
+10542,KOENE,Königlich Essen,1,Nancy Davolio,1997-05-20 00:00:00,1997-05-26,SQL_Server,Livré
+10543,LILAS,LILA-Supermercado,8,Laura Callahan,1997-05-21 00:00:00,1997-05-23,SQL_Server,Livré
+10544,LONEP,Lonesome Pine Restaurant,4,Margaret Peacock,1997-05-21 00:00:00,1997-05-30,SQL_Server,Livré
+10545,LAZYK,Lazy K Kountry Store,8,Laura Callahan,1997-05-22 00:00:00,1997-06-26,SQL_Server,Livré
+10546,VICTE,Victuailles en stock,1,Nancy Davolio,1997-05-23 00:00:00,1997-05-27,SQL_Server,Livré
+10547,SEVES,Seven Seas Imports,3,Janet Leverling,1997-05-23 00:00:00,1997-06-02,SQL_Server,Livré
+10548,TOMSP,Toms Spezialitäten,3,Janet Leverling,1997-05-26 00:00:00,1997-06-02,SQL_Server,Livré
+10549,QUICK,QUICK-Stop,5,Steven Buchanan,1997-05-27 00:00:00,1997-05-30,SQL_Server,Livré
+10550,GODOS,Godos Cocina Típica,7,Robert King,1997-05-28 00:00:00,1997-06-06,SQL_Server,Livré
+10551,FURIB,Furia Bacalhau e Frutos do Mar,4,Margaret Peacock,1997-05-28 00:00:00,1997-06-06,SQL_Server,Livré
+10552,HILAA,HILARION-Abastos,2,Andrew Fuller,1997-05-29 00:00:00,1997-06-05,SQL_Server,Livré
+10553,WARTH,Wartian Herkku,2,Andrew Fuller,1997-05-30 00:00:00,1997-06-03,SQL_Server,Livré
+10554,OTTIK,Ottilies Käseladen,4,Margaret Peacock,1997-05-30 00:00:00,1997-06-05,SQL_Server,Livré
+10555,SAVEA,Save-a-lot Markets,6,Michael Suyama,1997-06-02 00:00:00,1997-06-04,SQL_Server,Livré
+10556,SIMOB,Simons bistro,2,Andrew Fuller,1997-06-03 00:00:00,1997-06-13,SQL_Server,Livré
+10557,LEHMS,Lehmanns Marktstand,9,Anne Dodsworth,1997-06-03 00:00:00,1997-06-06,SQL_Server,Livré
+10558,AROUT,Around the Horn,1,Nancy Davolio,1997-06-04 00:00:00,1997-06-10,SQL_Server,Livré
+10559,BLONP,Blondesddsl père et fils,6,Michael Suyama,1997-06-05 00:00:00,1997-06-13,SQL_Server,Livré
+10560,FRANK,Frankenversand,8,Laura Callahan,1997-06-06 00:00:00,1997-06-09,SQL_Server,Livré
+10561,FOLKO,Folk och fä HB,2,Andrew Fuller,1997-06-06 00:00:00,1997-06-09,SQL_Server,Livré
+10562,REGGC,Reggiani Caseifici,1,Nancy Davolio,1997-06-09 00:00:00,1997-06-12,SQL_Server,Livré
+10563,RICAR,Ricardo Adocicados,2,Andrew Fuller,1997-06-10 00:00:00,1997-06-24,SQL_Server,Livré
+10564,RATTC,Rattlesnake Canyon Grocery,4,Margaret Peacock,1997-06-10 00:00:00,1997-06-16,SQL_Server,Livré
+10565,MEREP,Mère Paillarde,8,Laura Callahan,1997-06-11 00:00:00,1997-06-18,SQL_Server,Livré
+10566,BLONP,Blondesddsl père et fils,9,Anne Dodsworth,1997-06-12 00:00:00,1997-06-18,SQL_Server,Livré
+10567,HUNGO,Hungry Owl All-Night Grocers,1,Nancy Davolio,1997-06-12 00:00:00,1997-06-17,SQL_Server,Livré
+10568,GALED,Galería del gastrónomo,3,Janet Leverling,1997-06-13 00:00:00,1997-07-09,SQL_Server,Livré
+10569,RATTC,Rattlesnake Canyon Grocery,5,Steven Buchanan,1997-06-16 00:00:00,1997-07-11,SQL_Server,Livré
+10570,MEREP,Mère Paillarde,3,Janet Leverling,1997-06-17 00:00:00,1997-06-19,SQL_Server,Livré
+10571,ERNSH,Ernst Handel,8,Laura Callahan,1997-06-17 00:00:00,1997-07-04,SQL_Server,Livré
+10572,BERGS,Berglunds snabbköp,3,Janet Leverling,1997-06-18 00:00:00,1997-06-25,SQL_Server,Livré
+10573,ANTON,Antonio Moreno Taquería,7,Robert King,1997-06-19 00:00:00,1997-06-20,SQL_Server,Livré
+10574,TRAIH,Trail's Head Gourmet Provisioners,4,Margaret Peacock,1997-06-19 00:00:00,1997-06-30,SQL_Server,Livré
+10575,MORGK,Morgenstern Gesundkost,5,Steven Buchanan,1997-06-20 00:00:00,1997-06-30,SQL_Server,Livré
+10576,TORTU,Tortuga Restaurante,3,Janet Leverling,1997-06-23 00:00:00,1997-06-30,SQL_Server,Livré
+10577,TRAIH,Trail's Head Gourmet Provisioners,9,Anne Dodsworth,1997-06-23 00:00:00,1997-06-30,SQL_Server,Livré
+10578,BSBEV,B's Beverages,4,Margaret Peacock,1997-06-24 00:00:00,1997-07-25,SQL_Server,Livré
+10579,LETSS,Let's Stop N Shop,1,Nancy Davolio,1997-06-25 00:00:00,1997-07-04,SQL_Server,Livré
+10580,OTTIK,Ottilies Käseladen,4,Margaret Peacock,1997-06-26 00:00:00,1997-07-01,SQL_Server,Livré
+10581,FAMIA,Familia Arquibaldo,3,Janet Leverling,1997-06-26 00:00:00,1997-07-02,SQL_Server,Livré
+10582,BLAUS,Blauer See Delikatessen,3,Janet Leverling,1997-06-27 00:00:00,1997-07-14,SQL_Server,Livré
+10583,WARTH,Wartian Herkku,2,Andrew Fuller,1997-06-30 00:00:00,1997-07-04,SQL_Server,Livré
+10584,BLONP,Blondesddsl père et fils,4,Margaret Peacock,1997-06-30 00:00:00,1997-07-04,SQL_Server,Livré
+10585,WELLI,Wellington Importadora,7,Robert King,1997-07-01 00:00:00,1997-07-10,SQL_Server,Livré
+10586,REGGC,Reggiani Caseifici,9,Anne Dodsworth,1997-07-02 00:00:00,1997-07-09,SQL_Server,Livré
+10587,QUEDE,Que Delícia,1,Nancy Davolio,1997-07-02 00:00:00,1997-07-09,SQL_Server,Livré
+10588,QUICK,QUICK-Stop,2,Andrew Fuller,1997-07-03 00:00:00,1997-07-10,SQL_Server,Livré
+10589,GREAL,Great Lakes Food Market,8,Laura Callahan,1997-07-04 00:00:00,1997-07-14,SQL_Server,Livré
+10590,MEREP,Mère Paillarde,4,Margaret Peacock,1997-07-07 00:00:00,1997-07-14,SQL_Server,Livré
+10591,VAFFE,Vaffeljernet,1,Nancy Davolio,1997-07-07 00:00:00,1997-07-16,SQL_Server,Livré
+10592,LEHMS,Lehmanns Marktstand,3,Janet Leverling,1997-07-08 00:00:00,1997-07-16,SQL_Server,Livré
+10593,LEHMS,Lehmanns Marktstand,7,Robert King,1997-07-09 00:00:00,1997-08-13,SQL_Server,Livré
+10594,OLDWO,Old World Delicatessen,3,Janet Leverling,1997-07-09 00:00:00,1997-07-16,SQL_Server,Livré
+10595,ERNSH,Ernst Handel,2,Andrew Fuller,1997-07-10 00:00:00,1997-07-14,SQL_Server,Livré
+10596,WHITC,White Clover Markets,8,Laura Callahan,1997-07-11 00:00:00,1997-08-12,SQL_Server,Livré
+10597,PICCO,Piccolo und mehr,7,Robert King,1997-07-11 00:00:00,1997-07-18,SQL_Server,Livré
+10598,RATTC,Rattlesnake Canyon Grocery,1,Nancy Davolio,1997-07-14 00:00:00,1997-07-18,SQL_Server,Livré
+10599,BSBEV,B's Beverages,6,Michael Suyama,1997-07-15 00:00:00,1997-07-21,SQL_Server,Livré
+10600,HUNGC,Hungry Coyote Import Store,4,Margaret Peacock,1997-07-16 00:00:00,1997-07-21,SQL_Server,Livré
+10601,HILAA,HILARION-Abastos,7,Robert King,1997-07-16 00:00:00,1997-07-22,SQL_Server,Livré
+10602,VAFFE,Vaffeljernet,8,Laura Callahan,1997-07-17 00:00:00,1997-07-22,SQL_Server,Livré
+10603,SAVEA,Save-a-lot Markets,8,Laura Callahan,1997-07-18 00:00:00,1997-08-08,SQL_Server,Livré
+10604,FURIB,Furia Bacalhau e Frutos do Mar,1,Nancy Davolio,1997-07-18 00:00:00,1997-07-29,SQL_Server,Livré
+10605,MEREP,Mère Paillarde,1,Nancy Davolio,1997-07-21 00:00:00,1997-07-29,SQL_Server,Livré
+10606,TRADH,Tradição Hipermercados,4,Margaret Peacock,1997-07-22 00:00:00,1997-07-31,SQL_Server,Livré
+10607,SAVEA,Save-a-lot Markets,5,Steven Buchanan,1997-07-22 00:00:00,1997-07-25,SQL_Server,Livré
+10608,TOMSP,Toms Spezialitäten,4,Margaret Peacock,1997-07-23 00:00:00,1997-08-01,SQL_Server,Livré
+10609,DUMON,Du monde entier,7,Robert King,1997-07-24 00:00:00,1997-07-30,SQL_Server,Livré
+10610,LAMAI,La maison d'Asie,8,Laura Callahan,1997-07-25 00:00:00,1997-08-06,SQL_Server,Livré
+10611,WOLZA,Wolski  Zajazd,6,Michael Suyama,1997-07-25 00:00:00,1997-08-01,SQL_Server,Livré
+10612,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1997-07-28 00:00:00,1997-08-01,SQL_Server,Livré
+10613,HILAA,HILARION-Abastos,4,Margaret Peacock,1997-07-29 00:00:00,1997-08-01,SQL_Server,Livré
+10614,BLAUS,Blauer See Delikatessen,8,Laura Callahan,1997-07-29 00:00:00,1997-08-01,SQL_Server,Livré
+10615,WILMK,Wilman Kala,2,Andrew Fuller,1997-07-30 00:00:00,1997-08-06,SQL_Server,Livré
+10616,GREAL,Great Lakes Food Market,1,Nancy Davolio,1997-07-31 00:00:00,1997-08-05,SQL_Server,Livré
+10617,GREAL,Great Lakes Food Market,4,Margaret Peacock,1997-07-31 00:00:00,1997-08-04,SQL_Server,Livré
+10618,MEREP,Mère Paillarde,1,Nancy Davolio,1997-08-01 00:00:00,1997-08-08,SQL_Server,Livré
+10619,MEREP,Mère Paillarde,3,Janet Leverling,1997-08-04 00:00:00,1997-08-07,SQL_Server,Livré
+10620,LAUGB,Laughing Bacchus Wine Cellars,2,Andrew Fuller,1997-08-05 00:00:00,1997-08-14,SQL_Server,Livré
+10621,ISLAT,Island Trading,4,Margaret Peacock,1997-08-05 00:00:00,1997-08-11,SQL_Server,Livré
+10622,RICAR,Ricardo Adocicados,4,Margaret Peacock,1997-08-06 00:00:00,1997-08-11,SQL_Server,Livré
+10623,FRANK,Frankenversand,8,Laura Callahan,1997-08-07 00:00:00,1997-08-12,SQL_Server,Livré
+10624,THECR,The Cracker Box,4,Margaret Peacock,1997-08-07 00:00:00,1997-08-19,SQL_Server,Livré
+10625,ANATR,Ana Trujillo Emparedados y helados,3,Janet Leverling,1997-08-08 00:00:00,1997-08-14,SQL_Server,Livré
+10626,BERGS,Berglunds snabbköp,1,Nancy Davolio,1997-08-11 00:00:00,1997-08-20,SQL_Server,Livré
+10627,SAVEA,Save-a-lot Markets,8,Laura Callahan,1997-08-11 00:00:00,1997-08-21,SQL_Server,Livré
+10628,BLONP,Blondesddsl père et fils,4,Margaret Peacock,1997-08-12 00:00:00,1997-08-20,SQL_Server,Livré
+10629,GODOS,Godos Cocina Típica,4,Margaret Peacock,1997-08-12 00:00:00,1997-08-20,SQL_Server,Livré
+10630,KOENE,Königlich Essen,1,Nancy Davolio,1997-08-13 00:00:00,1997-08-19,SQL_Server,Livré
+10631,LAMAI,La maison d'Asie,8,Laura Callahan,1997-08-14 00:00:00,1997-08-15,SQL_Server,Livré
+10632,WANDK,Die Wandernde Kuh,8,Laura Callahan,1997-08-14 00:00:00,1997-08-19,SQL_Server,Livré
+10633,ERNSH,Ernst Handel,7,Robert King,1997-08-15 00:00:00,1997-08-18,SQL_Server,Livré
+10634,FOLIG,Folies gourmandes,4,Margaret Peacock,1997-08-15 00:00:00,1997-08-21,SQL_Server,Livré
+10635,MAGAA,Magazzini Alimentari Riuniti,8,Laura Callahan,1997-08-18 00:00:00,1997-08-21,SQL_Server,Livré
+10636,WARTH,Wartian Herkku,4,Margaret Peacock,1997-08-19 00:00:00,1997-08-26,SQL_Server,Livré
+10637,QUEEN,Queen Cozinha,6,Michael Suyama,1997-08-19 00:00:00,1997-08-26,SQL_Server,Livré
+10638,LINOD,LINO-Delicateses,3,Janet Leverling,1997-08-20 00:00:00,1997-09-01,SQL_Server,Livré
+10639,SANTG,Santé Gourmet,7,Robert King,1997-08-20 00:00:00,1997-08-27,SQL_Server,Livré
+10640,WANDK,Die Wandernde Kuh,4,Margaret Peacock,1997-08-21 00:00:00,1997-08-28,SQL_Server,Livré
+10641,HILAA,HILARION-Abastos,4,Margaret Peacock,1997-08-22 00:00:00,1997-08-26,SQL_Server,Livré
+10642,SIMOB,Simons bistro,7,Robert King,1997-08-22 00:00:00,1997-09-05,SQL_Server,Livré
+10643,ALFKI,Alfreds Futterkiste,6,Michael Suyama,1997-08-25 00:00:00,1997-09-02,SQL_Server,Livré
+10644,WELLI,Wellington Importadora,3,Janet Leverling,1997-08-25 00:00:00,1997-09-01,SQL_Server,Livré
+10645,HANAR,Hanari Carnes,4,Margaret Peacock,1997-08-26 00:00:00,1997-09-02,SQL_Server,Livré
+10646,HUNGO,Hungry Owl All-Night Grocers,9,Anne Dodsworth,1997-08-27 00:00:00,1997-09-03,SQL_Server,Livré
+10647,QUEDE,Que Delícia,4,Margaret Peacock,1997-08-27 00:00:00,1997-09-03,SQL_Server,Livré
+10648,RICAR,Ricardo Adocicados,5,Steven Buchanan,1997-08-28 00:00:00,1997-09-09,SQL_Server,Livré
+10649,MAISD,Maison Dewey,5,Steven Buchanan,1997-08-28 00:00:00,1997-08-29,SQL_Server,Livré
+10650,FAMIA,Familia Arquibaldo,5,Steven Buchanan,1997-08-29 00:00:00,1997-09-03,SQL_Server,Livré
+10651,WANDK,Die Wandernde Kuh,8,Laura Callahan,1997-09-01 00:00:00,1997-09-11,SQL_Server,Livré
+10652,GOURL,Gourmet Lanchonetes,4,Margaret Peacock,1997-09-01 00:00:00,1997-09-08,SQL_Server,Livré
+10653,FRANK,Frankenversand,1,Nancy Davolio,1997-09-02 00:00:00,1997-09-19,SQL_Server,Livré
+10654,BERGS,Berglunds snabbköp,5,Steven Buchanan,1997-09-02 00:00:00,1997-09-11,SQL_Server,Livré
+10655,REGGC,Reggiani Caseifici,1,Nancy Davolio,1997-09-03 00:00:00,1997-09-11,SQL_Server,Livré
+10656,GREAL,Great Lakes Food Market,6,Michael Suyama,1997-09-04 00:00:00,1997-09-10,SQL_Server,Livré
+10657,SAVEA,Save-a-lot Markets,2,Andrew Fuller,1997-09-04 00:00:00,1997-09-15,SQL_Server,Livré
+10658,QUICK,QUICK-Stop,4,Margaret Peacock,1997-09-05 00:00:00,1997-09-08,SQL_Server,Livré
+10659,QUEEN,Queen Cozinha,7,Robert King,1997-09-05 00:00:00,1997-09-10,SQL_Server,Livré
+10660,HUNGC,Hungry Coyote Import Store,8,Laura Callahan,1997-09-08 00:00:00,1997-10-15,SQL_Server,Livré
+10661,HUNGO,Hungry Owl All-Night Grocers,7,Robert King,1997-09-09 00:00:00,1997-09-15,SQL_Server,Livré
+10662,LONEP,Lonesome Pine Restaurant,3,Janet Leverling,1997-09-09 00:00:00,1997-09-18,SQL_Server,Livré
+10663,BONAP,Bon app',2,Andrew Fuller,1997-09-10 00:00:00,1997-10-03,SQL_Server,Livré
+10664,FURIB,Furia Bacalhau e Frutos do Mar,1,Nancy Davolio,1997-09-10 00:00:00,1997-09-19,SQL_Server,Livré
+10665,LONEP,Lonesome Pine Restaurant,1,Nancy Davolio,1997-09-11 00:00:00,1997-09-17,SQL_Server,Livré
+10666,RICSU,Richter Supermarkt,7,Robert King,1997-09-12 00:00:00,1997-09-22,SQL_Server,Livré
+10667,ERNSH,Ernst Handel,7,Robert King,1997-09-12 00:00:00,1997-09-19,SQL_Server,Livré
+10668,WANDK,Die Wandernde Kuh,1,Nancy Davolio,1997-09-15 00:00:00,1997-09-23,SQL_Server,Livré
+10669,SIMOB,Simons bistro,2,Andrew Fuller,1997-09-15 00:00:00,1997-09-22,SQL_Server,Livré
+10670,FRANK,Frankenversand,4,Margaret Peacock,1997-09-16 00:00:00,1997-09-18,SQL_Server,Livré
+10671,FRANR,France restauration,1,Nancy Davolio,1997-09-17 00:00:00,1997-09-24,SQL_Server,Livré
+10672,BERGS,Berglunds snabbköp,9,Anne Dodsworth,1997-09-17 00:00:00,1997-09-26,SQL_Server,Livré
+10673,WILMK,Wilman Kala,2,Andrew Fuller,1997-09-18 00:00:00,1997-09-19,SQL_Server,Livré
+10674,ISLAT,Island Trading,4,Margaret Peacock,1997-09-18 00:00:00,1997-09-30,SQL_Server,Livré
+10675,FRANK,Frankenversand,5,Steven Buchanan,1997-09-19 00:00:00,1997-09-23,SQL_Server,Livré
+10676,TORTU,Tortuga Restaurante,2,Andrew Fuller,1997-09-22 00:00:00,1997-09-29,SQL_Server,Livré
+10677,ANTON,Antonio Moreno Taquería,1,Nancy Davolio,1997-09-22 00:00:00,1997-09-26,SQL_Server,Livré
+10678,SAVEA,Save-a-lot Markets,7,Robert King,1997-09-23 00:00:00,1997-10-16,SQL_Server,Livré
+10679,BLONP,Blondesddsl père et fils,8,Laura Callahan,1997-09-23 00:00:00,1997-09-30,SQL_Server,Livré
+10680,OLDWO,Old World Delicatessen,1,Nancy Davolio,1997-09-24 00:00:00,1997-09-26,SQL_Server,Livré
+10681,GREAL,Great Lakes Food Market,3,Janet Leverling,1997-09-25 00:00:00,1997-09-30,SQL_Server,Livré
+10682,ANTON,Antonio Moreno Taquería,3,Janet Leverling,1997-09-25 00:00:00,1997-10-01,SQL_Server,Livré
+10683,DUMON,Du monde entier,2,Andrew Fuller,1997-09-26 00:00:00,1997-10-01,SQL_Server,Livré
+10684,OTTIK,Ottilies Käseladen,3,Janet Leverling,1997-09-26 00:00:00,1997-09-30,SQL_Server,Livré
+10685,GOURL,Gourmet Lanchonetes,4,Margaret Peacock,1997-09-29 00:00:00,1997-10-03,SQL_Server,Livré
+10686,PICCO,Piccolo und mehr,2,Andrew Fuller,1997-09-30 00:00:00,1997-10-08,SQL_Server,Livré
+10687,HUNGO,Hungry Owl All-Night Grocers,9,Anne Dodsworth,1997-09-30 00:00:00,1997-10-30,SQL_Server,Livré
+10688,VAFFE,Vaffeljernet,4,Margaret Peacock,1997-10-01 00:00:00,1997-10-07,SQL_Server,Livré
+10689,BERGS,Berglunds snabbköp,1,Nancy Davolio,1997-10-01 00:00:00,1997-10-07,SQL_Server,Livré
+10690,HANAR,Hanari Carnes,1,Nancy Davolio,1997-10-02 00:00:00,1997-10-03,SQL_Server,Livré
+10691,QUICK,QUICK-Stop,2,Andrew Fuller,1997-10-03 00:00:00,1997-10-22,SQL_Server,Livré
+10692,ALFKI,Alfreds Futterkiste,4,Margaret Peacock,1997-10-03 00:00:00,1997-10-13,SQL_Server,Livré
+10693,WHITC,White Clover Markets,3,Janet Leverling,1997-10-06 00:00:00,1997-10-10,SQL_Server,Livré
+10694,QUICK,QUICK-Stop,8,Laura Callahan,1997-10-06 00:00:00,1997-10-09,SQL_Server,Livré
+10695,WILMK,Wilman Kala,7,Robert King,1997-10-07 00:00:00,1997-10-14,SQL_Server,Livré
+10696,WHITC,White Clover Markets,8,Laura Callahan,1997-10-08 00:00:00,1997-10-14,SQL_Server,Livré
+10697,LINOD,LINO-Delicateses,3,Janet Leverling,1997-10-08 00:00:00,1997-10-14,SQL_Server,Livré
+10698,ERNSH,Ernst Handel,4,Margaret Peacock,1997-10-09 00:00:00,1997-10-17,SQL_Server,Livré
+10699,MORGK,Morgenstern Gesundkost,3,Janet Leverling,1997-10-09 00:00:00,1997-10-13,SQL_Server,Livré
+10700,SAVEA,Save-a-lot Markets,3,Janet Leverling,1997-10-10 00:00:00,1997-10-16,SQL_Server,Livré
+10701,HUNGO,Hungry Owl All-Night Grocers,6,Michael Suyama,1997-10-13 00:00:00,1997-10-15,SQL_Server,Livré
+10702,ALFKI,Alfreds Futterkiste,4,Margaret Peacock,1997-10-13 00:00:00,1997-10-21,SQL_Server,Livré
+10703,FOLKO,Folk och fä HB,6,Michael Suyama,1997-10-14 00:00:00,1997-10-20,SQL_Server,Livré
+10704,QUEEN,Queen Cozinha,6,Michael Suyama,1997-10-14 00:00:00,1997-11-07,SQL_Server,Livré
+10705,HILAA,HILARION-Abastos,9,Anne Dodsworth,1997-10-15 00:00:00,1997-11-18,SQL_Server,Livré
+10706,OLDWO,Old World Delicatessen,8,Laura Callahan,1997-10-16 00:00:00,1997-10-21,SQL_Server,Livré
+10707,AROUT,Around the Horn,4,Margaret Peacock,1997-10-16 00:00:00,1997-10-23,SQL_Server,Livré
+10708,THEBI,The Big Cheese,6,Michael Suyama,1997-10-17 00:00:00,1997-11-05,SQL_Server,Livré
+10709,GOURL,Gourmet Lanchonetes,1,Nancy Davolio,1997-10-17 00:00:00,1997-11-20,SQL_Server,Livré
+10710,FRANS,Franchi S.p.A.,1,Nancy Davolio,1997-10-20 00:00:00,1997-10-23,SQL_Server,Livré
+10711,SAVEA,Save-a-lot Markets,5,Steven Buchanan,1997-10-21 00:00:00,1997-10-29,SQL_Server,Livré
+10712,HUNGO,Hungry Owl All-Night Grocers,3,Janet Leverling,1997-10-21 00:00:00,1997-10-31,SQL_Server,Livré
+10713,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1997-10-22 00:00:00,1997-10-24,SQL_Server,Livré
+10714,SAVEA,Save-a-lot Markets,5,Steven Buchanan,1997-10-22 00:00:00,1997-10-27,SQL_Server,Livré
+10715,BONAP,Bon app',3,Janet Leverling,1997-10-23 00:00:00,1997-10-29,SQL_Server,Livré
+10716,RANCH,Rancho grande,4,Margaret Peacock,1997-10-24 00:00:00,1997-10-27,SQL_Server,Livré
+10717,FRANK,Frankenversand,1,Nancy Davolio,1997-10-24 00:00:00,1997-10-29,SQL_Server,Livré
+10718,KOENE,Königlich Essen,1,Nancy Davolio,1997-10-27 00:00:00,1997-10-29,SQL_Server,Livré
+10719,LETSS,Let's Stop N Shop,8,Laura Callahan,1997-10-27 00:00:00,1997-11-05,SQL_Server,Livré
+10720,QUEDE,Que Delícia,8,Laura Callahan,1997-10-28 00:00:00,1997-11-05,SQL_Server,Livré
+10721,QUICK,QUICK-Stop,5,Steven Buchanan,1997-10-29 00:00:00,1997-10-31,SQL_Server,Livré
+10722,SAVEA,Save-a-lot Markets,8,Laura Callahan,1997-10-29 00:00:00,1997-11-04,SQL_Server,Livré
+10723,WHITC,White Clover Markets,3,Janet Leverling,1997-10-30 00:00:00,1997-11-25,SQL_Server,Livré
+10724,MEREP,Mère Paillarde,8,Laura Callahan,1997-10-30 00:00:00,1997-11-05,SQL_Server,Livré
+10725,FAMIA,Familia Arquibaldo,4,Margaret Peacock,1997-10-31 00:00:00,1997-11-05,SQL_Server,Livré
+10726,EASTC,Eastern Connection,4,Margaret Peacock,1997-11-03 00:00:00,1997-12-05,SQL_Server,Livré
+10727,REGGC,Reggiani Caseifici,2,Andrew Fuller,1997-11-03 00:00:00,1997-12-05,SQL_Server,Livré
+10728,QUEEN,Queen Cozinha,4,Margaret Peacock,1997-11-04 00:00:00,1997-11-11,SQL_Server,Livré
+10729,LINOD,LINO-Delicateses,8,Laura Callahan,1997-11-04 00:00:00,1997-11-14,SQL_Server,Livré
+10730,BONAP,Bon app',5,Steven Buchanan,1997-11-05 00:00:00,1997-11-14,SQL_Server,Livré
+10731,CHOPS,Chop-suey Chinese,7,Robert King,1997-11-06 00:00:00,1997-11-14,SQL_Server,Livré
+10732,BONAP,Bon app',3,Janet Leverling,1997-11-06 00:00:00,1997-11-07,SQL_Server,Livré
+10733,BERGS,Berglunds snabbköp,1,Nancy Davolio,1997-11-07 00:00:00,1997-11-10,SQL_Server,Livré
+10734,GOURL,Gourmet Lanchonetes,2,Andrew Fuller,1997-11-07 00:00:00,1997-11-12,SQL_Server,Livré
+10735,LETSS,Let's Stop N Shop,6,Michael Suyama,1997-11-10 00:00:00,1997-11-21,SQL_Server,Livré
+10736,HUNGO,Hungry Owl All-Night Grocers,9,Anne Dodsworth,1997-11-11 00:00:00,1997-11-21,SQL_Server,Livré
+10737,VINET,Vins et alcools Chevalier,2,Andrew Fuller,1997-11-11 00:00:00,1997-11-18,SQL_Server,Livré
+10738,SPECD,Spécialités du monde,2,Andrew Fuller,1997-11-12 00:00:00,1997-11-18,SQL_Server,Livré
+10739,VINET,Vins et alcools Chevalier,3,Janet Leverling,1997-11-12 00:00:00,1997-11-17,SQL_Server,Livré
+10740,WHITC,White Clover Markets,4,Margaret Peacock,1997-11-13 00:00:00,1997-11-25,SQL_Server,Livré
+10741,AROUT,Around the Horn,4,Margaret Peacock,1997-11-14 00:00:00,1997-11-18,SQL_Server,Livré
+10742,BOTTM,Bottom-Dollar Markets,3,Janet Leverling,1997-11-14 00:00:00,1997-11-18,SQL_Server,Livré
+10743,AROUT,Around the Horn,1,Nancy Davolio,1997-11-17 00:00:00,1997-11-21,SQL_Server,Livré
+10744,VAFFE,Vaffeljernet,6,Michael Suyama,1997-11-17 00:00:00,1997-11-24,SQL_Server,Livré
+10745,QUICK,QUICK-Stop,9,Anne Dodsworth,1997-11-18 00:00:00,1997-11-27,SQL_Server,Livré
+10746,CHOPS,Chop-suey Chinese,1,Nancy Davolio,1997-11-19 00:00:00,1997-11-21,SQL_Server,Livré
+10747,PICCO,Piccolo und mehr,6,Michael Suyama,1997-11-19 00:00:00,1997-11-26,SQL_Server,Livré
+10748,SAVEA,Save-a-lot Markets,3,Janet Leverling,1997-11-20 00:00:00,1997-11-28,SQL_Server,Livré
+10749,ISLAT,Island Trading,4,Margaret Peacock,1997-11-20 00:00:00,1997-12-19,SQL_Server,Livré
+10750,WARTH,Wartian Herkku,9,Anne Dodsworth,1997-11-21 00:00:00,1997-11-24,SQL_Server,Livré
+10751,RICSU,Richter Supermarkt,3,Janet Leverling,1997-11-24 00:00:00,1997-12-03,SQL_Server,Livré
+10752,NORTS,North/South,2,Andrew Fuller,1997-11-24 00:00:00,1997-11-28,SQL_Server,Livré
+10753,FRANS,Franchi S.p.A.,3,Janet Leverling,1997-11-25 00:00:00,1997-11-27,SQL_Server,Livré
+10754,MAGAA,Magazzini Alimentari Riuniti,6,Michael Suyama,1997-11-25 00:00:00,1997-11-27,SQL_Server,Livré
+10755,BONAP,Bon app',4,Margaret Peacock,1997-11-26 00:00:00,1997-11-28,SQL_Server,Livré
+10756,SPLIR,Split Rail Beer & Ale,8,Laura Callahan,1997-11-27 00:00:00,1997-12-02,SQL_Server,Livré
+10757,SAVEA,Save-a-lot Markets,6,Michael Suyama,1997-11-27 00:00:00,1997-12-15,SQL_Server,Livré
+10758,RICSU,Richter Supermarkt,3,Janet Leverling,1997-11-28 00:00:00,1997-12-04,SQL_Server,Livré
+10759,ANATR,Ana Trujillo Emparedados y helados,3,Janet Leverling,1997-11-28 00:00:00,1997-12-12,SQL_Server,Livré
+10760,MAISD,Maison Dewey,4,Margaret Peacock,1997-12-01 00:00:00,1997-12-10,SQL_Server,Livré
+10761,RATTC,Rattlesnake Canyon Grocery,5,Steven Buchanan,1997-12-02 00:00:00,1997-12-08,SQL_Server,Livré
+10762,FOLKO,Folk och fä HB,3,Janet Leverling,1997-12-02 00:00:00,1997-12-09,SQL_Server,Livré
+10763,FOLIG,Folies gourmandes,3,Janet Leverling,1997-12-03 00:00:00,1997-12-08,SQL_Server,Livré
+10764,ERNSH,Ernst Handel,6,Michael Suyama,1997-12-03 00:00:00,1997-12-08,SQL_Server,Livré
+10765,QUICK,QUICK-Stop,3,Janet Leverling,1997-12-04 00:00:00,1997-12-09,SQL_Server,Livré
+10766,OTTIK,Ottilies Käseladen,4,Margaret Peacock,1997-12-05 00:00:00,1997-12-09,SQL_Server,Livré
+10767,SUPRD,Suprêmes délices,4,Margaret Peacock,1997-12-05 00:00:00,1997-12-15,SQL_Server,Livré
+10768,AROUT,Around the Horn,3,Janet Leverling,1997-12-08 00:00:00,1997-12-15,SQL_Server,Livré
+10769,VAFFE,Vaffeljernet,3,Janet Leverling,1997-12-08 00:00:00,1997-12-12,SQL_Server,Livré
+10770,HANAR,Hanari Carnes,8,Laura Callahan,1997-12-09 00:00:00,1997-12-17,SQL_Server,Livré
+10771,ERNSH,Ernst Handel,9,Anne Dodsworth,1997-12-10 00:00:00,1998-01-02,SQL_Server,Livré
+10772,LEHMS,Lehmanns Marktstand,3,Janet Leverling,1997-12-10 00:00:00,1997-12-19,SQL_Server,Livré
+10773,ERNSH,Ernst Handel,1,Nancy Davolio,1997-12-11 00:00:00,1997-12-16,SQL_Server,Livré
+10774,FOLKO,Folk och fä HB,4,Margaret Peacock,1997-12-11 00:00:00,1997-12-12,SQL_Server,Livré
+10775,THECR,The Cracker Box,7,Robert King,1997-12-12 00:00:00,1997-12-26,SQL_Server,Livré
+10776,ERNSH,Ernst Handel,1,Nancy Davolio,1997-12-15 00:00:00,1997-12-18,SQL_Server,Livré
+10777,GOURL,Gourmet Lanchonetes,7,Robert King,1997-12-15 00:00:00,1998-01-21,SQL_Server,Livré
+10778,BERGS,Berglunds snabbköp,3,Janet Leverling,1997-12-16 00:00:00,1997-12-24,SQL_Server,Livré
+10779,MORGK,Morgenstern Gesundkost,3,Janet Leverling,1997-12-16 00:00:00,1998-01-14,SQL_Server,Livré
+10780,LILAS,LILA-Supermercado,2,Andrew Fuller,1997-12-16 00:00:00,1997-12-25,SQL_Server,Livré
+10781,WARTH,Wartian Herkku,2,Andrew Fuller,1997-12-17 00:00:00,1997-12-19,SQL_Server,Livré
+10782,CACTU,Cactus Comidas para llevar,9,Anne Dodsworth,1997-12-17 00:00:00,1997-12-22,SQL_Server,Livré
+10783,HANAR,Hanari Carnes,4,Margaret Peacock,1997-12-18 00:00:00,1997-12-19,SQL_Server,Livré
+10784,MAGAA,Magazzini Alimentari Riuniti,4,Margaret Peacock,1997-12-18 00:00:00,1997-12-22,SQL_Server,Livré
+10785,GROSR,GROSELLA-Restaurante,1,Nancy Davolio,1997-12-18 00:00:00,1997-12-24,SQL_Server,Livré
+10786,QUEEN,Queen Cozinha,8,Laura Callahan,1997-12-19 00:00:00,1997-12-23,SQL_Server,Livré
+10787,LAMAI,La maison d'Asie,2,Andrew Fuller,1997-12-19 00:00:00,1997-12-26,SQL_Server,Livré
+10788,QUICK,QUICK-Stop,1,Nancy Davolio,1997-12-22 00:00:00,1998-01-19,SQL_Server,Livré
+10789,FOLIG,Folies gourmandes,1,Nancy Davolio,1997-12-22 00:00:00,1997-12-31,SQL_Server,Livré
+10790,GOURL,Gourmet Lanchonetes,6,Michael Suyama,1997-12-22 00:00:00,1997-12-26,SQL_Server,Livré
+10791,FRANK,Frankenversand,6,Michael Suyama,1997-12-23 00:00:00,1998-01-01,SQL_Server,Livré
+10792,WOLZA,Wolski  Zajazd,1,Nancy Davolio,1997-12-23 00:00:00,1997-12-31,SQL_Server,Livré
+10793,AROUT,Around the Horn,3,Janet Leverling,1997-12-24 00:00:00,1998-01-08,SQL_Server,Livré
+10794,QUEDE,Que Delícia,6,Michael Suyama,1997-12-24 00:00:00,1998-01-02,SQL_Server,Livré
+10795,ERNSH,Ernst Handel,8,Laura Callahan,1997-12-24 00:00:00,1998-01-20,SQL_Server,Livré
+10796,HILAA,HILARION-Abastos,3,Janet Leverling,1997-12-25 00:00:00,1998-01-14,SQL_Server,Livré
+10797,DRACD,Drachenblut Delikatessen,7,Robert King,1997-12-25 00:00:00,1998-01-05,SQL_Server,Livré
+10798,ISLAT,Island Trading,2,Andrew Fuller,1997-12-26 00:00:00,1998-01-05,SQL_Server,Livré
+10799,KOENE,Königlich Essen,9,Anne Dodsworth,1997-12-26 00:00:00,1998-01-05,SQL_Server,Livré
+10800,SEVES,Seven Seas Imports,1,Nancy Davolio,1997-12-26 00:00:00,1998-01-05,SQL_Server,Livré
+10801,BOLID,Bólido Comidas preparadas,4,Margaret Peacock,1997-12-29 00:00:00,1997-12-31,SQL_Server,Livré
+10802,SIMOB,Simons bistro,4,Margaret Peacock,1997-12-29 00:00:00,1998-01-02,SQL_Server,Livré
+10803,WELLI,Wellington Importadora,4,Margaret Peacock,1997-12-30 00:00:00,1998-01-06,SQL_Server,Livré
+10804,SEVES,Seven Seas Imports,6,Michael Suyama,1997-12-30 00:00:00,1998-01-07,SQL_Server,Livré
+10805,THEBI,The Big Cheese,2,Andrew Fuller,1997-12-30 00:00:00,1998-01-09,SQL_Server,Livré
+10806,VICTE,Victuailles en stock,3,Janet Leverling,1997-12-31 00:00:00,1998-01-05,SQL_Server,Livré
+10807,FRANS,Franchi S.p.A.,4,Margaret Peacock,1997-12-31 00:00:00,1998-01-30,SQL_Server,Livré
+10808,OLDWO,Old World Delicatessen,2,Andrew Fuller,1998-01-01 00:00:00,1998-01-09,SQL_Server,Livré
+10809,WELLI,Wellington Importadora,7,Robert King,1998-01-01 00:00:00,1998-01-07,SQL_Server,Livré
+10810,LAUGB,Laughing Bacchus Wine Cellars,2,Andrew Fuller,1998-01-01 00:00:00,1998-01-07,SQL_Server,Livré
+10811,LINOD,LINO-Delicateses,8,Laura Callahan,1998-01-02 00:00:00,1998-01-08,SQL_Server,Livré
+10812,REGGC,Reggiani Caseifici,5,Steven Buchanan,1998-01-02 00:00:00,1998-01-12,SQL_Server,Livré
+10813,RICAR,Ricardo Adocicados,1,Nancy Davolio,1998-01-05 00:00:00,1998-01-09,SQL_Server,Livré
+10814,VICTE,Victuailles en stock,3,Janet Leverling,1998-01-05 00:00:00,1998-01-14,SQL_Server,Livré
+10815,SAVEA,Save-a-lot Markets,2,Andrew Fuller,1998-01-05 00:00:00,1998-01-14,SQL_Server,Livré
+10816,GREAL,Great Lakes Food Market,4,Margaret Peacock,1998-01-06 00:00:00,1998-02-04,SQL_Server,Livré
+10817,KOENE,Königlich Essen,3,Janet Leverling,1998-01-06 00:00:00,1998-01-13,SQL_Server,Livré
+10818,MAGAA,Magazzini Alimentari Riuniti,7,Robert King,1998-01-07 00:00:00,1998-01-12,SQL_Server,Livré
+10819,CACTU,Cactus Comidas para llevar,2,Andrew Fuller,1998-01-07 00:00:00,1998-01-16,SQL_Server,Livré
+10820,RATTC,Rattlesnake Canyon Grocery,3,Janet Leverling,1998-01-07 00:00:00,1998-01-13,SQL_Server,Livré
+10821,SPLIR,Split Rail Beer & Ale,1,Nancy Davolio,1998-01-08 00:00:00,1998-01-15,SQL_Server,Livré
+10822,TRAIH,Trail's Head Gourmet Provisioners,6,Michael Suyama,1998-01-08 00:00:00,1998-01-16,SQL_Server,Livré
+10823,LILAS,LILA-Supermercado,5,Steven Buchanan,1998-01-09 00:00:00,1998-01-13,SQL_Server,Livré
+10824,FOLKO,Folk och fä HB,8,Laura Callahan,1998-01-09 00:00:00,1998-01-30,SQL_Server,Livré
+10825,DRACD,Drachenblut Delikatessen,1,Nancy Davolio,1998-01-09 00:00:00,1998-01-14,SQL_Server,Livré
+10826,BLONP,Blondesddsl père et fils,6,Michael Suyama,1998-01-12 00:00:00,1998-02-06,SQL_Server,Livré
+10827,BONAP,Bon app',1,Nancy Davolio,1998-01-12 00:00:00,1998-02-06,SQL_Server,Livré
+10828,RANCH,Rancho grande,9,Anne Dodsworth,1998-01-13 00:00:00,1998-02-04,SQL_Server,Livré
+10829,ISLAT,Island Trading,9,Anne Dodsworth,1998-01-13 00:00:00,1998-01-23,SQL_Server,Livré
+10830,TRADH,Tradição Hipermercados,4,Margaret Peacock,1998-01-13 00:00:00,1998-01-21,SQL_Server,Livré
+10831,SANTG,Santé Gourmet,3,Janet Leverling,1998-01-14 00:00:00,1998-01-23,SQL_Server,Livré
+10832,LAMAI,La maison d'Asie,2,Andrew Fuller,1998-01-14 00:00:00,1998-01-19,SQL_Server,Livré
+10833,OTTIK,Ottilies Käseladen,6,Michael Suyama,1998-01-15 00:00:00,1998-01-23,SQL_Server,Livré
+10834,TRADH,Tradição Hipermercados,1,Nancy Davolio,1998-01-15 00:00:00,1998-01-19,SQL_Server,Livré
+10835,ALFKI,Alfreds Futterkiste,1,Nancy Davolio,1998-01-15 00:00:00,1998-01-21,SQL_Server,Livré
+10836,ERNSH,Ernst Handel,7,Robert King,1998-01-16 00:00:00,1998-01-21,SQL_Server,Livré
+10837,BERGS,Berglunds snabbköp,9,Anne Dodsworth,1998-01-16 00:00:00,1998-01-23,SQL_Server,Livré
+10838,LINOD,LINO-Delicateses,3,Janet Leverling,1998-01-19 00:00:00,1998-01-23,SQL_Server,Livré
+10839,TRADH,Tradição Hipermercados,3,Janet Leverling,1998-01-19 00:00:00,1998-01-22,SQL_Server,Livré
+10840,LINOD,LINO-Delicateses,4,Margaret Peacock,1998-01-19 00:00:00,1998-02-16,SQL_Server,Livré
+10841,SUPRD,Suprêmes délices,5,Steven Buchanan,1998-01-20 00:00:00,1998-01-29,SQL_Server,Livré
+10842,TORTU,Tortuga Restaurante,1,Nancy Davolio,1998-01-20 00:00:00,1998-01-29,SQL_Server,Livré
+10843,VICTE,Victuailles en stock,4,Margaret Peacock,1998-01-21 00:00:00,1998-01-26,SQL_Server,Livré
+10844,PICCO,Piccolo und mehr,8,Laura Callahan,1998-01-21 00:00:00,1998-01-26,SQL_Server,Livré
+10845,QUICK,QUICK-Stop,8,Laura Callahan,1998-01-21 00:00:00,1998-01-30,SQL_Server,Livré
+10846,SUPRD,Suprêmes délices,2,Andrew Fuller,1998-01-22 00:00:00,1998-01-23,SQL_Server,Livré
+10847,SAVEA,Save-a-lot Markets,4,Margaret Peacock,1998-01-22 00:00:00,1998-02-10,SQL_Server,Livré
+10848,CONSH,Consolidated Holdings,7,Robert King,1998-01-23 00:00:00,1998-01-29,SQL_Server,Livré
+10849,KOENE,Königlich Essen,9,Anne Dodsworth,1998-01-23 00:00:00,1998-01-30,SQL_Server,Livré
+10850,VICTE,Victuailles en stock,1,Nancy Davolio,1998-01-23 00:00:00,1998-01-30,SQL_Server,Livré
+10851,RICAR,Ricardo Adocicados,5,Steven Buchanan,1998-01-26 00:00:00,1998-02-02,SQL_Server,Livré
+10852,RATTC,Rattlesnake Canyon Grocery,8,Laura Callahan,1998-01-26 00:00:00,1998-01-30,SQL_Server,Livré
+10853,BLAUS,Blauer See Delikatessen,9,Anne Dodsworth,1998-01-27 00:00:00,1998-02-03,SQL_Server,Livré
+10854,ERNSH,Ernst Handel,3,Janet Leverling,1998-01-27 00:00:00,1998-02-05,SQL_Server,Livré
+10855,OLDWO,Old World Delicatessen,3,Janet Leverling,1998-01-27 00:00:00,1998-02-04,SQL_Server,Livré
+10856,ANTON,Antonio Moreno Taquería,3,Janet Leverling,1998-01-28 00:00:00,1998-02-10,SQL_Server,Livré
+10857,BERGS,Berglunds snabbköp,8,Laura Callahan,1998-01-28 00:00:00,1998-02-06,SQL_Server,Livré
+10858,LACOR,La corne d'abondance,2,Andrew Fuller,1998-01-29 00:00:00,1998-02-03,SQL_Server,Livré
+10859,FRANK,Frankenversand,1,Nancy Davolio,1998-01-29 00:00:00,1998-02-02,SQL_Server,Livré
+10860,FRANR,France restauration,3,Janet Leverling,1998-01-29 00:00:00,1998-02-04,SQL_Server,Livré
+10861,WHITC,White Clover Markets,4,Margaret Peacock,1998-01-30 00:00:00,1998-02-17,SQL_Server,Livré
+10862,LEHMS,Lehmanns Marktstand,8,Laura Callahan,1998-01-30 00:00:00,1998-02-02,SQL_Server,Livré
+10863,HILAA,HILARION-Abastos,4,Margaret Peacock,1998-02-02 00:00:00,1998-02-17,SQL_Server,Livré
+10864,AROUT,Around the Horn,4,Margaret Peacock,1998-02-02 00:00:00,1998-02-09,SQL_Server,Livré
+10865,QUICK,QUICK-Stop,2,Andrew Fuller,1998-02-02 00:00:00,1998-02-12,SQL_Server,Livré
+10866,BERGS,Berglunds snabbköp,5,Steven Buchanan,1998-02-03 00:00:00,1998-02-12,SQL_Server,Livré
+10867,LONEP,Lonesome Pine Restaurant,6,Michael Suyama,1998-02-03 00:00:00,1998-02-11,SQL_Server,Livré
+10868,QUEEN,Queen Cozinha,7,Robert King,1998-02-04 00:00:00,1998-02-23,SQL_Server,Livré
+10869,SEVES,Seven Seas Imports,5,Steven Buchanan,1998-02-04 00:00:00,1998-02-09,SQL_Server,Livré
+10870,WOLZA,Wolski  Zajazd,5,Steven Buchanan,1998-02-04 00:00:00,1998-02-13,SQL_Server,Livré
+10871,BONAP,Bon app',9,Anne Dodsworth,1998-02-05 00:00:00,1998-02-10,SQL_Server,Livré
+10872,GODOS,Godos Cocina Típica,5,Steven Buchanan,1998-02-05 00:00:00,1998-02-09,SQL_Server,Livré
+10873,WILMK,Wilman Kala,4,Margaret Peacock,1998-02-06 00:00:00,1998-02-09,SQL_Server,Livré
+10874,GODOS,Godos Cocina Típica,5,Steven Buchanan,1998-02-06 00:00:00,1998-02-11,SQL_Server,Livré
+10875,BERGS,Berglunds snabbköp,4,Margaret Peacock,1998-02-06 00:00:00,1998-03-03,SQL_Server,Livré
+10876,BONAP,Bon app',7,Robert King,1998-02-09 00:00:00,1998-02-12,SQL_Server,Livré
+10877,RICAR,Ricardo Adocicados,1,Nancy Davolio,1998-02-09 00:00:00,1998-02-19,SQL_Server,Livré
+10878,QUICK,QUICK-Stop,4,Margaret Peacock,1998-02-10 00:00:00,1998-02-12,SQL_Server,Livré
+10879,WILMK,Wilman Kala,3,Janet Leverling,1998-02-10 00:00:00,1998-02-12,SQL_Server,Livré
+10880,FOLKO,Folk och fä HB,7,Robert King,1998-02-10 00:00:00,1998-02-18,SQL_Server,Livré
+10881,CACTU,Cactus Comidas para llevar,4,Margaret Peacock,1998-02-11 00:00:00,1998-02-18,SQL_Server,Livré
+10882,SAVEA,Save-a-lot Markets,4,Margaret Peacock,1998-02-11 00:00:00,1998-02-20,SQL_Server,Livré
+10883,LONEP,Lonesome Pine Restaurant,8,Laura Callahan,1998-02-12 00:00:00,1998-02-20,SQL_Server,Livré
+10884,LETSS,Let's Stop N Shop,4,Margaret Peacock,1998-02-12 00:00:00,1998-02-13,SQL_Server,Livré
+10885,SUPRD,Suprêmes délices,6,Michael Suyama,1998-02-12 00:00:00,1998-02-18,SQL_Server,Livré
+10886,HANAR,Hanari Carnes,1,Nancy Davolio,1998-02-13 00:00:00,1998-03-02,SQL_Server,Livré
+10887,GALED,Galería del gastrónomo,8,Laura Callahan,1998-02-13 00:00:00,1998-02-16,SQL_Server,Livré
+10888,GODOS,Godos Cocina Típica,1,Nancy Davolio,1998-02-16 00:00:00,1998-02-23,SQL_Server,Livré
+10889,RATTC,Rattlesnake Canyon Grocery,9,Anne Dodsworth,1998-02-16 00:00:00,1998-02-23,SQL_Server,Livré
+10890,DUMON,Du monde entier,7,Robert King,1998-02-16 00:00:00,1998-02-18,SQL_Server,Livré
+10891,LEHMS,Lehmanns Marktstand,7,Robert King,1998-02-17 00:00:00,1998-02-19,SQL_Server,Livré
+10892,MAISD,Maison Dewey,4,Margaret Peacock,1998-02-17 00:00:00,1998-02-19,SQL_Server,Livré
+10893,KOENE,Königlich Essen,9,Anne Dodsworth,1998-02-18 00:00:00,1998-02-20,SQL_Server,Livré
+10894,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1998-02-18 00:00:00,1998-02-20,SQL_Server,Livré
+10895,ERNSH,Ernst Handel,3,Janet Leverling,1998-02-18 00:00:00,1998-02-23,SQL_Server,Livré
+10896,MAISD,Maison Dewey,7,Robert King,1998-02-19 00:00:00,1998-02-27,SQL_Server,Livré
+10897,HUNGO,Hungry Owl All-Night Grocers,3,Janet Leverling,1998-02-19 00:00:00,1998-02-25,SQL_Server,Livré
+10898,OCEAN,Océano Atlántico Ltda.,4,Margaret Peacock,1998-02-20 00:00:00,1998-03-06,SQL_Server,Livré
+10899,LILAS,LILA-Supermercado,5,Steven Buchanan,1998-02-20 00:00:00,1998-02-26,SQL_Server,Livré
+10900,WELLI,Wellington Importadora,1,Nancy Davolio,1998-02-20 00:00:00,1998-03-04,SQL_Server,Livré
+10901,HILAA,HILARION-Abastos,4,Margaret Peacock,1998-02-23 00:00:00,1998-02-26,SQL_Server,Livré
+10902,FOLKO,Folk och fä HB,1,Nancy Davolio,1998-02-23 00:00:00,1998-03-03,SQL_Server,Livré
+10903,HANAR,Hanari Carnes,3,Janet Leverling,1998-02-24 00:00:00,1998-03-04,SQL_Server,Livré
+10904,WHITC,White Clover Markets,3,Janet Leverling,1998-02-24 00:00:00,1998-02-27,SQL_Server,Livré
+10905,WELLI,Wellington Importadora,9,Anne Dodsworth,1998-02-24 00:00:00,1998-03-06,SQL_Server,Livré
+10906,WOLZA,Wolski  Zajazd,4,Margaret Peacock,1998-02-25 00:00:00,1998-03-03,SQL_Server,Livré
+10907,SPECD,Spécialités du monde,6,Michael Suyama,1998-02-25 00:00:00,1998-02-27,SQL_Server,Livré
+10908,REGGC,Reggiani Caseifici,4,Margaret Peacock,1998-02-26 00:00:00,1998-03-06,SQL_Server,Livré
+10909,SANTG,Santé Gourmet,1,Nancy Davolio,1998-02-26 00:00:00,1998-03-10,SQL_Server,Livré
+10910,WILMK,Wilman Kala,1,Nancy Davolio,1998-02-26 00:00:00,1998-03-04,SQL_Server,Livré
+10911,GODOS,Godos Cocina Típica,3,Janet Leverling,1998-02-26 00:00:00,1998-03-05,SQL_Server,Livré
+10912,HUNGO,Hungry Owl All-Night Grocers,2,Andrew Fuller,1998-02-26 00:00:00,1998-03-18,SQL_Server,Livré
+10913,QUEEN,Queen Cozinha,4,Margaret Peacock,1998-02-26 00:00:00,1998-03-04,SQL_Server,Livré
+10914,QUEEN,Queen Cozinha,6,Michael Suyama,1998-02-27 00:00:00,1998-03-02,SQL_Server,Livré
+10915,TORTU,Tortuga Restaurante,2,Andrew Fuller,1998-02-27 00:00:00,1998-03-02,SQL_Server,Livré
+10916,RANCH,Rancho grande,1,Nancy Davolio,1998-02-27 00:00:00,1998-03-09,SQL_Server,Livré
+10917,ROMEY,Romero y tomillo,4,Margaret Peacock,1998-03-02 00:00:00,1998-03-11,SQL_Server,Livré
+10918,BOTTM,Bottom-Dollar Markets,3,Janet Leverling,1998-03-02 00:00:00,1998-03-11,SQL_Server,Livré
+10919,LINOD,LINO-Delicateses,2,Andrew Fuller,1998-03-02 00:00:00,1998-03-04,SQL_Server,Livré
+10920,AROUT,Around the Horn,4,Margaret Peacock,1998-03-03 00:00:00,1998-03-09,SQL_Server,Livré
+10921,VAFFE,Vaffeljernet,1,Nancy Davolio,1998-03-03 00:00:00,1998-03-09,SQL_Server,Livré
+10922,HANAR,Hanari Carnes,5,Steven Buchanan,1998-03-03 00:00:00,1998-03-05,SQL_Server,Livré
+10923,LAMAI,La maison d'Asie,7,Robert King,1998-03-03 00:00:00,1998-03-13,SQL_Server,Livré
+10924,BERGS,Berglunds snabbköp,3,Janet Leverling,1998-03-04 00:00:00,1998-04-08,SQL_Server,Livré
+10925,HANAR,Hanari Carnes,3,Janet Leverling,1998-03-04 00:00:00,1998-03-13,SQL_Server,Livré
+10926,ANATR,Ana Trujillo Emparedados y helados,4,Margaret Peacock,1998-03-04 00:00:00,1998-03-11,SQL_Server,Livré
+10927,LACOR,La corne d'abondance,4,Margaret Peacock,1998-03-05 00:00:00,1998-04-08,SQL_Server,Livré
+10928,GALED,Galería del gastrónomo,1,Nancy Davolio,1998-03-05 00:00:00,1998-03-18,SQL_Server,Livré
+10929,FRANK,Frankenversand,6,Michael Suyama,1998-03-05 00:00:00,1998-03-12,SQL_Server,Livré
+10930,SUPRD,Suprêmes délices,4,Margaret Peacock,1998-03-06 00:00:00,1998-03-18,SQL_Server,Livré
+10931,RICSU,Richter Supermarkt,4,Margaret Peacock,1998-03-06 00:00:00,1998-03-19,SQL_Server,Livré
+10932,BONAP,Bon app',8,Laura Callahan,1998-03-06 00:00:00,1998-03-24,SQL_Server,Livré
+10933,ISLAT,Island Trading,6,Michael Suyama,1998-03-06 00:00:00,1998-03-16,SQL_Server,Livré
+10934,LEHMS,Lehmanns Marktstand,3,Janet Leverling,1998-03-09 00:00:00,1998-03-12,SQL_Server,Livré
+10935,WELLI,Wellington Importadora,4,Margaret Peacock,1998-03-09 00:00:00,1998-03-18,SQL_Server,Livré
+10936,GREAL,Great Lakes Food Market,3,Janet Leverling,1998-03-09 00:00:00,1998-03-18,SQL_Server,Livré
+10937,CACTU,Cactus Comidas para llevar,7,Robert King,1998-03-10 00:00:00,1998-03-13,SQL_Server,Livré
+10938,QUICK,QUICK-Stop,3,Janet Leverling,1998-03-10 00:00:00,1998-03-16,SQL_Server,Livré
+10939,MAGAA,Magazzini Alimentari Riuniti,2,Andrew Fuller,1998-03-10 00:00:00,1998-03-13,SQL_Server,Livré
+10940,BONAP,Bon app',8,Laura Callahan,1998-03-11 00:00:00,1998-03-23,SQL_Server,Livré
+10941,SAVEA,Save-a-lot Markets,7,Robert King,1998-03-11 00:00:00,1998-03-20,SQL_Server,Livré
+10942,REGGC,Reggiani Caseifici,9,Anne Dodsworth,1998-03-11 00:00:00,1998-03-18,SQL_Server,Livré
+10943,BSBEV,B's Beverages,4,Margaret Peacock,1998-03-11 00:00:00,1998-03-19,SQL_Server,Livré
+10944,BOTTM,Bottom-Dollar Markets,6,Michael Suyama,1998-03-12 00:00:00,1998-03-13,SQL_Server,Livré
+10945,MORGK,Morgenstern Gesundkost,4,Margaret Peacock,1998-03-12 00:00:00,1998-03-18,SQL_Server,Livré
+10946,VAFFE,Vaffeljernet,1,Nancy Davolio,1998-03-12 00:00:00,1998-03-19,SQL_Server,Livré
+10947,BSBEV,B's Beverages,3,Janet Leverling,1998-03-13 00:00:00,1998-03-16,SQL_Server,Livré
+10948,GODOS,Godos Cocina Típica,3,Janet Leverling,1998-03-13 00:00:00,1998-03-19,SQL_Server,Livré
+10949,BOTTM,Bottom-Dollar Markets,2,Andrew Fuller,1998-03-13 00:00:00,1998-03-17,SQL_Server,Livré
+10950,MAGAA,Magazzini Alimentari Riuniti,1,Nancy Davolio,1998-03-16 00:00:00,1998-03-23,SQL_Server,Livré
+10951,RICSU,Richter Supermarkt,9,Anne Dodsworth,1998-03-16 00:00:00,1998-04-07,SQL_Server,Livré
+10952,ALFKI,Alfreds Futterkiste,1,Nancy Davolio,1998-03-16 00:00:00,1998-03-24,SQL_Server,Livré
+10953,AROUT,Around the Horn,9,Anne Dodsworth,1998-03-16 00:00:00,1998-03-25,SQL_Server,Livré
+10954,LINOD,LINO-Delicateses,5,Steven Buchanan,1998-03-17 00:00:00,1998-03-20,SQL_Server,Livré
+10955,FOLKO,Folk och fä HB,8,Laura Callahan,1998-03-17 00:00:00,1998-03-20,SQL_Server,Livré
+10956,BLAUS,Blauer See Delikatessen,6,Michael Suyama,1998-03-17 00:00:00,1998-03-20,SQL_Server,Livré
+10957,HILAA,HILARION-Abastos,8,Laura Callahan,1998-03-18 00:00:00,1998-03-27,SQL_Server,Livré
+10958,OCEAN,Océano Atlántico Ltda.,7,Robert King,1998-03-18 00:00:00,1998-03-27,SQL_Server,Livré
+10959,GOURL,Gourmet Lanchonetes,6,Michael Suyama,1998-03-18 00:00:00,1998-03-23,SQL_Server,Livré
+10960,HILAA,HILARION-Abastos,3,Janet Leverling,1998-03-19 00:00:00,1998-04-08,SQL_Server,Livré
+10961,QUEEN,Queen Cozinha,8,Laura Callahan,1998-03-19 00:00:00,1998-03-30,SQL_Server,Livré
+10962,QUICK,QUICK-Stop,8,Laura Callahan,1998-03-19 00:00:00,1998-03-23,SQL_Server,Livré
+10963,FURIB,Furia Bacalhau e Frutos do Mar,9,Anne Dodsworth,1998-03-19 00:00:00,1998-03-26,SQL_Server,Livré
+10964,SPECD,Spécialités du monde,3,Janet Leverling,1998-03-20 00:00:00,1998-03-24,SQL_Server,Livré
+10965,OLDWO,Old World Delicatessen,6,Michael Suyama,1998-03-20 00:00:00,1998-03-30,SQL_Server,Livré
+10966,CHOPS,Chop-suey Chinese,4,Margaret Peacock,1998-03-20 00:00:00,1998-04-08,SQL_Server,Livré
+10967,TOMSP,Toms Spezialitäten,2,Andrew Fuller,1998-03-23 00:00:00,1998-04-02,SQL_Server,Livré
+10968,ERNSH,Ernst Handel,1,Nancy Davolio,1998-03-23 00:00:00,1998-04-01,SQL_Server,Livré
+10969,COMMI,Comércio Mineiro,1,Nancy Davolio,1998-03-23 00:00:00,1998-03-30,SQL_Server,Livré
+10970,BOLID,Bólido Comidas preparadas,9,Anne Dodsworth,1998-03-24 00:00:00,1998-04-24,SQL_Server,Livré
+10971,FRANR,France restauration,2,Andrew Fuller,1998-03-24 00:00:00,1998-04-02,SQL_Server,Livré
+10972,LACOR,La corne d'abondance,4,Margaret Peacock,1998-03-24 00:00:00,1998-03-26,SQL_Server,Livré
+10973,LACOR,La corne d'abondance,6,Michael Suyama,1998-03-24 00:00:00,1998-03-27,SQL_Server,Livré
+10974,SPLIR,Split Rail Beer & Ale,3,Janet Leverling,1998-03-25 00:00:00,1998-04-03,SQL_Server,Livré
+10975,BOTTM,Bottom-Dollar Markets,1,Nancy Davolio,1998-03-25 00:00:00,1998-03-27,SQL_Server,Livré
+10976,HILAA,HILARION-Abastos,1,Nancy Davolio,1998-03-25 00:00:00,1998-04-03,SQL_Server,Livré
+10977,FOLKO,Folk och fä HB,8,Laura Callahan,1998-03-26 00:00:00,1998-04-10,SQL_Server,Livré
+10978,MAISD,Maison Dewey,9,Anne Dodsworth,1998-03-26 00:00:00,1998-04-23,SQL_Server,Livré
+10979,ERNSH,Ernst Handel,8,Laura Callahan,1998-03-26 00:00:00,1998-03-31,SQL_Server,Livré
+10980,FOLKO,Folk och fä HB,4,Margaret Peacock,1998-03-27 00:00:00,1998-04-17,SQL_Server,Livré
+10981,HANAR,Hanari Carnes,1,Nancy Davolio,1998-03-27 00:00:00,1998-04-02,SQL_Server,Livré
+10982,BOTTM,Bottom-Dollar Markets,2,Andrew Fuller,1998-03-27 00:00:00,1998-04-08,SQL_Server,Livré
+10983,SAVEA,Save-a-lot Markets,2,Andrew Fuller,1998-03-27 00:00:00,1998-04-06,SQL_Server,Livré
+10984,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1998-03-30 00:00:00,1998-04-03,SQL_Server,Livré
+10985,HUNGO,Hungry Owl All-Night Grocers,2,Andrew Fuller,1998-03-30 00:00:00,1998-04-02,SQL_Server,Livré
+10986,OCEAN,Océano Atlántico Ltda.,8,Laura Callahan,1998-03-30 00:00:00,1998-04-21,SQL_Server,Livré
+10987,EASTC,Eastern Connection,8,Laura Callahan,1998-03-31 00:00:00,1998-04-06,SQL_Server,Livré
+10988,RATTC,Rattlesnake Canyon Grocery,3,Janet Leverling,1998-03-31 00:00:00,1998-04-10,SQL_Server,Livré
+10989,QUEDE,Que Delícia,2,Andrew Fuller,1998-03-31 00:00:00,1998-04-02,SQL_Server,Livré
+10990,ERNSH,Ernst Handel,2,Andrew Fuller,1998-04-01 00:00:00,1998-04-07,SQL_Server,Livré
+10991,QUICK,QUICK-Stop,1,Nancy Davolio,1998-04-01 00:00:00,1998-04-07,SQL_Server,Livré
+10992,THEBI,The Big Cheese,1,Nancy Davolio,1998-04-01 00:00:00,1998-04-03,SQL_Server,Livré
+10993,FOLKO,Folk och fä HB,7,Robert King,1998-04-01 00:00:00,1998-04-10,SQL_Server,Livré
+10994,VAFFE,Vaffeljernet,2,Andrew Fuller,1998-04-02 00:00:00,1998-04-09,SQL_Server,Livré
+10995,PERIC,Pericles Comidas clásicas,1,Nancy Davolio,1998-04-02 00:00:00,1998-04-06,SQL_Server,Livré
+10996,QUICK,QUICK-Stop,4,Margaret Peacock,1998-04-02 00:00:00,1998-04-10,SQL_Server,Livré
+10997,LILAS,LILA-Supermercado,8,Laura Callahan,1998-04-03 00:00:00,1998-04-13,SQL_Server,Livré
+10998,WOLZA,Wolski  Zajazd,8,Laura Callahan,1998-04-03 00:00:00,1998-04-17,SQL_Server,Livré
+10999,OTTIK,Ottilies Käseladen,6,Michael Suyama,1998-04-03 00:00:00,1998-04-10,SQL_Server,Livré
+11000,RATTC,Rattlesnake Canyon Grocery,2,Andrew Fuller,1998-04-06 00:00:00,1998-04-14,SQL_Server,Livré
+11001,FOLKO,Folk och fä HB,2,Andrew Fuller,1998-04-06 00:00:00,1998-04-14,SQL_Server,Livré
+11002,SAVEA,Save-a-lot Markets,4,Margaret Peacock,1998-04-06 00:00:00,1998-04-16,SQL_Server,Livré
+11003,THECR,The Cracker Box,3,Janet Leverling,1998-04-06 00:00:00,1998-04-08,SQL_Server,Livré
+11004,MAISD,Maison Dewey,3,Janet Leverling,1998-04-07 00:00:00,1998-04-20,SQL_Server,Livré
+11005,WILMK,Wilman Kala,2,Andrew Fuller,1998-04-07 00:00:00,1998-04-10,SQL_Server,Livré
+11006,GREAL,Great Lakes Food Market,3,Janet Leverling,1998-04-07 00:00:00,1998-04-15,SQL_Server,Livré
+11007,PRINI,Princesa Isabel Vinhos,8,Laura Callahan,1998-04-08 00:00:00,1998-04-13,SQL_Server,Livré
+11008,ERNSH,Ernst Handel,7,Robert King,1998-04-08 00:00:00,,SQL_Server,Non Livré
+11009,GODOS,Godos Cocina Típica,2,Andrew Fuller,1998-04-08 00:00:00,1998-04-10,SQL_Server,Livré
+11010,REGGC,Reggiani Caseifici,2,Andrew Fuller,1998-04-09 00:00:00,1998-04-21,SQL_Server,Livré
+11011,ALFKI,Alfreds Futterkiste,3,Janet Leverling,1998-04-09 00:00:00,1998-04-13,SQL_Server,Livré
+11012,FRANK,Frankenversand,1,Nancy Davolio,1998-04-09 00:00:00,1998-04-17,SQL_Server,Livré
+11013,ROMEY,Romero y tomillo,2,Andrew Fuller,1998-04-09 00:00:00,1998-04-10,SQL_Server,Livré
+11014,LINOD,LINO-Delicateses,2,Andrew Fuller,1998-04-10 00:00:00,1998-04-15,SQL_Server,Livré
+11015,SANTG,Santé Gourmet,2,Andrew Fuller,1998-04-10 00:00:00,1998-04-20,SQL_Server,Livré
+11016,AROUT,Around the Horn,9,Anne Dodsworth,1998-04-10 00:00:00,1998-04-13,SQL_Server,Livré
+11017,ERNSH,Ernst Handel,9,Anne Dodsworth,1998-04-13 00:00:00,1998-04-20,SQL_Server,Livré
+11018,LONEP,Lonesome Pine Restaurant,4,Margaret Peacock,1998-04-13 00:00:00,1998-04-16,SQL_Server,Livré
+11019,RANCH,Rancho grande,6,Michael Suyama,1998-04-13 00:00:00,,SQL_Server,Non Livré
+11020,OTTIK,Ottilies Käseladen,2,Andrew Fuller,1998-04-14 00:00:00,1998-04-16,SQL_Server,Livré
+11021,QUICK,QUICK-Stop,3,Janet Leverling,1998-04-14 00:00:00,1998-04-21,SQL_Server,Livré
+11022,HANAR,Hanari Carnes,9,Anne Dodsworth,1998-04-14 00:00:00,1998-05-04,SQL_Server,Livré
+11023,BSBEV,B's Beverages,1,Nancy Davolio,1998-04-14 00:00:00,1998-04-24,SQL_Server,Livré
+11024,EASTC,Eastern Connection,4,Margaret Peacock,1998-04-15 00:00:00,1998-04-20,SQL_Server,Livré
+11025,WARTH,Wartian Herkku,6,Michael Suyama,1998-04-15 00:00:00,1998-04-24,SQL_Server,Livré
+11026,FRANS,Franchi S.p.A.,4,Margaret Peacock,1998-04-15 00:00:00,1998-04-28,SQL_Server,Livré
+11027,BOTTM,Bottom-Dollar Markets,1,Nancy Davolio,1998-04-16 00:00:00,1998-04-20,SQL_Server,Livré
+11028,KOENE,Königlich Essen,2,Andrew Fuller,1998-04-16 00:00:00,1998-04-22,SQL_Server,Livré
+11029,CHOPS,Chop-suey Chinese,4,Margaret Peacock,1998-04-16 00:00:00,1998-04-27,SQL_Server,Livré
+11030,SAVEA,Save-a-lot Markets,7,Robert King,1998-04-17 00:00:00,1998-04-27,SQL_Server,Livré
+11031,SAVEA,Save-a-lot Markets,6,Michael Suyama,1998-04-17 00:00:00,1998-04-24,SQL_Server,Livré
+11032,WHITC,White Clover Markets,2,Andrew Fuller,1998-04-17 00:00:00,1998-04-23,SQL_Server,Livré
+11033,RICSU,Richter Supermarkt,7,Robert King,1998-04-17 00:00:00,1998-04-23,SQL_Server,Livré
+11034,OLDWO,Old World Delicatessen,8,Laura Callahan,1998-04-20 00:00:00,1998-04-27,SQL_Server,Livré
+11035,SUPRD,Suprêmes délices,2,Andrew Fuller,1998-04-20 00:00:00,1998-04-24,SQL_Server,Livré
+11036,DRACD,Drachenblut Delikatessen,8,Laura Callahan,1998-04-20 00:00:00,1998-04-22,SQL_Server,Livré
+11037,GODOS,Godos Cocina Típica,7,Robert King,1998-04-21 00:00:00,1998-04-27,SQL_Server,Livré
+11038,SUPRD,Suprêmes délices,1,Nancy Davolio,1998-04-21 00:00:00,1998-04-30,SQL_Server,Livré
+11039,LINOD,LINO-Delicateses,1,Nancy Davolio,1998-04-21 00:00:00,,SQL_Server,Non Livré
+11040,GREAL,Great Lakes Food Market,4,Margaret Peacock,1998-04-22 00:00:00,,SQL_Server,Non Livré
+11041,CHOPS,Chop-suey Chinese,3,Janet Leverling,1998-04-22 00:00:00,1998-04-28,SQL_Server,Livré
+11042,COMMI,Comércio Mineiro,2,Andrew Fuller,1998-04-22 00:00:00,1998-05-01,SQL_Server,Livré
+11043,SPECD,Spécialités du monde,5,Steven Buchanan,1998-04-22 00:00:00,1998-04-29,SQL_Server,Livré
+11044,WOLZA,Wolski  Zajazd,4,Margaret Peacock,1998-04-23 00:00:00,1998-05-01,SQL_Server,Livré
+11045,BOTTM,Bottom-Dollar Markets,6,Michael Suyama,1998-04-23 00:00:00,,SQL_Server,Non Livré
+11046,WANDK,Die Wandernde Kuh,8,Laura Callahan,1998-04-23 00:00:00,1998-04-24,SQL_Server,Livré
+11047,EASTC,Eastern Connection,7,Robert King,1998-04-24 00:00:00,1998-05-01,SQL_Server,Livré
+11048,BOTTM,Bottom-Dollar Markets,7,Robert King,1998-04-24 00:00:00,1998-04-30,SQL_Server,Livré
+11049,GOURL,Gourmet Lanchonetes,3,Janet Leverling,1998-04-24 00:00:00,1998-05-04,SQL_Server,Livré
+11050,FOLKO,Folk och fä HB,8,Laura Callahan,1998-04-27 00:00:00,1998-05-05,SQL_Server,Livré
+11051,LAMAI,La maison d'Asie,7,Robert King,1998-04-27 00:00:00,,SQL_Server,Non Livré
+11052,HANAR,Hanari Carnes,3,Janet Leverling,1998-04-27 00:00:00,1998-05-01,SQL_Server,Livré
+11053,PICCO,Piccolo und mehr,2,Andrew Fuller,1998-04-27 00:00:00,1998-04-29,SQL_Server,Livré
+11054,CACTU,Cactus Comidas para llevar,8,Laura Callahan,1998-04-28 00:00:00,,SQL_Server,Non Livré
+11055,HILAA,HILARION-Abastos,7,Robert King,1998-04-28 00:00:00,1998-05-05,SQL_Server,Livré
+11056,EASTC,Eastern Connection,8,Laura Callahan,1998-04-28 00:00:00,1998-05-01,SQL_Server,Livré
+11057,NORTS,North/South,3,Janet Leverling,1998-04-29 00:00:00,1998-05-01,SQL_Server,Livré
+11058,BLAUS,Blauer See Delikatessen,9,Anne Dodsworth,1998-04-29 00:00:00,,SQL_Server,Non Livré
+11059,RICAR,Ricardo Adocicados,2,Andrew Fuller,1998-04-29 00:00:00,,SQL_Server,Non Livré
+11060,FRANS,Franchi S.p.A.,2,Andrew Fuller,1998-04-30 00:00:00,1998-05-04,SQL_Server,Livré
+11061,GREAL,Great Lakes Food Market,4,Margaret Peacock,1998-04-30 00:00:00,,SQL_Server,Non Livré
+11062,REGGC,Reggiani Caseifici,4,Margaret Peacock,1998-04-30 00:00:00,,SQL_Server,Non Livré
+11063,HUNGO,Hungry Owl All-Night Grocers,3,Janet Leverling,1998-04-30 00:00:00,1998-05-06,SQL_Server,Livré
+11064,SAVEA,Save-a-lot Markets,1,Nancy Davolio,1998-05-01 00:00:00,1998-05-04,SQL_Server,Livré
+11065,LILAS,LILA-Supermercado,8,Laura Callahan,1998-05-01 00:00:00,,SQL_Server,Non Livré
+11066,WHITC,White Clover Markets,7,Robert King,1998-05-01 00:00:00,1998-05-04,SQL_Server,Livré
+11067,DRACD,Drachenblut Delikatessen,1,Nancy Davolio,1998-05-04 00:00:00,1998-05-06,SQL_Server,Livré
+11068,QUEEN,Queen Cozinha,8,Laura Callahan,1998-05-04 00:00:00,,SQL_Server,Non Livré
+11069,TORTU,Tortuga Restaurante,1,Nancy Davolio,1998-05-04 00:00:00,1998-05-06,SQL_Server,Livré
+11070,LEHMS,Lehmanns Marktstand,2,Andrew Fuller,1998-05-05 00:00:00,,SQL_Server,Non Livré
+11071,LILAS,LILA-Supermercado,1,Nancy Davolio,1998-05-05 00:00:00,,SQL_Server,Non Livré
+11072,ERNSH,Ernst Handel,4,Margaret Peacock,1998-05-05 00:00:00,,SQL_Server,Non Livré
+11073,PERIC,Pericles Comidas clásicas,2,Andrew Fuller,1998-05-05 00:00:00,,SQL_Server,Non Livré
+11074,SIMOB,Simons bistro,7,Robert King,1998-05-06 00:00:00,,SQL_Server,Non Livré
+11075,RICSU,Richter Supermarkt,8,Laura Callahan,1998-05-06 00:00:00,,SQL_Server,Non Livré
+11076,BONAP,Bon app',4,Margaret Peacock,1998-05-06 00:00:00,,SQL_Server,Non Livré
+11077,RATTC,Rattlesnake Canyon Grocery,1,Nancy Davolio,1998-05-06 00:00:00,,SQL_Server,Non Livré
+30,Company AA,Karen Toh,Anne Hellung-Larsen,Non Assigné,2006-01-15 00:00:00,2006-01-22,Excel_Orders,Livré
+31,Company D,Christina Lee,Jan Kotas,Non Assigné,2006-01-20 00:00:00,2006-01-22,Excel_Orders,Livré
+32,Company L,John Edwards,Mariya Sergienko,Non Assigné,2006-01-22 00:00:00,2006-01-22,Excel_Orders,Livré
+33,Company H,Elizabeth Andersen,Michael Neipper,Non Assigné,2006-01-30 00:00:00,2006-01-31,Excel_Orders,Livré
+34,Company D,Christina Lee,Anne Hellung-Larsen,Non Assigné,2006-02-06 00:00:00,2006-02-07,Excel_Orders,Livré
+35,Company CC,Soo Jung Lee,Jan Kotas,Non Assigné,2006-02-10 00:00:00,2006-02-12,Excel_Orders,Livré
+36,Company C,Thomas Axen,Mariya Sergienko,Non Assigné,2006-02-23 00:00:00,2006-02-25,Excel_Orders,Livré
+37,Company F,Francisco Pérez-Olaeta,Laura Giussani,Non Assigné,2006-03-06 00:00:00,2006-03-09,Excel_Orders,Livré
+38,Company BB,Amritansh Raghav,Anne Hellung-Larsen,Non Assigné,2006-03-10 00:00:00,2006-03-11,Excel_Orders,Livré
+39,Company H,Elizabeth Andersen,Jan Kotas,Non Assigné,2006-03-22 00:00:00,2006-03-24,Excel_Orders,Livré
+40,Company J,Roland Wacker,Mariya Sergienko,Non Assigné,2006-03-24 00:00:00,2006-03-24,Excel_Orders,Livré
+41,Company G,Ming-Yang Xie,Nancy Freehafer,Non Assigné,2006-03-24 00:00:00,,Excel_Orders,Non Livré
+42,Company J,Roland Wacker,Nancy Freehafer,Non Assigné,2006-03-24 00:00:00,2006-04-07,Excel_Orders,Livré
+43,Company K,Peter Krschne,Nancy Freehafer,Non Assigné,2006-03-24 00:00:00,,Excel_Orders,Non Livré
+44,Company A,Anna Bedecs,Nancy Freehafer,Non Assigné,2006-03-24 00:00:00,,Excel_Orders,Non Livré
+45,Company BB,Amritansh Raghav,Nancy Freehafer,Non Assigné,2006-04-07 00:00:00,2006-04-07,Excel_Orders,Livré
+46,Company I,Sven Mortensen,Robert Zare,Non Assigné,2006-04-05 00:00:00,2006-04-05,Excel_Orders,Livré
+47,Company F,Francisco Pérez-Olaeta,Michael Neipper,Non Assigné,2006-04-08 00:00:00,2006-04-08,Excel_Orders,Livré
+48,Company H,Elizabeth Andersen,Mariya Sergienko,Non Assigné,2006-04-05 00:00:00,2006-04-05,Excel_Orders,Livré
+50,Company Y,John Rodman,Anne Hellung-Larsen,Non Assigné,2006-04-05 00:00:00,2006-04-05,Excel_Orders,Livré
+51,Company Z,Run Liu,Anne Hellung-Larsen,Non Assigné,2006-04-05 00:00:00,2006-04-05,Excel_Orders,Livré
+55,Company CC,Soo Jung Lee,Nancy Freehafer,Non Assigné,2006-04-05 00:00:00,2006-04-05,Excel_Orders,Livré
+56,Company F,Francisco Pérez-Olaeta,Andrew Cencini,Non Assigné,2006-04-03 00:00:00,2006-04-03,Excel_Orders,Livré
+57,Company AA,Karen Toh,Anne Hellung-Larsen,Non Assigné,2006-04-22 00:00:00,2006-04-22,Excel_Orders,Livré
+58,Company D,Christina Lee,Jan Kotas,Non Assigné,2006-04-22 00:00:00,2006-04-22,Excel_Orders,Livré
+59,Company L,John Edwards,Mariya Sergienko,Non Assigné,2006-04-22 00:00:00,2006-04-22,Excel_Orders,Livré
+60,Company H,Elizabeth Andersen,Michael Neipper,Non Assigné,2006-04-30 00:00:00,2006-04-30,Excel_Orders,Livré
+61,Company D,Christina Lee,Anne Hellung-Larsen,Non Assigné,2006-04-07 00:00:00,2006-04-07,Excel_Orders,Livré
+62,Company CC,Soo Jung Lee,Jan Kotas,Non Assigné,2006-04-12 00:00:00,2006-04-12,Excel_Orders,Livré
+63,Company C,Thomas Axen,Mariya Sergienko,Non Assigné,2006-04-25 00:00:00,2006-04-25,Excel_Orders,Livré
+64,Company F,Francisco Pérez-Olaeta,Laura Giussani,Non Assigné,2006-05-09 00:00:00,2006-05-09,Excel_Orders,Livré
+65,Company BB,Amritansh Raghav,Anne Hellung-Larsen,Non Assigné,2006-05-11 00:00:00,2006-05-11,Excel_Orders,Livré
+66,Company H,Elizabeth Andersen,Jan Kotas,Non Assigné,2006-05-24 00:00:00,2006-05-24,Excel_Orders,Livré
+67,Company J,Roland Wacker,Mariya Sergienko,Non Assigné,2006-05-24 00:00:00,2006-05-24,Excel_Orders,Livré
+68,Company G,Ming-Yang Xie,Nancy Freehafer,Non Assigné,2006-05-24 00:00:00,,Excel_Orders,Non Livré
+69,Company J,Roland Wacker,Nancy Freehafer,Non Assigné,2006-05-24 00:00:00,,Excel_Orders,Non Livré
+70,Company K,Peter Krschne,Nancy Freehafer,Non Assigné,2006-05-24 00:00:00,,Excel_Orders,Non Livré
+71,Company A,Anna Bedecs,Nancy Freehafer,Non Assigné,2006-05-24 00:00:00,,Excel_Orders,Non Livré
+72,Company BB,Amritansh Raghav,Nancy Freehafer,Non Assigné,2006-06-07 00:00:00,2006-06-07,Excel_Orders,Livré
+73,Company I,Sven Mortensen,Robert Zare,Non Assigné,2006-06-05 00:00:00,2006-06-05,Excel_Orders,Livré
+74,Company F,Francisco Pérez-Olaeta,Michael Neipper,Non Assigné,2006-06-08 00:00:00,2006-06-08,Excel_Orders,Livré
+75,Company H,Elizabeth Andersen,Mariya Sergienko,Non Assigné,2006-06-05 00:00:00,2006-06-05,Excel_Orders,Livré
+76,Company Y,John Rodman,Anne Hellung-Larsen,Non Assigné,2006-06-05 00:00:00,2006-06-05,Excel_Orders,Livré
+77,Company Z,Run Liu,Anne Hellung-Larsen,Non Assigné,2006-06-05 00:00:00,2006-06-05,Excel_Orders,Livré
+78,Company CC,Soo Jung Lee,Nancy Freehafer,Non Assigné,2006-06-05 00:00:00,2006-06-05,Excel_Orders,Livré
+79,Company F,Francisco Pérez-Olaeta,Andrew Cencini,Non Assigné,2006-06-23 00:00:00,2006-06-23,Excel_Orders,Livré
+80,Company D,Christina Lee,Andrew Cencini,Non Assigné,2006-04-25 17:03:55,,Excel_Orders,Non Livré
+81,Company C,Thomas Axen,Andrew Cencini,Non Assigné,2006-04-25 17:26:53,,Excel_Orders,Non Livré
