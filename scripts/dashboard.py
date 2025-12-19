@@ -3,9 +3,8 @@ import pandas as pd
 import plotly.express as px
 from datetime import date
 
-# ============================
-# 1. PAGE CONFIG (UX FIRST)
-# ============================
+# 1. PAGE CONFIG 
+
 st.set_page_config(
     page_title="Northwind BI Analytics",
     page_icon="📊",
@@ -13,9 +12,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# ============================
-# 2. DESIGN SYSTEM (UI/UX)
-# ============================
+
 st.markdown("""
 <style>
 /* Global */
@@ -58,10 +55,7 @@ section[data-testid="stSidebar"] {
 }
 </style>
 """, unsafe_allow_html=True)
-
-# ============================
-# 3. LOAD DATA
-# ============================
+# 3. LOAD DATA 
 PROCESSED_FILE = "data/processed/Northwind_Final_Analytics.csv"
 
 @st.cache_data
@@ -77,9 +71,9 @@ except:
     st.error("❌ Impossible de charger les données.")
     st.stop()
 
-# ============================
-# 4. SIDEBAR – FILTRES CLAIRS
-# ============================
+
+# 4. SIDEBAR
+
 with st.sidebar:
     st.title(" Filtres")
 
@@ -97,27 +91,24 @@ with st.sidebar:
     selected_status = st.selectbox(" Statut de livraison", status_list)
 
    
-# ============================
-# 5. APPLY FILTERS
-# ============================
+
 mask = (df['OrderDate'].dt.date >= date_range[0]) & (df['OrderDate'].dt.date <= date_range[1])
 if selected_status != 'Tous':
     mask &= df['Statut'] == selected_status
 
 df_filtered = df.loc[mask]
 
-# ============================
+
 # 6. HEADER
-# ============================
+
 st.markdown("<div class='main-title'>Northwind Business Intelligence</div>", unsafe_allow_html=True)
 st.markdown(
     f"<div class='subtitle'>Analyse des commandes du {date_range[0].strftime('%d/%m/%Y')} au {date_range[1].strftime('%d/%m/%Y')}</div>",
     unsafe_allow_html=True
 )
 
-# ============================
-# 7. KPI SECTION (HIGH VISUAL HIERARCHY)
-# ============================
+# 7. KPI SECTION 
+
 total_orders = len(df_filtered)
 livre_count = df_filtered[df_filtered['Statut'] == 'Livré'].shape[0]
 non_livre_count = total_orders - livre_count
@@ -179,11 +170,8 @@ with k4:
         mime="text/csv"
     )
 
-
-
-# ============================
 # 8. TABS – COGNITIVE LOAD REDUCTION
-# ============================
+
 tab1, tab2, tab3 = st.tabs([
     " Vue d'ensemble",
     " Clients & Employés",
@@ -273,9 +261,9 @@ with tab3:
     else:
         st.warning("Aucune donnée disponible")
 
-# ============================
+
 # 9. DATA TABLE (SECONDARY)
-# ============================
+
 with st.expander("📄 Afficher les données brutes"):
     st.dataframe(df_filtered, use_container_width=True)
 
